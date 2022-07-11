@@ -1,0 +1,363 @@
+Looking for a Mobile App Developer to finish an app that we are working on. Must know JavaScript AND React Native. The app is being built for Android.
+--------------------
+Hello
+
+If your answer, after reading this description and the attached file doesn't contain either questions or (non-engaging) work duration in days, i won't answer.
+
+Introduction
+Creation of a new mobileapp, starting from scratch. Must be available on bothAppStore and Play store. React Native or no-code tools are recommended, and may be discussed.
+
+Goal of theappThe goal of this new application is to provide an interface to be able to make an order by using the Lockers. A customer should be able to see the available lockers, select a locker, validate the order, login (or register) and pay the order
+
+Tools
+We recommend using a no-code approach or a React native one. The backend API is already developed and is working for our webapp. In case something is needed, we will be able to help anddevelopthe missing endpoint.
+
+https://www.figma.com/proto/OffMP64K0sZimuIDXWZZXO/5AS-services
+--------------------
+please visit askwakeel.pk
+
+The mobile application design needs to be for two business models. One is b2c and the other is b2b.
+
+Essentially a case management and question posting portal with a team of lawyers connected.
+--------------------
+Looking for flutter Expert 
+
+Build aandroidphone application 
+
+Loan Application 
+
+Minimum 3+ year experience required
+--------------------
+Developfeatures for an application that couples a smartwatch and a mobile phoneapp
+--------------------
+Hi there,
+
+I need a Flutterdeveloperto customize an existing VPNapp's design and add a small fucntion.
+
+What will I need:
+
+- To adapt my VPNappdesign (already done) to a VPNapptemplate from Codecanyon.
+- Add a new function for theapp, which is -- when user sees "x" amount of ads he will get "y" amount of time for premium VPN servers.
+
+Waiting for offers including ETA and total cost.
+
+Thanks!:)
+--------------------
+Scope:
+
+1.Developanalytical chart as per the design. 
+2. The chart has to be dynamic.
+3. Chart size and dimensions have to be relative to the design and screen.
+4. Assets will be provided upon agreement.
+5. The chart has to be developed whithin the React Native framework.
+6. The chart should function with all versions and screen sizes of iOS &Android.
+7. The chart will be integrated with React Redux RTK Query.
+
+Please examine the attached image of the chart and be prepared with adevelopmentstrategy to be explained during the job interview meeting.
+--------------------
+We have a ReactNativeappwhere the main functionality lies with a draggable list which incudes a left/right swipe functionality as well. We have used react-native-draggable-flatlist and react-native-swipeable-item to implement the functionality. Unfortunately, we get a lot of complaints that the scroll and drag functionality are slow and  broken (especially onAndroid). User Experience suffers.
+
+We are looking for someone who is well experienced with implementing similar functionality with RN and can fix and optimise our list implementation. We are also open to a complete re-write of the functionality as well as implementing it natively and bridging to it from RN.
+
+We will naturally share with you theappdetails and if needed source code. We can also work with you to define the new interface for the component. 
+
+The success of this project lies with providing our users with a excellent smooth experience!
+
+Looking forward to working with you. Hopefully, we can continue to work on more projects.
+--------------------
+We have a small web application (health and well-being related) for which we need a set of automatic "black-box" tests. Theappitself is developed in React Native with iOS as the main target platform.Androidis also supported, but is less important. The tests shall be automated using Selenium or a similar framework and run through basic application functionality. If your skills permit, also automated verification of the REST API endpoints can be developed. You will have access to the application and to the API documentation.
+--------------------
+We are looking for a talented Unreal Engine/VFX artist who can help us to fix VFX visual effects. It is working fine onAndroid, but not for iOS. If you can fix this issue, there will be long term opportunities. Willing to pay high for this issue, Need to start Immediately!
+--------------------
+I am looking for someone to build anappfrom scratch.
+--------------------
+I'm looking for someone can copy an exciting IPTV apk (only sample to show), theappinvolving live TV and movie, with device auth.
+--------------------
+I've developed andAndroidappthat I'd like you to port to Flutter/Dart and make sure that it works onAndroid/iOS/Windows tablets. 
+
+This is heapp: https://play.google.com/store/apps/details?id=com.b13.shapesandshades&hl=en_US&gl=US
+
+The logic for the different lessons might be a bit difficult, but the code is very clearly written so porting shouldn't be that hard. 
+
+Looking forward to your proposal!
+--------------------
+Seeking  talent todevelopa mobileappfor  an education lifestyle (additional information upon agreement) mobileapp. The application will require a payment method, user authentication, QR code, chat/communication capabilities, user profile creation, and vigorous testing for quality assurance. Nativeappand/or Hybrid experience a must. Ability toapptest to diagnose problems. Knowledge of visual design a plus. Ability to wireframe a must. UI,UX design ability a plus. Playstore and Appleappstore publishableapp.
+
+I need someone who communicates well and knows the questions about how to make this process work well that I may not know to ask. 
+The goal is to create a user friendly application including contact information and the possibility of allowing scheduling. This application is being designed to assist in bringing people together in cultural harmony.
+--------------------
+We have anappwe would like todevelop.
+
+Theappallows the user to take self-guided tours through different European cities.
+It works with the user's location to guide them through different landmarks in the city and launches audio recordings based on their location.
+It includes user registration, payment and reviews of the tours.
+
+Theappprototype is designed and approved.
+--------------------
+Looking for a programmer to help Build a Cross Browser Compatible ONLINE LearningAPPas well as an IOS/Androidapp.
+
+expected completion 4-8 weeks.  A small Team of Animation Graphics, Graphic Artist and YOU, the FULL STACK Programmer making this product sound, secure and stable using applications that are universal and stable.
+--------------------
+Xamarin form and mauideveloperXamarin form and mauideveloper
+--------------------
+Looking for someone who hasappdevelopmentexperience but also is familiar with blockchaindevelopment.
+
+We're planning on building mobile NFT trading tools
+--------------------
+Hi nativeappdevelopers(no agencies),
+
+We are looking for a talented nativeappdeveloperto help me out in maintaining, testing and updating ourapps. I am a senior software engineer myself and I'm looking for someone who would have a spare 8-10 hours available per week to help on thisdevelopment.
+
+Theappis a nativeappoffering an online marketplace for ordering from meal prep companies in the UK.
+
+I would be available for direct technical communication, code review and answering any questions. I'm looking for someone who has native iOS andAndroidexperience and who can work independently since the primary reason for this job is to free me up.
+
+I have a clear scope for the updates needed for the first month.  After that, we have a continuous list of updates and features we gradually want to introduce in theapp.
+
+Ourappsare available on both iOS andAndroidstores in UK. You can find them by searching "Marvin's Den" on the play store as well as the iOSAppStore.
+See https://marvinsden.com for details.
+
+Thanks,
+Abhi
+Marvin's Den
+--------------------
+I've bought a fluxstore licence to release a Multi Vendor MobileApp.
+I did the configuration thanks to Fluxbuilder but I'm looking for some expertise to release it intoAppStore and PlayStore and fix some features
+--------------------
+We are looking for a Taxi solution, which includes the Software on the Web platform and the Mobile software (IOS/ANDROID).
+! ATTENTION: We are looking for an existing platform, we are not looking for adeveloper!
+--------------------
+1. Work onandroidand iosappdevelopmentwith react-native.
+2.Appintegration with third-party services, debugging, testing, deployment & undertake documentation of the process.
+3. Any other technical challenges that come across in thedevelopmentphase.
+
+Note: We are looking for someone who is dedicated, disciplined, and previously built a full-fledgedapp.
+
+Skills: React-Native CLI (not expo), Node.js, Express.js, MongoDB, IOS,Android, code push, Firebase.
+--------------------
+Looking to build a mobileappto showcase data to clients in a creative way. Mock up draft ready.
+--------------------
+We need to complete an application in progress built on flutter. We need an inhousedeveloperto finish remaining tasks.
+--------------------
+blockchain-based mobile payment service.
+Our platform makes P2P and P2B payments straightforward and easy.
+We deliver the market convenience needed for global cross-border payments as we migrate to a crypto-based economy.
+Our platform promotes widespread cryptocurrency adoption while enhancing financial services by providing access to feeless and simple transfers, payments, swapping and staking via a unique mobileapp, as well as both physical and virtual Points of Service (POS), and global ATM machines.
+We are a cryptoappfor the people, by the people.
+
+Roles and Responsibilities
+You will be leading theAppdevelopmentof theapp, working with product, designers and project management
+You will be shipping the robustapptoAndroid/ iOS devices using a single codebase.
+You will be writing Dart that will be well structured for future use and upgrades.
+You will be sharing feedback and brainstorming ideas with teams to improve thedevelopmentprocess.
+Stay up to date with the latest technologies.
+
+Qualifications:
+2+ Years in flutterdevelopment/LeadingDevelopmentwith successfulappshipped to production.
+4+ years in softwaredevelopment;
+Experience with third-party libraries and APIs;
+Understanding of the Agiledevelopmentlife-cycle;
+Experience with code version control tools (Gitgub, bitbucket)
+Experience withDevelopmentmanagement tools (likes of Jira)
+Ability to write readable code, create extensive documentation for existing code, and refactor the previously written code into readable state.
+--------------------
+We already have a Voipswitch  developed on Astericks and also FreeSwitch and we also have  IOS  andAndroidappsthat delivers Voip calling from any country. We experience Voip blockage in some countries eg UAE and Brazil etc. We need you to be able to use Kamailio to build or create a tunnel or add mediator server that will act like a proxy that will  bypass the voip blockages put by those countries . Thereby allowing voip calls to flow to and from our softswitch without loosing call quality or volume.  The solution must also mutate so that if the country notices our service and blocks ourappor IP. Your solution will mutate or change IP so that customers will always be able to make his or her international calls without blockages  All softswitch functions must work after deploying your voip antiblock solution. Note that you need to know how to achieve this solution using Kamailio
+--------------------
+Looking for a e commerceappdevelopershould have Good Experience inappdevelopment
+--------------------
+A mobile application which allows an operator to create an image via mobile camera and route to a mobile user for approval and task.  Mobile User also has mobile application which they receive created image and choose workflow task, task is returned to operator.  System tracks the scans and tasks for completion.
+
+Operator Tasks can be to open scan, recycle, or forward physical document captured by image.  When open scan is selected additional images are then routed back to mobile user.
+
+Mobile Application needs user profiles, memberships, and credit card processing.  Mobile application user profiles also have attached PDF documents which are compliance requirements by USPO,   
+
+Mobile users account creation is membership based, month to month, or yearly.  Charges for membership must be integrated to Stripe for membership payments and align to a membership plan.  A user account will have a status of created until the operator reviews and approves the account.  A profile must have a the following stored entities.
+
+Name
+email
+mobile phone
+CC Billing Address
+Forward Address for mail items
+DOB
+Drivers License or Govt issued ID image uploaded
+Completed USPO 1583 PDF Document uploaded
+Credit Card Payment on file
+--------------------
+Please share the most recentappyou have done and portfolio. More information will be provided in private after verifying quality of yourapp.
+--------------------
+Mobile to Mobile (Andriod & IOS)
+Mobile to PC
+PC to Mobile remote controlapp
+--------------------
+Needdeveloperfor my company. He should have a good knowledge of softwaredevelopmentfield. And good end user testing skill too.
+--------------------
+Hello,
+
+We will provide figma design of our mobileappwe want.
+
+BackEnd is under construction so you will have first to make all the website with the figma and after link the backend once the back is done.
+
+We want to work under contrat with real deadline and penalities we don't have time to waste for us and for you.Appmust work on IOS &ANDROID(all devices) and should be accepted onAppStore & GoogleStore.
+
+So we don't want outdated packages, we will be strict for everything!
+
+Will be around 55 pages (some are easy and some are complex)
+
+Thanks you
+--------------------
+Need a web andappdevelopercompany whodevelopfantasy gamingappbased on sports, stocks or other real time event. the web andappmay update with the increasing sizing of users.
+--------------------
+We are looking for a FlutterDeveloper(independent contractor) responsible for developing high performance and high-quality mobile applications forAndroidor iOS. You will also have to test applications and be involved in their deployment.
+--------------------
+I have an existingapp. I need a front enddeveloperto change the existing ui to a newer one. Driver and riderapp
+--------------------
+MobileAppand Frontend WebDeveloperLooking for an experienceddeveloperfor a 1-3 month project in a high growth Italian startup company. Must be experienced in mobileappdevelopment(React Native / Flutter) and frontend webdevelopment(Vue.js). Please note we are not creating a website/blog/etc.
+
+Required Experience
+- Experience creating frontend mobileappswith React Native / Flutter and Firebase 
+- Experience in webdevelopmentand design with Vue.js is a plus
+- UI, UX, interactivity and graphics design experience is a plus
+- Ability in making recommendations and suggestions according to prior experience
+- Prior experience with agile method/scrum is a plus
+- Prior experience with continuous integration is a plus
+- Experience with GIT source control
+- Italian speakers preferred
+
+The UX goal of our project is to make a beautiful, intuitive, and functional interface with the smoothest customer experience for the user.
+
+To be a best fit for this project you need:
+- Ability to communicate clearly
+- Dedication to meet project deadlines in a timely manner
+- Write “I am a human” at the top of your proposal
+- Attention to details
+- Willingness to sign an NDA
+
+If you are interested in this project, please reply with your prior experience.
+--------------------
+Hi All, I am looking for a MobileAppDeveloperwho is having very good experience with GPS technology, anyone who have already developed driver trackingappor vehicle trackingAPPshould contact me. Any fresher will not be entertained.
+--------------------
+1. TheAppwill act as their ecom businessApp- Snap a Pic and sell locally
+2. They can use it as their bankingappto be paid by QR code with funds held in an E-wallet with only an email or cell number . 
+3. They can also pay their bill and buy food and services from the same account on theirapp
+--------------------
+Looking for a mobileappdeveloper. Idea will be hared after hiring
+--------------------
+I want todevelopa display and night party application in order to promote the different night clubs, bars or restaurants of a city or a country.
+
+That is to say, for example, when a foreigner visits the country, in the application he can see all the hot plans or all the nightclubs available with their proposed evenings.
+--------------------
+Looking for adeveloperto build a program that can be either web-based or software-based with anappfor employees and customers.
+
+This program is for a small transportation business that is similar to a bus/limousine service. This software needs to accomplish the following (high-level):
+- Create and manage customer reservations.
+-Create and manage pricing based on zipcodes where a customer at origin and destination. Users should be able to make changes in a database.
+- Create a dispatch list for the driver with his assigned list of passengers
+- Create and maintain a database of customers for easy look-up 
+-Ability to connect to a VOIP phone and see customer information when they are calling real-time
+-Create anappfor drivers so they can see their dispatch list and communicate real-time to dispatch from the tablet
+-Appto organize passenger pick-up orders in the most efficient manner
+-Ability to track driver via theappusing table GPS
+- Send customer updates and reservation details via SMS / Whatsapp / Email
+-Software should be in Spanish and English
+-Software to have a dedicated admin page to view performance data such as reservations, cancelations, status, etc..
+-Dispatch and Driver should be able to see real-time if the passenger is confirmed 
+-Easy to use system
+-Customer-facingappor web application to create reservations and make edits and get updates
+--------------------
+We are looking for a Unity programmer to join our team. 
+
+To qualify, you must:
+• Have at least 4 years of experience programming in Unity 
+• Have delivered anappin the past to multiple devices (iOS/Android/Desktop) and understand the issues with each delivery platform
+• Have worked with GitHub and be able to get up and running quickly
+• Be a detail oriented
+• Have excellent written communication skills
+• Be reliable and easy to work with - A team player!
+• Write clean, well documented, extensible code
+• Have a positive attitude and willingness to find solutions to complex problems
+
+If you have blockchain and smart fox server experience, that is a plus.
+
+READ THIS BEFORE APPLYING
+You will be working with an existingdeveloperto orient on and begin to fix bugs on the existingapp. Once all major bugs are addressed you will switch to developing new features until theappis completed.  This is a large and complexapp.
+
+At the top of your application put the phrase "FIX IT" so we know you read the ad completely.
+--------------------
+Developmobileappas Hanger Station ……………….. need good application
+--------------------
+I'm looking for a location based marketingapp. 
+The idea is simple, theappshould be able to show notifications about promotions or discounts to customers located nearby an specific area, so both the store and the customer can benefit from that. 
+The store would pay for an ad to be published into theapp, so theappshould be able to collect information from debit or credit cards, the store owner should also be able to define the start, due date, pause and resume campaigns.
+We need both theAndroidand iOS versions and publishing theappin both stores, we also need a good lookingappto make it attractive to our customers
+You can check this website as a reference for what we need: https://yogobogo.com/
+--------------------
+Looking to put together a team of experienced React Nativedevelopersfordevelopmentand post-deployment maintenance of social mediaappsthat will deploy this March. Successful applicants willdevelop2 new social mediaappsfrom theappto be deployed in March. Deployment of these 2 newappsin the Appleappstore and Google Playstore will be required and applicants must be able to do this. 
+
+1.	Skilled in React Native
+2.	Deploy to theappstores (Apple andAndroid) without issues
+3.	Implement code structure that ensure quickappresponse
+4.	Utilize Bitbucket excellently well
+5.	Must have very good experience with firebase
+6.	Must have very good experience with BitBucket
+
+Applicants must be willing to sign an NDA.
+--------------------
+Hello! I am a serial e-commerce entrepreneur and am looking for adeveloper, or team ofdevelopers, to assist me with my next project and product(s). 
+
+Here is an example of a similar product and web application I want to build: https://buy.linqapp.com/collections/all-1/products/linq-card-1. Watch the video here to understand. 
+
+It is a business card that has a QR Code on it and NFC chip. When someone scans the QR Code, it takes them to a one page site that has the business card owners information (email, phone, etc.). 
+
+I need help in building the web portal and database for the business card owner to input their information when they get the card, which is then shown on a one page site. 
+
+Here is how the process works: 
+1. Customer places order for business card. 
+2. Customer receives the business card in the mail. They also receive a piece of paper that has a pin on it, which is linked to their unique QR code. They scan the QR code and input the pin. 
+3. This then takes them to a portal where they can input their information (name,email, etc.). Once they do that, they hit 'submit' and save their profile. That information is now processed and put onto a single page website, which is shown when you scan the custom QR code. When you reach out to me, please include the word digital. 
+
+I want to recreate a system exactly like this. 
+
+This is NOTdevelopmentfor a e-commerce website - that is being handled separately by another team - this is just the backend system and database. 
+
+
+Also, this is NOT a iOS orandroidinterface. It is a webapp. Here is a figma design file of the flow: https://www.figma.com/file/Uey3SDca1DnzzazsSftctx/Untitled?node-id=0%3A1
+
+I am open to using whitelisted solutions. 
+
+Please contact me if you are interested.
+--------------------
+- Raw PHP 5, 7, MySQL etc.
+- UX/UI, Angular, CSS3, HTML5, Javascript, Query, Bootstrap, Angular.js, React.js, and Vue.js.
+Java, Java Spring, Spring Boot, etc.
+-Node.js, Express, MongoDB
+- Python
+--------------------
+Build a play card game that works forandroidand ios
+--------------------
+Hello,
+We are looking for an Experienced Full-stackappdeveloperto work on an Educationalapp.
+The screens along with the prototype are ready in Figma and need to be developed. Theappwill be running on both platforms. If you are interested you can share your portfolio or work link and We will take it from there. Thanks.
+--------------------
+We have a requirement for a coder with expertise in creating a white labelapp.  The candidate should be capable of integrating all the features of our existingappin the white label version.  Ourappis MUVA and details of its operation can be found on our website, (link removed).   Additional work opportunity for the candidate depending on the quality of work.
+
+Key requirements:
+
+  Full StackdeveloperReactJS + ReactNative Javascript frontend
+  Typescript backend deployed on Firebase
+  Stripe/Sendgrid experience a plus
+  Must able to quickly pick up and integrate into complex business logic
+  MacOSdeveloperenvironment
+
+Initial projects:
+
+  Transforming our intake application into a white labelappwe can quickly tune and deploy for different moving companies.
+  Updating our backend Stripe API such that we can integrate bank transfers into our payment flow
+--------------------
+Need a Firebase/GA4 expert that understands how it works properly to be able to review our Firebase implementation and guide us on how we can collect and utilize device ID information.
+
+If you have Firebase experience please apply especially if you also have experience working with GA4 for mobile. Please do not apply if you do not have Firebase experience as this is a very specific project that pertains to Firebase. This does open opportunities to more work to be our Firebase expert. 
+
+Please send examples of work.
+
+Thanks!
+--------------------
