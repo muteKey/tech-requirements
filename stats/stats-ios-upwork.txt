@@ -1,0 +1,26 @@
+android:8
+ble:14
+# bloc:2
+c++:1
+charts:1
+combine:1
+firebase:1
+flutter:2
+git:5
+github:1
+in-app purchase:1
+java:3
+kotlin:2
+mvc:1
+mvp:1
+nfc:1
+objective-c:5
+parse:1
+python:1
+react:2
+react native:2
+stripe:1
+swift:8
+vision:1
+ios:19
+ios sdk:2

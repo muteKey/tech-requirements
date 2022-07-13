@@ -59,9 +59,7 @@ remote-first
 model, meaning we collaborate remotely from anywhere — either home, cafe, co-working space, or one of our offices. And although we are located across the globe, we stay connected with the help of technology and ensure that everyone on our team feels surrounded by teammates and engaged with our common goals.
 iDeals is an equal opportunity employer
 iDeals is made up of people from a wide variety of backgrounds and lifestyles. We embrace diversity and invite applications from people from all walks of life. We don’t discriminate against employees or applicants based on gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship.
-
------------------------
-Міжнародна IT компанія
+------------------------Міжнародна IT компанія
 JatApp шукає iOS Developer-а,
 який
 стане частиною команди нового продукту в ніші Books
@@ -103,9 +101,7 @@ JatApp шукає iOS Developer-а,
 Вільну від бюрократії культуру: питання вирішуються швидко, а нові ідеї та пропозиції завжди вітаються.
 Для нас дуже важливо з ким працювати та розвиватись, тому якщо ти хочеш впливати на продукт, любиш драйв та швидкість, тоді тобі у
 JatApp Dream team!
-
------------------------
-We are looking for
+------------------------We are looking for
 iOS Developer
 to join
 Vinnytsia office on a full-time basis.
@@ -132,9 +128,7 @@ Sport compensation/ English classes compensation (outside the office) up to 50%;
 Paid vacation of 20 working days;
 Paid 5 days of sick leave;
 Joint trip to the Carpathians in winter.
-
------------------------
-We’re currently looking for an iOS developer to enrich their skills and grow as part of a team creating mobile Apps that push the boundaries of digital innovation. We are building a Tickets app for the UK market, that allows you to do everything that you need to do with train and bus tickets.
+------------------------We’re currently looking for an iOS developer to enrich their skills and grow as part of a team creating mobile Apps that push the boundaries of digital innovation. We are building a Tickets app for the UK market, that allows you to do everything that you need to do with train and bus tickets.
 Requirements:
 ▪️ Significant experience with iOS Swift and Xcode.
 ▪️ A good broad mix of experience with different software tools.
@@ -170,9 +164,7 @@ We offer:
 ▪️ Adjustable height tables.
 ▪️ Regular office fruit delivery and other benefits.
 Let’s create value together!
-
------------------------
-The
+------------------------The
 CHI Software
 team is not standing still. We love our job and give it one hundred percent of us! Every new project is a challenge that we face successfully. The only thing that can stop us is... Wait, it’s nothing! The number of projects is growing, and with them, our team too. And now we need
 Intern iOS
@@ -197,9 +189,7 @@ Improve your soft skills:
 — Build strong teamwork skills and become an essential part of the dynamic teams;
 — Improve your English at classes and speaking directly with clients;
 — Increase your productivity and communication level via Scrum, Kanban, Agile methodologies.
-
------------------------
-Required skills
+------------------------Required skills
 — 5+ years of experience in software development
 — Experience in programming applications with Swift, Obj-C, C/C++
 — Ability to work with C/C++ SDKs
@@ -249,9 +239,7 @@ Follow our team on
 Instagram
 to know more about our daily life :)
 We adore making new friends on the board!
-
------------------------
-Mystery Tag — міжнародний видавець та розробник мобільних ігор, шукає у свою команду IOS developer в офіс, віддалено або на гібридний варіант.
+------------------------Mystery Tag — міжнародний видавець та розробник мобільних ігор, шукає у свою команду IOS developer в офіс, віддалено або на гібридний варіант.
 Основний функціонал посади:
 Підтримка iOS частини двох проектів;
 Підтримка пайплайна збірки ресурсів для iOS частини;
@@ -278,9 +266,7 @@ Mystery Tag — міжнародний видавець та розробник 
 Цікава робота над захоплюючими, перспективними ігровими проектами:
 Славяне: Ферма;
 Paris: City Adventure
-
------------------------
-We are looking for a person who is eager to participate in development of mobile application that is a part of distributed enterprise-scale solution.
+------------------------We are looking for a person who is eager to participate in development of mobile application that is a part of distributed enterprise-scale solution.
 We offer a fast-paced, collaborative, and agile environment. If you’re committed to the highest standards of excellence and want to learn from and collaborate with a big and experienced team, this is the position for you.
 Project description:
 The product is an iOS/iPadOS/macOS(Catalyst) application that provides a wide range of various services hosted locally in application or remotely in cloud.
@@ -299,9 +285,7 @@ We offer:
 — Free medical insurance coverage and health program
 — Paid sick leave
 — 24 fully paid vacation days
-
------------------------
-Devico is looking for a motivated and talented iOS Developer with commercial experience of at least 3 years to join to our team on a full-time basis.
+------------------------Devico is looking for a motivated and talented iOS Developer with commercial experience of at least 3 years to join to our team on a full-time basis.
 About project:
 An application that allows you to manage cryptocurrency. Application consists of several products providing users a modern user-friendly BTC wallet with various abilities like 2P2 payments, wallets in British Pounds, Buy/Sell bitcoin, Bitcoin cashback, OpenBanking payments.
 There are various additional features that simplify operations with cryptocurrency. The project is already in production. Customer is based in UK.
@@ -324,9 +308,7 @@ We offer:
 — Study and practice of English: courses and communication with colleagues;
 — Free English classes;
 — Team buildings.
-
------------------------
-Project:
+------------------------Project:
 OneReach.ai
 Apps delivers native feature-rich user experiences driven by bots across platforms.
 Required skills:
@@ -365,9 +347,7 @@ We make it easy for organizations of all shapes and sizes to leverage bots in mo
 Named twice by Gartner Research as a top conversational AI platform, we work well together and accomplish a lot,
 pushing the limits of what bots and AI can do!
 We’re looking forward to an opportunity to learn about you and what we could be accomplishing together!
-
------------------------
-Mandatory skills:
+------------------------Mandatory skills:
 — Experience with app development using iOS SDK, Xcode
 — 2+ years of commercial work
 — Swift or Objective-C
@@ -394,9 +374,7 @@ Nice-to-have skills:
 — Combine
 — Websockets
 — Experience in develop of macOS/tvOS/watchOS apps would be a plus
-
------------------------
-Наші очікування від кандидатів:
+------------------------Наші очікування від кандидатів:
 — впевнене знання Swift та Generics;
 — від
 2-х
@@ -423,9 +401,7 @@ Nice-to-have skills:
 — віддалений режим роботи;
 — роботу в соціально відповідальній компанії, що слідкує за трендами, цінує ідеї співробітників і розвивається разом з ними.
 Якщо вас приваблює нагода стати частиною продукту, яким користується приблизно кожен шостий українець (можливі навіть й саме ви та ваші друзі), ми будемо раді знайомству.
-
------------------------
-Mangosoft
+------------------------Mangosoft
 is a part of the one of leading European art production and game development studio —
 Kevuru Games
 , engaged in creating transformative entertainment projects for clients from all over the world.
@@ -462,9 +438,7 @@ We have delivered 250+ projects for clients across 30+countries, and have office
 You can always take a closer look at Mangosoft
 projects
 .
-
------------------------
-Ми — продуктова компанія
+------------------------Ми — продуктова компанія
 RIA.com
 .
 Розвиваємо технологічні продукти-лідери AUTO.RIA та DOM.RIA, якими користуються понад 10 млн українців.
@@ -517,9 +491,7 @@ RIA.com
 — гібридний формат роботи;
 — оплачувані відпустку та лікарняні.
 Якщо ти теж хочеш будувати перевірений інтернет й наша вакансія тобі відгукнулася — чекаємо на твоє резюме ;)
-
------------------------
-Our values:
+------------------------Our values:
 DIVERSITY, OPENNESS, TEAMWORK. We embrace our diversity, strive for open dialogue and constructive feedback, and this unites us and allows us to be an amazing team!
 Requirements
 Minimum 4 years of experience with iOS;
@@ -549,9 +521,7 @@ Up to 15 unused absence days can be add to income after 12 month of cooperation
 Udemy courses of your choice
 Regular soft-skills trainings
 Excellence Сenters meetups
-
------------------------
-Hello! We are looking for
+------------------------Hello! We are looking for
 a Middle/Middle Strong IOS Developer
 to join our IoT project. Full-time, Lviv/Ivano-Frankivsk or remote.
 About the project:
@@ -591,9 +561,7 @@ We offer:
  Free car & bicycle parking
  Corporate social activities
  Membership in IT Cluster
-
------------------------
-Jelvix is looking for an experienced iOS Developer for a long-term project. Kharkiv or remote
+------------------------Jelvix is looking for an experienced iOS Developer for a long-term project. Kharkiv or remote
 Requirements:
 — Swift (3+ year)
 — ARKit (1+)
@@ -624,9 +592,7 @@ We offer:
 — Reimbursement for sports or massage
 — Large library with a scheduled purchase of new books every half a year
 — Yearly Individual Development Plan (after the completion of the Adaptation Period)
-
------------------------
-At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture, and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+------------------------At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture, and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
 At EY we have ambitious plans to expand our Technology Consulting practice. With investment secured, we continue to build our Kyiv based practice. We need excellent people, across all grades, to join us and to be part of our exciting growth strategy. Interested and have what it takes to develop into a market leading expert in a fast evolving and exciting growth area to help clients develop their next generation digital transformation strategies, solutioning and product development?
 The opportunity
 We are currently seeking an experienced iOS and/or Android Developer to join our Technology Consulting practice in our Consulting Service Line, which is a leading provider of professional services to clients of all major industries. Working together, we help clients better assess and improve their operations, ensure sustainable business growth in the long term, increase shareholder value. You will build valued relationships with clients and other members of our team and focus on high-impact opportunities and projects to maximize your potential.
@@ -674,9 +640,7 @@ Transformative leadership: We’ll give you the insights, coaching and confidenc
 Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
 If you can demonstrate that you meet the criteria above, please contact us as soon as possible.
 The exceptional EY experience. It’s yours to build.
-
------------------------
-Clover Dynamics is looking for a passionate
+------------------------Clover Dynamics is looking for a passionate
 IOS Engineer
 for a long-term project to develop a financial app from scratch.
 Project — it is a financial app, Online banking like, to convert cryptocurrency into fiat. Users can buy a digital/ request a physical card using their cryptocurrency wallet. The app will work with the S1lk banking system, BinancePay and TrustPay (other is also applicable), and KYC procedure.
@@ -710,9 +674,7 @@ What we can offer:
 — Corporate events, team buildings, gifts, and more other benefits :)
 If you are interested in this vacancy — please, don’t hesitate and
 apply for it :)
-
------------------------
- Commercial iOS development experience: 3 years or more
+------------------------ Commercial iOS development experience: 3 years or more
  Experience with reactive programming (RxSwift / ReactiveCocoa)
  Good knowledge of Git, Git Flow
  Good knowledge of OOP/OOD
@@ -725,9 +687,7 @@ apply for it :)
  Experience with a dependency manager
  Must have: English Intermediate
  Must have: Understanding of iOS Human Interface Guidelines
-
------------------------
-Infopulse invites talented professionals to join our team as a
+------------------------Infopulse invites talented professionals to join our team as a
 Software Developer
 experienced in
 C++ and macOS
@@ -744,9 +704,7 @@ Fluent English language skills
 Will be an advantage
 Experience writing unit tests
 Familiarity with CI/CD practices
-
------------------------
-We are an R&D lab providing top-level consulting in
+------------------------We are an R&D lab providing top-level consulting in
 computer vision
 ,
 machine learning
@@ -789,9 +747,7 @@ What makes you special
 ❇️ Having an eye on UI/UX
 ❇️ CoreML familiarity, interest in AI applications
 ❇️ Striving to be a team leader
-
------------------------
-We are an American product company that develops a FORM platform to conduct inspections and surveys for our customers. We live in a digital age, where we want to provide top service to our internal and external customers.
+------------------------We are an American product company that develops a FORM platform to conduct inspections and surveys for our customers. We live in a digital age, where we want to provide top service to our internal and external customers.
 FORM is looking for a Senior IOS Developer to join our team and grow with the company.
 Requirements:
 5+ years of experience in mobile development;
@@ -822,9 +778,7 @@ Challenging and exciting work;
 Ability to work remotely;
 Social package including health insurance;
 Direct contract with US-based company.
-
------------------------
-AMO — міжнародна IT-компанія, яка створює продукти та історії для мільйонів користувачів. Маємо своє англомовне медіа, власний відеопродакшн та розробляємо додатки у сфері health & fitness. Ми вважаємо, що світ стане кращим, коли ми розкриємо свої суперсили. Тому AMO допомагає людям знаходити та розвивати їх. Це наша місія.
+------------------------AMO — міжнародна IT-компанія, яка створює продукти та історії для мільйонів користувачів. Маємо своє англомовне медіа, власний відеопродакшн та розробляємо додатки у сфері health & fitness. Ми вважаємо, що світ стане кращим, коли ми розкриємо свої суперсили. Тому AMO допомагає людям знаходити та розвивати їх. Це наша місія.
 Зараз в AMO Apps шукаємо iOS Software Engineer для наших health & fitness додатків.
 Ця вакансія саме для тебе, якщо ти хочеш:
 Писати нові модулі;
@@ -843,9 +797,7 @@ AMO — міжнародна IT-компанія, яка створює прод
 Глибокі знання Swift;
 Досвід у використанні REST API.
 Твоїм менеджером буде Дмитро, Lead iOS Developer and architect. Він займається iOS розробкою понад 10 років. В АМО Дмитру найбільше подобається колектив та підхід до роботи. Зараз в Дмитра 50% займає менеджмент, 50% — розробка. Він відповідає за технічні процеси в обох продуктах (Unimeal, MadMuscles).У ролі iOS Software Engineer хотів би бачити інженера в нашій команді, для якого розвиток продукту має значення, людину, яка пишатиметься тим, що результатами її праці користуються мільйони людей по всьому світу.
-
------------------------
-We are looking for a person, possessing:
+------------------------We are looking for a person, possessing:
 Proficient with Objective-C or Swift (depending on project requirements), and Cocoa Touch
 Experience with iOS frameworks such as Core Data, Core Animation, etc.
 Experience with offline storage, threading, and performance tuning
@@ -860,9 +812,7 @@ Familiarity with cloud message APIs and push notifications
 Knack for benchmarking and optimization
 Proficient understanding of code versioning tools (such as Git or SVN)
 Familiarity with continuous integration
-
------------------------
-Digis is looking for a mission-driven IOS engineer to join the healthcare project from Israel.
+------------------------Digis is looking for a mission-driven IOS engineer to join the healthcare project from Israel.
 About the project:
 Dario Health makes monitoring blood glucose easy thanks to the small size of its medical device. The Dario Blood Glucose Monitoring System combines the meter, lancet, and a pack of 25 test strips in a small unit that can fit in your pocket. This makes it easy to keep with you at home or on the go. With Dario, checking your blood glucose is quick, easy, and discreet, one drop at a time. It’s an all-in-one diabetes tracker.
 The mission is to make it easy for people to care for their health, with continuous and connected support that anticipates needs, understands motivation, and simplifies behavior change to put better health and outcomes in everyone’s reach.
@@ -875,7 +825,7 @@ Dario products are approved to sell in the United States, Canada, the United Kin
  Tech Stack: Objective-C & Swift
 Requirements:
  3+ years of work experience in building web-based and/or mobile applications;
- At least 1 year of experience with Swift;
+ At least 2 years of experience with Swift;
  At least 6 months of experience with Objective-C;
  Intermediate+ level of spoken English;
 Project advantages:
@@ -887,9 +837,7 @@ Project advantages:
  Working with a team, with mutual respect, support, and the motivation to achieve a common goal
  A democratized workplace culture
 If you fit the requirements above, please, don’t hesitate to apply and contact me for more details. I’m looking forward to your application!
-
------------------------
-We are NeoGames, a technology-driven innovator and a global leader of iLottery solutions and services to the national and state-regulated lotteries.
+------------------------We are NeoGames, a technology-driven innovator and a global leader of iLottery solutions and services to the national and state-regulated lotteries.
 We empower our customers to create the most successful iLottery programs. If you are a passionate, self-motivated Junior+ Mobile Developer who wants to take a part in our strategic native product — let us know!
 Required skills
 🔸 Understanding and practical knowledge in OOP
@@ -919,9 +867,7 @@ Our own platform covers various business areas including accounts management, pr
 How many interviews stages do we have? 🎲
 HR interview, Technical interview, Final interview
 All interviews will be conducted online.
-
------------------------
-CodeIT is a service product development company. We know how to transform business ideas into profitable IT products. We are inviting an experienced iOS Developer to join our team and work on a permanent basis at one of ours international projects.
+------------------------CodeIT is a service product development company. We know how to transform business ideas into profitable IT products. We are inviting an experienced iOS Developer to join our team and work on a permanent basis at one of ours international projects.
 REQUIRED SKILLS:
 At least 2.5 years of experience in iOS Development
 Strong knowledge of iOS SDK, Swift
@@ -966,9 +912,7 @@ Recruiter, Irina Kuzmina
 Skype: live:30fbf3075846dea6
 Email:
 [email protected]
-
------------------------
-UAPAY
+------------------------UAPAY
 — сучасна ІТ компанія, котра впроваджує fintech рішення на ринку України не один рік. Ми постійно розвиваємося, тому в пошуках спеціалістів, які допоможуть нам в цьому).
 На разі нам не вистачає Middle Flutter Developer (Android, iOS) на проект мобільного банкінгу.
 Новий мобільний банк вже скоро! Перший, що допоможе заробляти, а не тільки витрачати. Проект реалізовує команда, за плечима якої всім відомі продукти українського fintech-ринку.
@@ -1005,9 +949,7 @@ MobX, Provider
 компенсацію 50% від вартості річних абонементів в зал
 соц. пакет (відпустка, лікарняні)
 і головне — команду, з якою ідеї стають реальністю)
-
------------------------
-We are looking for an engineer to join our development team. The team is busy developing a companion application for the mobile carrier in the USA. The product is in the planning stage. You will get an opportunity to work in a fresh mind team with an Agile approach and get access to cross-site communication, UX designers, and a dedicated PO.
+------------------------We are looking for an engineer to join our development team. The team is busy developing a companion application for the mobile carrier in the USA. The product is in the planning stage. You will get an opportunity to work in a fresh mind team with an Agile approach and get access to cross-site communication, UX designers, and a dedicated PO.
 Must have
 Experience 3+ years;
 Strong knowledge of Swift;
@@ -1035,9 +977,7 @@ Individual development plan and technical/soft training;
 Remote work or office(Lviv, Kharkiv)
 Unlimited access to LinkedIn courses;
 Medical insurance
-
------------------------
-We are looking for a self-driven
+------------------------We are looking for a self-driven
 IOS developer
 who is interested in modern technologies and ready to become one of the key team members in the mobile app development department of our client.
 Our client
@@ -1083,9 +1023,7 @@ participation in competence-enhancing events
 team building activities including ski trips, Beetroot Breakfast, online quests, and movie nights
 English lessons with native speakers
 Are you a good fit? Send us your CV in English. We are waiting to hear from you!
-
------------------------
-At the heart of Mind Studios is the concept of turning ideas into working businesses, which makes us trusted partners. Due to the steady inflow of
+------------------------At the heart of Mind Studios is the concept of turning ideas into working businesses, which makes us trusted partners. Due to the steady inflow of
 2-3
 new projects a month from the US, Europe, Asia, Australia, we’re growing. If you share our mindful approach, we can offer you dream work.
 What we offer:
@@ -1118,26 +1056,36 @@ Next knowledge would be beneficial:
 — Understanding of CI / CD related tools (GitLab CI / Fastlane).
 — Knowledge of Redux principles.
 — Experience CoreData/Realm.
-
------------------------
-Our
-client
-is one of Azerbaijan's leading mobile telecommunication providers, with the most significant 49% market share and 5.0 million customers. Together with N-iX, our customer plans to improve his Telco Platform Solution by moving from the cross-platform to native development. The existing Telco application has more than 1M downloads on the market.
-Tech stack:
-UIKit, Networking (UrlSession, Alomofire (plus)), Programatically UI design, Storyboard, GCD, MVVM, MVC, RXSwift, Unit&UI testing, Memory Management (ARC), Clean Architecture, SwiftUI, Combine, Git
+------------------------About the Client:
+Our client, is one of Europe's fastest growing mobile companies with over five million active customers, 1,000 employees worldwide and operations in multiple countries. The client is using the mobile virtual network operator business model. As one of their core services, they provide “Pay As You Go” mobile SIM cards, targeted towards the needs of international communities and migrant workers. Lebara operates in UK, Netherlands, France, Germany, Denmark, Spain.
 Responsibilities:
-Cooperation with the team in order to research, design, implement and maintain a high-quality software system to meet internal/external client’s requirements
-The successful candidate should possess the following
-knowledge
-:
-Good knowledge of Swift programming
-3-4+
-years of experience in the development of mobile applications
-Experience with leading a technical team is a bonus
-Knowledgeable about architecture and design patterns
-Worked on and shipped large-scale iOS applications
-Great product sense — you care about usability and good design
-Has worked collaboratively with product owners and other engineering teams to build complex products
+Review requirements, specifications, and technical design documents to provide meaningful feedback
+Close communication with business representatives to verify requirements and agree on details
+Lead demo meetings to show new functionality and gather feedback
+Create detailed, comprehensive, and well-structured test cases
+Investigate product quality in order to make improvements to achieve better customer satisfaction
+Estimate testing activities
+Execute manual testing on mobile apps (Android and iOS “MyLebara” app)
+Identify, record, document thoroughly, and track bugs
+Develop and apply testing processes to meet client needs
+Connect with internal teams (e.g. developers and product managers) to identify system requirements
+Stay up-to-date with new testing tools and test strategies
+Requirements:
+2+ years experience in software quality assurance
+Prior experience testing on mobile devices including iOS and Android
+Intermediate English
+Strong knowledge of software QA methodologies, tools, and processes
+Experience in writing clear, concise, and comprehensive test cases
+A strong focus on process and a desire to work with remote teams
+Performed different types of testing — functional, UI, usability, smoke, regression, etc.
+Skilled in creation and maintenance of QA documentation — test results and bug reports
+Understanding of client-server application structure and experience in API testing
+Experience in Scrum framework
+Good written and verbal communication skills
+Team player and fast learner
+Nice to have:
+Experience using Android / iOS test automation tools would be a plus
+Knowledge of API testing & debugging tools (Charles, Postman) would be a plus
 We offer:
 Flexible working format — remote, office-based or flexible
 A competitive salary and good compensation package
@@ -1154,9 +1102,7 @@ REFER A FRIEND,
 GET A BONUS
 Do you have a talented, smart, and tech-savvy friend? Tell them about N-iX, help them find their dream job, and receive a pleasant bonus as a thank you.
 GET A BONUS
-
------------------------
-N-iX
+------------------------N-iX
 is looking for a perspective and ambitious
 Senior iOS Engineer
 to join our team.
@@ -1188,9 +1134,7 @@ REFER A FRIEND,
 GET A BONUS
 Do you have a talented, smart, and tech-savvy friend? Tell them about N-iX, help them find their dream job, and receive a pleasant bonus as a thank you.
 GET A BONUS
-
------------------------
-Our client is one of Azerbaijan's leading mobile telecommunication providers, with the most significant 49% market share and 5.0 million customers. Together with N-iX, our customer plans to develop a Financial Payment Technology Platform Solution that allows B2C interactions for its impressive customer base, which includes 99.8% of Azerbaijan's population.
+------------------------Our client is one of Azerbaijan's leading mobile telecommunication providers, with the most significant 49% market share and 5.0 million customers. Together with N-iX, our customer plans to develop a Financial Payment Technology Platform Solution that allows B2C interactions for its impressive customer base, which includes 99.8% of Azerbaijan's population.
 Responsibilities:
 Cooperation with the team in order to research, design, implement and maintain a high-quality software system using Flutter technologies to meet internal/external client’s requirements
 Requirements:
@@ -1222,9 +1166,7 @@ REFER A FRIEND,
 GET A BONUS
 Do you have a talented, smart, and tech-savvy friend? Tell them about N-iX, help them find their dream job, and receive a pleasant bonus as a thank you.
 GET A BONUS
-
------------------------
-Привіт! Знайомся з
+------------------------Привіт! Знайомся з
 Дімою Шульженко
 , Mobile Lead в компанії
 Headway
@@ -1270,9 +1212,7 @@ Solid
 — Можливість розвиватися як в технічному напрямку до Senior, TechLead, Architect, так в менеджерському. Проєкт зростає дуже швидко — х2 з початку року, хтось має очолити розробку наших нових продуктів, чому ж не ти?
 — Великий простір для втілення власних ідей та впливу на продукт.
 Зацікавило? Тоді надсилай своє резюме!
-
------------------------
-Mystery Tag — міжнародний видавець та розробник мобільних ігор, шукає у свою команду IOS developer в офіс, віддалено або на гібридний варіант.
+------------------------Mystery Tag — міжнародний видавець та розробник мобільних ігор, шукає у свою команду IOS developer в офіс, віддалено або на гібридний варіант.
 Основний функціонал посади:
 Підтримка iOS частини двох проектів;
 Підтримка пайплайна збірки ресурсів для iOS частини;
@@ -1297,9 +1237,7 @@ Mystery Tag — міжнародний видавець та розробник 
 Можливість вибирати формат зайнятості — готові до будь-якого формату співпраці: офіс, віддалено або гібридний варіант;
 Графік роботи: з 9.00 до 18.00, пн-пт;
 Відпустка 24 календарних дні, оплачуваний лікарняний.
-
------------------------
-Life with Quantum is more than just project delivery. See for yourself.
+------------------------Life with Quantum is more than just project delivery. See for yourself.
 Quantum is a data analytics and software engineering company with an international presence and R&D center. We are looking for progressive solutions to real problems, leaving the comfort zone. This allows us to remain the leaders of the Big Data market.
 You will be a part of the company and surrounded by experts who are ready to move forward professionally.
 About the project
@@ -1343,9 +1281,7 @@ working day and
 working week;
 Opportunity to take part in conferences, meetups, etc. (fully or partially paid by the company);
 Regular company events.
-
------------------------
-✨✨✨Вітання!✨✨✨
+------------------------✨✨✨Вітання!✨✨✨
 Нумо знайомитися? :)
 Ми — продуктова команда
 Boosters
@@ -1396,9 +1332,7 @@ RiseSpace
 — Компенсація додаткового навчання на зовнішніх тренінгах і семінарах та Business і Management School для співробітників;
 — Велика електронна бібліотека та доступ до платних онлайн-курсів і конференцій, внутрішні бесіди і воркшопи, курси англійської.
 Залишай своє резюме і приєднуйся до Boosters!
-
------------------------
-Skelia
+------------------------Skelia
 invites a talented
 Senior
 iOS Developer
@@ -1441,9 +1375,7 @@ Receive support with all documentation needed for relocation
 Obtain transport, logistics, and onboarding assistance
 Get accommodation support
 In your resume please allow our company to use your personal data.
-
------------------------
-✈️✈️✈️✈️Product company in the aviation domain looking for an iOS Developer (Objective-C) :)✈️✈️✈️
+------------------------✈️Product company in the aviation domain looking for an iOS Developer (Objective-C) :)✈️
 Join our aviation world :) Let`s do incredible things together. ✈️
 We are looking for an experienced professional who knows how to apply theory and put it into practice with in-depth understanding of the professional field; independently performs the full range of responsibilities within the function; possesses broad job knowledge; analyzes problems/issues of diverse scope and determines solutions; improves, changes and adapts existing methods and technologies.
 Can be a mentor for other staff and be in charge of the selected areas / projects.
@@ -1476,23 +1408,23 @@ Cooperation and consulting members of all teams, including assistance to testers
 Consult with manuals, periodicals and technical reports to learn new ways to develop programs and maintain existing skills and knowledge;
 Research and recommend software tools to management;
 Create application builds for reviews and releases.
-
------------------------
-Задачи:
+------------------------Задачи:
 разработка приложения нового fintech-продукта.
 Необходимый опыт:
-опыт в iOS разработке
-2+ года опыта с Swift
-знание: HTTP, XML, JSON, CoreLocation, MapKit, SQLite, Xcode, UIKit
+опыт от 3 лет на позиции iOS Developer;
+опыт работы над полным жизненным циклом мобильной разработки, включая дизайн, разработку и публикацию на AppStore;
+уверенные знания Swift и iOS SDK;
+понимание многопоточности;
+опыт работы с REST API;
+опыт в построении клиент-серверной архитектуры приложений;
+опыт работы в написание Unit тестов;
 Несколько доводов, почему почему с нами хорошо работать.
 Программа опционов
 . Fintech Farm планирует серию раундов инвестиций и должна стать через несколько лет 🦄 единорогом. У нас работает программа оционов, так что вы будете совладельцем компании.
 Корпоративная культура
 верховенства здравого смысла, а не инструкций. Например, мы не регламентируем количество дней, отведенных на задачи и отдых.
 Выполнять поставленные задачи можно из любой точки мира. Лишь бы эффективно.
-
------------------------
-We are seeking a Senior iOS Software Engineer to join the Software and Network Technology group, a highly experienced and rapidly growing team of technologists and software engineers that are creating technologies and products that will be part of the future of the broadband industry. We are seeking a highly experienced self-driven individual with deep experience in mobile app development and deployment. In this role, you will contribute to solutions with a high degree of complexity, and you will lead the development of mobile apps that will forever change the way users experience mobile and fixed networks. You will support real-world deployments and interact with customers from all around the world. You will be exposed to cutting-edge technologies, collaborate with teams of world class technologists and grow your network and base knowledge.
+------------------------We are seeking a Senior iOS Software Engineer to join the Software and Network Technology group, a highly experienced and rapidly growing team of technologists and software engineers that are creating technologies and products that will be part of the future of the broadband industry. We are seeking a highly experienced self-driven individual with deep experience in mobile app development and deployment. In this role, you will contribute to solutions with a high degree of complexity, and you will lead the development of mobile apps that will forever change the way users experience mobile and fixed networks. You will support real-world deployments and interact with customers from all around the world. You will be exposed to cutting-edge technologies, collaborate with teams of world class technologists and grow your network and base knowledge.
 Team:
 4 Software Engineers, Lead Engineer
 Requirements:
@@ -1537,9 +1469,7 @@ Technical equipment: laptop, mouse, keyboard, monitor, chair;
 Internal Referral program;
 Opportunity to take part in company volunteering activities;
 Technical community events.
-
------------------------
-Good knowledge of:
+------------------------Good knowledge of:
 — OOP, SOLID, Design Patterns, Architectural Patterns (MVC, MVVM + Coordinator);
 — Swift 5+;
 — Code autolayout (No storyboards and xib files in project);
@@ -1547,9 +1477,7 @@ Good knowledge of:
 — CoreData, Memory management, ARC;
 — Unit tests
 — B2 English or upper.
-
------------------------
-Become an iOS Senior Developer on one of the global projects we’re developing right now! You will use cutting-edge technologies and AI techniques such as deep learning to deliver powerful discoveries to our 100 million users. This application is a global platform that unites millions of people around the world and preserves family stories.
+------------------------Become an iOS Senior Developer on one of the global projects we’re developing right now! You will use cutting-edge technologies and AI techniques such as deep learning to deliver powerful discoveries to our 100 million users. This application is a global platform that unites millions of people around the world and preserves family stories.
 Here’s the experience that will help you to do the job:
 3+ years of object-oriented software development experience.
 3+ years building iOS applications based on Swift/Objective C.
@@ -1572,9 +1500,7 @@ the best networking opportunities with international clients
 knowledge-sharing atmosphere
 We expect our future colleagues to have a strong technical background and take an active part in the development of a world-class product by proposing the best possible solutions. If it’s about you, please, send your CV to
 [email protected]
-
------------------------
-We are looking for an excellent Mobile Developer, to join the best of breed framework Development Team. You will be working in a fast-paced and super fun environment while having a direct impact on the company’s success.
+------------------------We are looking for an excellent Mobile Developer, to join the best of breed framework Development Team. You will be working in a fast-paced and super fun environment while having a direct impact on the company’s success.
 Requirements
 Previous working experience as a Mobile developer for 3+ years
 In-depth knowledge of programming languages Swift, Objective-C, Java, and Android
@@ -1604,9 +1530,7 @@ Tax compensation
 Full remote
 About the project
 Being founded in 2010 Crazy Labs is a worldwide leader in casual games development, distribution, and innovation, with over 5 billion downloads to date. The company focuses on 3 hugely popular lines of mobile games: hyper-casual games, lifestyle games, and licensing games. The headquarters are in Israel, with global offices in China, Macedonia, Bulgaria, and Germany.
-
------------------------
-MacPaw
+------------------------MacPaw
 is a software company with headquarters in Kyiv, Ukraine, that develops and distributes software for macOS and iOS. At MacPaw, we believe that technology and humans can reach their greatest potential together. Today, our products have more than 30 million users worldwide.
 MacPaw is proud to be Ukrainian. Support and development of Ukraine is a significant part of the company’s culture. MacPaw gathers open-minded people who support each other and aspire to change the world around us.
 CleanMyMac X
@@ -1653,9 +1577,7 @@ Cafe and fresh daily lunches
 There are plenty of yummy options for everybody. Heads up, you have to try our ricotta cakes. Seriously. They’re unbelievable.
 Join social initiatives with MacPawCares
 MacPaw is involved in a whole range of charity projects, and you are welcome to jump in and spend up to four work days per year making the world a better place.
-
------------------------
-MacPaw
+------------------------MacPaw
 is a software company with headquarters in Kyiv, Ukraine, that develops and distributes software for macOS and iOS. At MacPaw, we believe that technology and humans can reach their greatest potential together. Today, our products have more than 30 million users worldwide.
 MacPaw is proud to be Ukrainian. Support and development of Ukraine is a significant part of the company’s culture. MacPaw gathers open-minded people who support each other and aspire to change the world around us.
 Successful candidates must be passionate about software architecture and system design, caring not only about user experience but also optimisations required to deliver great experiences.
@@ -1698,9 +1620,7 @@ Cafe and fresh daily lunches
 There are plenty of yummy options for everybody. Heads up, you have to try our ricotta cakes. Seriously. They’re unbelievable.
 Join social initiatives with MacPawCares
 MacPaw is involved in a whole range of charity projects, and you are welcome to jump in and spend up to four work days per year making the world a better place.
-
------------------------
-We’re looking for a iOS developer with 3 and more years of experience, with deep knowledge of Swift programming, the iOS SDK, and is open to exploring new technologies and techniques as the platform evolves. As an iOS developer you’ll work on one of the UK’s leading video-on-demand apps.
+------------------------We’re looking for a iOS developer with 3 and more years of experience, with deep knowledge of Swift programming, the iOS SDK, and is open to exploring new technologies and techniques as the platform evolves. As an iOS developer you’ll work on one of the UK’s leading video-on-demand apps.
 A successful candidate will enjoy working as part of a team continuously improving a complex application, however will also be comfortable owning a piece of work and ensuring its successful delivery.
 REQUIREMENTS
 Strong understanding of Swift
@@ -1733,9 +1653,7 @@ Laptop purchase program
 Home office equipment program
 English lessons!
 Trips to the UK!
-
------------------------
-Lemberg Solutions is, above all, a group of passionate professionals led by a core team that has been meticulously selected over the last 15 years. We are based in Lviv, Rivne, and Lutsk, and have a business representative in Hamburg, Germany.
+------------------------Lemberg Solutions is, above all, a group of passionate professionals led by a core team that has been meticulously selected over the last 15 years. We are based in Lviv, Rivne, and Lutsk, and have a business representative in Hamburg, Germany.
 At LS, people come first. We know that our success is based on our people’s achievements. Each and every one of our 160 team members is highly valued for their hard work, and we’re always excited to welcome new specialists ready to embrace challenges with us.
 Necessary skills and qualifications
 At least 3 years of iOS development experience
@@ -1780,18 +1698,14 @@ Team building & industry events
 About the projects
 Medical healthcare device for self-contained real-time COVID-19 testing which provides you with a 97.8% accurate test result for various and emerging COVID-19 variants, all conveniently displayed on your phone. Together with Google Cloud, the company can combine immediate and connected lab-quality diagnostics with the power of genome sequencing and AI-enabled predictive capabilities to develop a new kind of tool for public health.
 A well-funded Singapore-based consumer IoT startup develops smart coffee machines for users primarily in Europe and the USA. The device is a Nespresso-like machine with coffee capsules that include blends by roasters from various parts of the world. Users can enjoy their coffee brewed according to original recipes with a push of a button.
-
------------------------
-•	5+ years experience in native app development with Swift and Objective-C
+------------------------•	5+ years experience in native app development with Swift and Objective-C
 •	Experience with the implementation of REST APIs
 •	Knowledge of multiple architectures
 •	Experience with Object-oriented programming (OOP) and Protocol-oriented programming (POP)
 •	Understand how to write tests
 •	Excellent collaboration skills
 •	Good English
-
------------------------
-ABOUT THE CLIENT:
+------------------------ABOUT THE CLIENT:
 Our client is a leading global supplier of high-quality products for the modern kitchen-living room based in Germany. For over 285 years, our client has offered premium products that enhance the lives of professional and home chefs worldwide. Since its start as an esteemed cutlery brand, the company has grown to include a coveted collection of cookware, flatware, glassware, and kitchen gadgets. Tradition, quality, innovation, and craftsmanship are their ingredients for success.
 Today, Our client is an international industry leader that sells products in 100 countries. As a company and the employer, our client is characterized by strong innovative strength, entrepreneurial foresight, global work, and respectful interaction with one another. Outstanding quality, excellent design, and exceptional durability — are the demands of their products.
 PROJECT DETAILS:
@@ -1825,9 +1739,7 @@ Experience with functional / reactive programming (RxSwift / Reactive Cocoa / Co
 Experience with VIPER and MVVM
 Design patterns
 Problem solver, not a creator
-
------------------------
-About project
+------------------------About project
 Bezel is the first technology company dedicated to high-end watches, building a 100% authenticated marketplace that delivers trust at scale. We are rethinking the entire watch buying experience from browsing & transacting to tracking the market. We’re a team of collectors, enthusiasts, and technologists disrupting the $20B secondary watch market.
 Tech stack
 Swift, iOS framework — for mobile;
@@ -1861,9 +1773,7 @@ Beautiful offices in the best locations with high-end amenities
 Tight-knit team with an inclusive and transparent culture
 Only the latest, modern technologies with no legacy code and management bureaucracy
 Above average salary, benefits & medical insurance
-
------------------------
-Required skills
+------------------------Required skills
 — 5+ years of experience in software development
 — Deep understanding of the iOS platform
 — Solid experience with Swift and SwiftUI
@@ -1914,9 +1824,7 @@ Follow our team on
 Instagram
 to know more about our daily life :)
 We adore making new friends on the board!
-
------------------------
-UAPP is looking for a Mobile App Developer!
+------------------------UAPP is looking for a Mobile App Developer!
 What we need:
 — 1+ years experience in IOS/Android;
 — strong Swift, Kotlin/Java knowledge;
@@ -1962,9 +1870,7 @@ We are a complete service provider offering flexible engagement models that suit
 WE ARE RELIABLE PARTNERS
 At UAPP we believe in forming a true partnership with our clients to help them resolve their complex business problems with elegant and efficient solutions. We believe in having clear communications with our clients as well as quality deliverables. Our partnership extends in such a way that we help our clients achieve their goals more efficiently and as a result, establish a relationship of mutual trust.
 Combining the experience we aim to create an effective and reliable partner for your business!
-
------------------------
-ABOUT US:
+------------------------ABOUT US:
 BetterMe
 is a leading Health&Fitness publisher in the world with over 100 million installs (iOS+Android). We have 7.5 million followers on our social media platforms — more than any other competitor has. This all became possible through a team of world-class talented professionals in composition 200+ people in Kyiv. We’re one of the largest partners of Facebook / Google / Snapchat / Twitter from CEE.
 Our mission is creating happiness within
@@ -1991,9 +1897,7 @@ Health&Fitness.
 We provide employees with 20 days of paid vacation, medical insurance and a variety of sports activities available for employees inside and outside the office.
 Rest.
 We organize team buildings, parties and various team activities to boost our collaboration.
-
------------------------
-Project:
+------------------------Project:
 OneReach.ai
 Apps that delivers native feature-rich user experience driven by bots across the platforms.
 Required skills:
@@ -2030,9 +1934,7 @@ We make it easy for organizations of all shapes and sizes to leverage bots in mo
 Named twice by Gartner Research as a top conversational AI platform, we work well together and accomplish a lot,
 pushing the limits of what bots and AI can do!
 We’re looking forward to an opportunity to learn about you and what we could be accomplishing together!
-
------------------------
-At Lyft, our mission is to improve people’s lives with the world’s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+------------------------At Lyft, our mission is to improve people’s lives with the world’s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
 To perform Lyft’s mission of creating the real-time transportation network of the future, Lyft needs engineers from a scope of disciplines. We need engineers to create delightful and intuitive frontend UX for bikes, scooters, and transit passengers, to help us intelligently scale our backend infrastructure, to provide actual real-time time and pricing information to all users, to improve our build tools, to increase the efficiency of our customer service team, and more.
 As an engineer at Lyft, you’ll collaborate with different teams like the product, data science, analytics, and operations on code that empower us to iterate quickly, while focusing on delighting our customers.
 Responsibilities
@@ -2056,9 +1958,7 @@ Experience
 — Great product sense — you care about usability and good design
 — Has worked collaboratively with product managers, designers, and other engineering teams to build complex products
 — Strong communication skills and proficiency in English
-
------------------------
-We are seeking a talented and driven individual to join as a Senior iOS Developer. Join the mission to make financial services accessible and improve the lives of millions of people in Africa and emerging markets.
+------------------------We are seeking a talented and driven individual to join as a Senior iOS Developer. Join the mission to make financial services accessible and improve the lives of millions of people in Africa and emerging markets.
 Responsibilities
 Work closely with our Product, Data Science, UI/UX teams to build products, from the ground up, that our customers would love to use daily
 Design, architect, and build performant, reliable, high-quality iOS apps. Provide significant engineering contribution and out-of-the-box problem-solving
@@ -2078,9 +1978,7 @@ Full remote
 About the project
 Our client is a fintech startup and financial institution operating in emerging markets. They use the latest technologies and ML methods to provide consumers with an easy way to receive short-term loans.
 The company provides a completely automated financial data-driven approach for people in underserved markets (Ghana).
-
------------------------
-— 4+ years of experience as a professional mobile developer using Swift programming language;
+------------------------— 4+ years of experience as a professional mobile developer using Swift programming language;
 — A track record of successfully delivering projects using best programming patterns such as OOP, SOLID;
 — Comprehensive and in-depth knowledge in basic architectural patterns (Сlean Аrchitecture, MVVM);
 — Comfortable working with Carthage;
@@ -2103,9 +2001,7 @@ Personal Characteristics:
 — Non-hierarchical and ego-free;
 — Communicates rapidly, openly, inclusively and efficiently;
 — Structured thought process and clear communication.
-
------------------------
-Grammarly is excited to offer a
+------------------------Grammarly is excited to offer a
 remote-first hybrid working model
 . Team members can work primarily remotely in the United States, Canada, Ukraine, Germany, Poland, and Portugal. Conditions permitting, teams will meet in person a few weeks every quarter at one of Grammarly’s hubs, currently in San Francisco, Kyiv, New York, Vancouver, and Berlin, or in a shared workspace in Krakow.
 The opportunity
@@ -2136,17 +2032,13 @@ Enjoys fast-paced delivery and a consistent feedback loop.
 Has experience developing desktop applications that work with Mac Internals (preferred, but not required).
 We encourage you to apply
 At Grammarly, we value our differences, and we encourage all—especially those whose identities are traditionally underrepresented in tech organizations—to apply. Grammarly is an equal opportunity company. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, criminal prosecution, judgment in a criminal case, or any other characteristic protected by law.
-
------------------------
-— 1+ year of commercial experience
+------------------------— 1+ year of commercial experience
 — Knowledge: iOS SDK, Swift
 — Xcode, OOP/OOD, HTTP, OAuth, JSON, REST, Unit tests
 — MVC/MVVM
 — Versioning tools (GitLab, GitHub, Bitbucket)
 — English — at least Intermediate level
-
------------------------
-Genesis
+------------------------Genesis
 is one of the largest IT companies in Ukraine with more than 1500 people in 9 countries, who create products for 200 million users monthly. We are the most high-loaded company in the country and one of the largest partner of Facebook, Google, Snapchat and Apple in the CEE region. Our team is one of the best high-tech teams in Eastern Europe.
 Flyer One Ventures
 — is a venture capital fund made by entrepreneurs with an unparalleled track record and practical experience in building large international digital businesses from Ukraine. We invest in seed-stage startups founded by exceptional founders from Central Eastern Europe. In addition to financial investment, we provide a wide range of practical support activities in business building and fundraising from the Investment Team.
@@ -2182,9 +2074,7 @@ What we offer:
  training and development from the first day and the entire period of work;
  an excellent team of like-minded people.
 Join us!
-
------------------------
-Here at
+------------------------Here at
 Welltech
 (ex-Amazing Apps) we create mobile applications for the Health & Fitness category. The company is currently in the world’s TOP3 (H&F) in terms of sales revenue
 Grow with us:
@@ -2268,9 +2158,7 @@ bit.ly/OMOio
 Candidate journey:
 ⭕️ Intro call ---- ⭕️ Interview ---- ⭕️ Final Interview
 As a part of our team, you’ll have the opportunity to develop and implement your own ideas, while helping make the world a better place!
-
------------------------
-Lift
+------------------------Lift
 is a Ukrainian startup that develops product in photo/video editing category. Our product operate primarily on Tier-1 markets, such as the USA, Great Britain, Canada, and Australia.
 Lift app is:
 ●
@@ -2322,9 +2210,7 @@ free Meals Every Day — our grandmother told us that food = love. We show lots 
 full Health Insurance — we provide fully paid health benefits for all our employees. Nobody gets sick on our watch;
 ●
 flexible Paid Vacation — take day-off whenever you need to live a balanced and fulfilling personal life. Fully-equipped perfect office space located close to Tarasa Shevchenko metro station.
-
------------------------
-Project Description:
+------------------------Project Description:
 The key project for one of the biggest mobile operators in Ukraine.
 Our client is Ukrainian mobile operator, sole owned by the significant international investment company. Today the company is not only one of the biggest players on the Ukrainian market, but also a leader in innovations implementation, development of attractive tariffs and services.
 The company’s mission is enriching the lives of customers by providing high-quality telecommunications services that are supported by innovative technologies, high-quality technical process and the strong team of professionals.
@@ -2349,9 +2235,7 @@ Nice-to-Have Skills:
  User Interface and User Experience Design Skills
  Unit testing, design, and implementation
  Task management skills
-
------------------------
-— Min 2 years of iOS development experience;
+------------------------— Min 2 years of iOS development experience;
 — Knowledge of OOP (GOF’s patterns);
 — Like to code in Objective-C and Swift/SwiftUI;
 — Experience with advanced UI layouts and animations;
@@ -2359,9 +2243,7 @@ Nice-to-Have Skills:
 — Good knowledge of SwiftUI;
 — Passionate about writing beautiful code (we have own code guidelines);
 — Write clean code. We’re code review and requiring to commit/push code into git frequently.
-
------------------------
-We’re looking for a self-motivated Strong Junior, who already has some iOS experience, a passion for React Native, and wants to become a Mobile Dev Rockstar!
+------------------------We’re looking for a self-motivated Strong Junior, who already has some iOS experience, a passion for React Native, and wants to become a Mobile Dev Rockstar!
 You’ll be working with experienced teammates on a project that converts customers’ websites into native mobile apps (guys have 300+ customers already).
 Must have:
 — 1+ years of experience in native iOS development;
@@ -2388,9 +2270,7 @@ What we offer:
 — Internal Workshops & Knowledge sharing
 — Awesome team retreats & parties
 — Memorable anniversary and B-day presents
-
------------------------
-Requirements:
+------------------------Requirements:
 2+ years of iOS development experience
 Swift — Middle+ level
 Knowledge of SOLID, DRY, KISS principles
@@ -2422,9 +2302,7 @@ Our own soccer team;
 Professional barista brewing the most aromatic coffee in the world;
 Opportunity to work alongside a team of talented and committed software engineers and designers;
 You will also get professional growth, stability of the company on the market and the most loyal management in the world.
-
------------------------
-Reface is hiring iOS Engineer
+------------------------Reface is hiring iOS Engineer
 Work with the Reface app’s product team on unique features that allow hundreds of millions of people to create and share personalized content
 ⚙️ Product Stack:
 •
@@ -2502,9 +2380,7 @@ Instagram
 YouTube
 : Reface Mobile
 Don’t hesitate. Get in touch
-
------------------------
-Redwerk is looking for a teammate — a Shader Developer to join our middle-to-senior delivery team!
+------------------------Redwerk is looking for a teammate — a Shader Developer to join our middle-to-senior delivery team!
 We are looking for an experienced shader developer to join our team and work with a passionate group of engineers to solve interesting problems when it comes to shaders and their application to video and image processing.
 Необходимые навыки:
 — Open GL and Metal based shaders
@@ -2544,9 +2420,7 @@ We are looking for an experienced shader developer to join our team and work wit
 О проекте:
 Your project is an award-winning mobile toolkit for making creative stories for Instagram, Facebook, TikTok, and other platforms using templates.
 Among its users are some of the most famous bloggers and celebrities. More than one bln users worldwide rely on this storytelling app every month.
-
------------------------
-✨✨✨Вітання!✨✨✨
+------------------------✨✨✨Вітання!✨✨✨
 Нумо знайомитися? :)
 Ми — продуктова команда
 Boosters
@@ -2560,30 +2434,25 @@ Manifest
 RiseSpace — платформа з лайф коучами, це наш новий напрямок (реліз був у грудні 2021)
 Наша головна перевага — це люди. Люди, які націлені на те, щоб бути кращими за себе вчорашнього і перемагати разом. Наразі у нас в команді вже 60 людей, і ми не плануємо зупинятися.
 Зараз ми шукаємо
-Middle/Middle+ iOS Engineer
-, який(а) буде розвивати наш новий напрямок — платформу і застосунки RiseSpace, що відповідатимуть цілям наших користувачів та бізнесу.
+Middle iOS Engineer
+, який(а) буде розвивати продукт для вивчення іноземної мови — Promova (ex Words Booster).
+Для цієї ролі важливо не тільки виконувати поставлені завдання, а й впроваджувати рішення, які покращують процес та швидкість розробки.
 У тебе будуть такі завдання:
-Реалізація функціоналу на існуючих застосунках та розробка нового продукту;
-Проектування архітектури застосунку;
+Реалізація тестів із монетизацією продуктів;
+Участь у проектуванні функціоналу;
 Пошук та впровадження оптимальних технічних рішень (швидкість/якість);
 Покриття функціоналу тестами;
 Реалізація UX/UI рішень в парі з дизайнером.
 Необхідні навички:
-Від
-2-х
-років досвіду зі Swift;
-Добре знання ООП, алгоритмів, структур даних, функціонального програмування;
-Розуміння багатопоточного програмування;
+Від 1,5 років досвіду зі Swift;
+Добре знання ООП, алгоритмів, структур даних;
 Досвід роботи зі сторонніми бібліотеками та API;
-UIKit, Autolayout, CoreAnimation, Core Graphics, Foundation, GCD;
-Досвід створення застосунків з «0».
+UIKit, Storyboards, Autolayout, CoreAnimation.
 Буде плюсом:
 Досвід з різними архітектурами (MVVM, VIPER, MVVM + coordinators, Redux);
 Робота с in-app purchases;
 Робота з рекламною монетизацією та аналітичними інструментами (amplitude, appsflyer etc);
-Досвід з лайв чатами та відео-дзвінками;
-Досвід роботи з SwiftUI;
-Досвід роботи з реактивним програмуванням (Combine, Rx, etc.).
+Досвід з анімаціями.
 Що ми пропонуємо?
 Роботу в команді професіоналів та з аудиторією більше одного мільйону в місяць;
 Філософію та умови для твого постійного росту та розвитку;
@@ -2594,9 +2463,7 @@ UIKit, Autolayout, CoreAnimation, Core Graphics, Foundation, GCD;
 Компенсація додаткового навчання на зовнішніх тренінгах і семінарах та Business і Management School для співробітників;
 Велика електронна бібліотека та доступ до платних онлайн-курсів і конференцій, внутрішні бесіди і воркшопи, курси англійської.
 Залишай своє резюме і приєднуйся до Boosters!
-
------------------------
-Pecode is looking for a talented iOS developer
+------------------------Pecode is looking for a talented iOS developer
 Requirements:
 At least
 1-year
@@ -2642,5 +2509,4 @@ working day;
 📌Corporate care: external training, English courses, corporate events/team buildings.
 We are waiting for your CV
 We really want our new colleague to feel comfortable in our team. For us, it’s more than just a job;)
-
------------------------
+------------------------

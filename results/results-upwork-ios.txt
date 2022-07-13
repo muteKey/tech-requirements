@@ -1,0 +1,467 @@
+Need a Firebase/GA4 expert that understands how it works properly to be able to review our Firebase implementation and guide us on how we can collect and utilize device ID information.
+
+If you have Firebase experience please apply especially if you also have experience working with GA4 for mobile. Please do not apply if you do not have Firebase experience as this is a very specific project that pertains to Firebase. This does open opportunities to more work to be our Firebase expert. 
+
+Please send examples of work.
+
+Thanks!
+------------------------
+OVERVIEW
+
+The Software Engineer designs develop and test software and applications for computers. The main duties and responsibilities include directing and participating in programming activities, monitoring, and evaluating system performance, and designing and implementing new programs and features.
+The Software Engineer reports to the Technical Operations Manager as his/her immediate superior.
+
+
+KEY RESULTS EXPECTED
+
+The successful Software Engineer must be able to produce the following results:
+•	Produce work Estimates
+•	Modify existing software applications
+•	Create new software applications from scratch
+•	Create new technologies, including the development of networking solutions and software programs
+•	Documentation of system infrastructure, code structure, and developer user guides.
+•	Create and manage code updates, program versions, and repositories using best practices.
+
+REQUIREMENTS FOR THIS POSITION
+
+The Successful Software Engineer applicants must have the following:
+•	Bachelor’s degree in Computer and Information Technology, Computer Science, Information engineering
+•	3 to 5 years of work experience in a similar capacity
+•	Proven background in successfully delivering complex software projects;
+•	Expert knowledge of architectural, security, and technical practices and methodologies;
+•	Advanced automation and scripting skills;
+•	Strong mobile application development background;
+•	Expert knowledge of coding, testing, and quality assurance best practices;
+•	Expert knowledge in iOS native programming using Swift or Objective C;
+•	Strong experience implementing projects using MVC
+•	Strong experience interacting with native hardware like capturing and editing Video
+•	Experience integrating Video Filters and Overlays
+•	Very strong knowledge of building and deployment of iOS Applications
+•	Very strong knowledge project management software and control version like : Azure DevOps & GitHub;
+•	Strong experience integrating REST APIs and 3rd party services
+•	Has experience developing, maintaining, and supporting applications.
+
+
+REQUIRED SKILLS
+
+•	The Software Engineer’s skills are as follows:
+•	Software design, debugging, documentation, and testing
+•	Software engineering
+•	Software development
+•	Keen attention and accuracy to details
+•	Mathematical aptitude.
+•	Problem-solving skills.
+•	Proficiency in Programming languages
+•	Excellent organizational and time management skills.
+•	Creative and Complex Problem Solving
+•	Learning Agility
+•	Leadership
+•	Cloud Architecture
+•	Data Analytics and Data Management
+•	Good verbal and written communication skills.
+
+
+DUTIES and RESPONSIBILITIES
+The Software Engineer’s responsibilities are as follows:
+•	Develops information systems by designing, developing, and installing software solutions.
+•	Determines operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions.
+•	Develops software solutions by studying information needs, conferring with users, and studying systems flow, data usage, and work processes.
+•	Investigates problem areas.
+•	Follows the software development lifecycle.
+•	Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code.
+•	Prepares and installs solutions by determining and designing system specifications, standards, and programming.
+•	Improves operations by conducting systems analysis and recommending changes in policies and procedures.
+ 
+•	Obtains and licenses software by obtaining required information from vendors, recommending purchases, and testing and approving products.
+•	Protects operations by keeping information confidential.
+•	Provides information by collecting, analyzing, and summarizing development and service issues.
+•	Accomplishes engineering and organization mission by completing related results as needed.
+•	Performs other tasks which may be assigned by Management
+
+ADDITIONAL DESIRABLE QUALIFICATIONS
+
+The ideal Software Engineer candidate would also have experience with the following or the ability and initiative to quickly learn them:
+•	Data analytics
+•	Multiple project management methodologies
+•	Mobile native programming languages like Objective C, Swift, Java or Kotlin
+•	Mobile hybrid programming using Flutter or React Native
+•	Other development languages, platforms and frameworks (.NET, PHP, Laravel, Python, React, ColdFusion.)
+------------------------
+Our company has a game that needs an enterprise certificate to be put on the shelves,Contact me！！！
+------------------------
+Position Overview
+
+We are a fully remote team, developing beauty education apps used by familiar household name brands and thousands of users, for many years. We have been working with Flutter for more than a year and we love it. We constantly add new functionality to our apps, currently, we are working on two main projects: - Maintaining our existing features. Our apps have a huge number of functionalities, we are constantly improving them and fixing any problems reported by our testers or users
+
+We are looking for a Flutter developer that is honest and passionate about the quality of work they put their name on, is very detail-oriented with an innovative mind for finding creative solutions, and is able to take the initiative and find solutions to challenges that come up. You should be able to work independently and keep good frequent communication with other members of the team when needed 
+
+
+Are you up to the challenge? 
+
+We are only interested in long-term working relationships and there are lots of opportunities to learn and grow your skills with us. We will work with you closely to help you reach a high level of competence & proficiency with our already mature software. We give you total freedom to work from anywhere in the world as part of a highly collaborative development team. 
+
+
+Prerequisites
+
+* Feel comfortable using git for version control 
+* Good communication and availability for calls and chats with the rest of the team.
+* More than 30 hrs/week Hourly 
+
+
+Responsibilities
+
+* Develop exciting new mobile applications for iOS from the ground up
+* Collaborate with software developers to integrate existing technologies (APIs) into a mobile application
+
+
+Minimum Qualifications
+
+* BS in Computer Science or four years of related experience
+* 4+ years of experience with designing, building and maintaining complex mobile apps on iOS
+* Experience with Flutter and ideally also experience with native development on iOS or Android (Java, Kotlin, Swift) 
+* Proficient with Swift, the iOS SDK, and/or Objective-C
+* Experience working with iOS frameworks such as Core Data, Core Animation, Core Graphics, and Core Text
+* Experience with mobile app testing & security
+* Know how to work with remote data via REST APIs
+* Comfortable using GIT for version control — along with a decent level of GIT hygiene
+* You're a pleasant person to work with.
+* Good communication and availability for calls and chats with the rest of the team.
+* More than 30 hrs/week Hourly
+------------------------
+I want to have an AR android or iOS app that recognises a smartwatch or a QR code on it and then shows some button. Also, if I click on buttons, it changes their colors (from green to red).
+PS. I have a Figma file too!
+
+https://www.figma.com/file/bX8WLdVz0UMQKknaMMqX7h/Healthcare-Dashboard-(Community)?node-id=238%3A2590
+------------------------
+I have a app that needs fixing and improving, just need someone who can help my app work properly without crashing and bugs. Just need help. The app is called GoEva its a ride share app here in Utah. need so much improving and I can make this app go state wide. Just need help, serious help.
+------------------------
+I have created a product concept that integrates a bluetooth device with a mobile phone app.
+
+I am looking for someone with experience to help create this app.
+
+Yours,
+
+Liam
+------------------------
+look at BULQ app on the app store for android and apple.  I am looking to have a lighter version of this built. Ideally i would like bidders to be able to bid and win auctions from the app but would settle for app users to link out of the app to live online auctions top bid ands close there. I need the ability for multiple users to log in and post items for sale or auction, picture and description uploads for both et cetera...
+------------------------
+Will pay you after all the apps are live. The account must be new,  Want to purchase the full account  Interested candidate can apply. also have to give the access while publishing the apps. only apply if you agree to give the access. please read the post carefully  then apply . Interested candidate can apply.
+------------------------
+I need an iOS developer to create a new version of a WebView app. I need to add a few native screens to the WebView app to enable users to login/signup. 
+
+In particular, I need to create: 
+
+- login screen
+- signup screen
+- forgot-password prompt
+
+and it should be able to handle the following functions / processes:
+
+- login with email
+- signup with email
+- signin-with-google
+- signin-with-facebook
+- signin-with-apple
+- reset-password flow
+
+NOTE: I also need to apply also some minor changes to the WebView homescreen when user is logged out (disable hyperlinks, insert footer "Continue" button which points to the LOGIN screen).
+
+More details will be provided in PM.
+------------------------
+I have an existing website built on the no-code platform Bubble.IO that needs several bugs addressed and changes made.
+-Changes/fixes are minimal and are mostly related to user workflow and display issues
+-Scope of work is documented and will be discussed with candidate before the project would start
+------------------------
+We need a mobile app developer for a matchmaking app. 
+We will be working with a client who started this project with a different company than us. 
+There are a lot of systemic errors in the application made so far. 
+It is necessary to rearrange it or start from scratch. 
+We will work in a slightly limited time. 
+We have a documentation written about the design and the desired functionality. Contact for details.
+------------------------
+The company has several apps that need signature testing, and I want to distribute them to my designated employees and customers for security reasons. I'll release it privately, but I need you to sign the app for me.
+If you can help me solve the problem, I will give you extra payment over and above the project budget
+------------------------
+Our company has a game that needs an enterprise certificate to be put on the shelves,Contact me.
+------------------------
+I have this design: https://www.figma.com/file/i3eWF3QwWxxiKZZysBQcV9/Steller-Security?node-id=360%3A323
+
+Which i want developed in Swift, so it works on Mac. No back-end is needed only UI.
+
+Later on, we will add back-end. But for now, this is only ui.
+------------------------
+Hello Guys,
+
+I need 3 minor issues fixed on a native iOS app. Should hardly take a couple of hours max for the right person to understand and resolve the tasks.
+
+1. It is only letting me input numbers for the postcode. We need both letter and number input (see screenshot attached).
+2. I am also getting an error when inputting weight.
+3. The gender field needs to be mandatory – so current users need to be notified if they have not completed it already
+------------------------
+I represent consumers who deal with Debt collection issues and want to develop an application that makes it easy for my client to track incoming Debt collector communications (calls/tets/emails/letters) my client receive; and then forward that captured collection effort as they occur to my CRM for review.
+
+Develop a mobile application which can be used by my clients to:
+- document incoming calls (from Debt collectors)
+- maintain a database of collectors as more data is aggregated
+- allow the client to take screen shots of incoming collection calls, letter, emails, and other evidence of collection communications received, which would then be synced with the compan'y CRM - Zoho (OR Zoho Creator)
+
+The main data collected would be (and we need fields for this):
+- Collector Name/Company 
+- Phone number collector used
+- date/time of collection attempt
+- Collection representative my client spoke with (in the instance of a phone call)
+- what was said by my client and the collector during the call, so I have a record of event with a good level of detail
+- the ability to record the call ONLY AFTER THE COLLECTOR PROVIDES CONSENT.  Otherwise, recording without consent is illegal.
+- Perhaps video content on the opening page with a tutorial on how to use the app
+
+The App should be very basic.  Have an intro page with a video tutorial explaining how to use the app.  Include the above fields so when a new call comes in the consumer can select whether they think its a collection call, click a button and engage the app so the call can be recorded after some type of alert pops up for the consumer stating "you must request conest to record", capturing the incoming call or dialed call number to and from a collector.  Outbout calls would be made through the app or a button would ask the consumer if the outbound call is to a debt collector they want to document the call with; and the basic information/fields above.
+------------------------
+Our company has a game that needs an enterprise certificate to be put on the shelves,Contact me
+------------------------
+Currently looking for an app developer to finish off a property app with in-app purchase and live chat functions. The app is in the end stages of development. We have a tight deadline. If interested and have the experience to get this finished please get in touch. Only get in touch if you have experience with such app as we have been disappointed before.
+------------------------
+The design will be similar to the default ios keyboard with some extra added features. Prior experience in designing a keyboard app isn't necessary, but it'll be advantageous for you.
+------------------------
+Hello to all ,
+i need only someone that can complete for me all the field for submit my app ( is already ready) to The Apple store, what i am missing are all the screenshot about the app that Apple ask before the submission.
+Thanks
+------------------------
+Looking for an experienced developer for a 3–6-month project with an opportunity to extend or join full time. You will be working on new features and bug fixes for an existing mobile application. 
+
+Relevant Experience
+
+* Experience creating iOS and/or Android mobile apps
+* UX/UI design experience is a plus but not required
+* Familiarity with parse server (optional)
+
+To be a best fit for this project you need:
+
+* Ability to communicate clearly
+* Dedication to meet project deadlines in a timely manner
+* Attention to details
+* Willingness to sign an NDA
+------------------------
+Half-time job (20h/week)
+Android/iOS Development
+------------------------
+Job description
+We are looking to hire a talented iOS developer to design, build, and maintain the next generation of iOS applications. Your primary focus will be developing high-end iOS applications for the latest Apple mobile devices. Your duties may include collaborating with the design team for new application features, identifying and fixing application bottlenecks, maintaining the core code, and updating applications published on the App Store.
+
+To ensure success as an iOS developer, you should have a strong working knowledge of iOS Frameworks, be proficient in Objective-C, and be able to work as part of a team. Ultimately, an outstanding iOS developer should be able to create functional, attractive applications that perfectly meet the needs of the user.
+
+iOS Developer Responsibilities:
+
+Designing and building mobile applications for Apple’s iOS platform
+Have experience working with Bluetooth sensors and being able to connect 8 simultaneous devices and extract data from all sensors
+Collaborating with the design team to define app features.
+Ensuring quality and performance of the application to specifications.
+Identifying potential problems and resolving application bottlenecks.
+Fixing application bugs before the final release.
+Publishing application on App Store.
+Maintaining the code and atomization of the application.
+Designing and implementing application updates.
+
+iOS Developer Requirements:
+
+Bachelor’s degree in computer science or software engineering.
+Proven experience as an app developer.
+Proficient in Objective-C, Swift, and Cocoa Touch.
+Extensive experience with iOS Frameworks such as Core Data and Core Animation.
+Knowledge of iOS back-end services.
+Knowledge of Apple’s design principles and application interface guidelines.
+Proficient in code versioning tools including Mercurial, Git, and SVN.
+Knowledge of C-based libraries.
+Familiarity with push notifications, APIs, and cloud messaging.
+Experience with continuous integration.
+Preferably  live In Johannesburg South Africa and be prepared to work on site 
+This position is a 2-3 month full time development contract
+------------------------
+I have a web bot, which needs to go in an iOS application as a framework. The framework will open a webview(WKWebview) and trigger the bot on mobile screen.
+------------------------
+Dear talents,
+
+We're looking for a software Engineer in iOS development, who has rich experience and good understanding of iOS platform, and excited to develop and implement creative features for our APP.
+
+Job Requirements:
+
+1. 3+ years experience in IOS development.
+ 
+2. Proficient in Swift, with a good knowledge of its ecosystems, prior Objective-C experience is a plus.
+
+3. basic understanding of the core components of iOS applications and their operating mechanisms.
+
+4. Proficient understanding of code versioning tools , such as Git.
+
+5. Understanding of Apple’s design principles and interface guidelines.
+
+6. Fundamental knowledge of WebGl or Apple metal API.
+
+7. Experience in Working with Agile/Scrum team in Sprints, good team player, result oriented attitude and analytical mind.
+------------------------
+I have an IOS  App that needs professionals to help me register and maintain. If you have the conditions I need, we can cooperate immediately
+------------------------
+terms of reference
+https://docs.google.com/document/d/1-iUwYQAFd0W7u00YWmUTd1IGK9dsybUvbh9CPWV3wnc/edit?usp=sharing
+------------------------
+Will pay you after all the apps are live. The account must be new,  Want to purchase the full account  Interested candidate can apply. also have to give the access while publishing the apps. only apply if you agree to give the access. please read the post carefully  then apply . Interested candidate can apply.
+------------------------
+I have computer vision related work. Please let me know if you are interested
+------------------------
+I am looking for a react native app developer to help me build an educational app. I am looking for someone who is available for 5-10 hours/week and is a good communicator.
+------------------------
+This is a one time job with the potential to become a long-term working relationship.
+
+We are an start-up looking for an energetic software developer with expertise in the Xamarin Forms framework, developing multi-platform mobile apps for iOS and Android, to help us enhance our v1.0 (MVP) app, already available in the AppStore and Google play.
+
+This job is specific to the creation of a new page and its associated excel report to be emailed on-demand. The functionality already exist for another role in the app and this is intended to replicate the UI/UX experience for a second role. We suspect 16 hours (2 days) of work required.
+
+Required Experience
+* Experience creating localized (English / Spanish) interfaces
+* UI, UX, interactivity design experience a huge plus but not required for this project
+* Graphics design experience a plus but not required for this project
+* Experience with GIT source control
+* Experience with Apple AppStore and Google Play 
+* Willingness to sign an NDA
+
+In addition to the expertise in the Xamarin Forms framework, we are looking for candidates with high quality standards, sense of urgency and communication skills, great interpersonal / communication skills and easy to work with.
+
+We will need to talk the candidates, and sign an NDA before we can provide the specs for time estimates and final agreement.
+
+We plan on doing the hiring by July 13, and have the project completed by July 20. We are in the East Time zone (GTM-5). Once successfully completed, more requirements will come.  
+
+If interested, please reply with your resume, prior experience, and best times to contact.  
+
+Looking forward to hearing from you.
+------------------------
+Looking for someone who has familiarity with IOS extensions & ideally content blockers.  We're 
+looking to exclude the subdomains from urls using content blockers.
+
+Like: Block "www.youtube.com" but not "https://www.youtube.com/results?search_query" & many more tasks.
+------------------------
+Building a fitness website and app that may have a long duration to complete but will be done a little bit at a time as budget allows. We can chat about how many hours the first step will take so I have the budget set aside, and we can go from there. 
+
+Step 1)  A landing page
+Step 2) It will need a place for members to create a login, and profile, with a responsive survey/questionnaire. I will then need to be able to put the member into a group. 
+Step 3) Ability to upload program templates for members to follow and input their own activity. 
+Step 4) Space for videos to be uploaded and linked to exercises that users can watch 
+Step 5) A notification system so I can send messages to users and set up reminders for appointments
+
+There will then be many more steps as we expand into new forms of training.
+------------------------
+Our company has built the application, and now we need certificates to publish it。
+------------------------
+This is a simple job to build an iPhone application that monitors the phone and sms messages (inbound and outbound) then logs those messages each minute to a sftp site.
+
+Has  small UI that allows for login and for time period changing (last minute, last day, all of time).
+------------------------
+I am seeking a developer to create a casino game for both the iPhone and Android stores. I have a majority of the designs already finished, and in .PSD (Photoshop) and .JPG format. So far, the game was intended to be a Slots Game. I am looking for a programmer with reputable, published works on either Google Play or the iPhone App store. 
+
+Also, I am requiring a video interview before I accept the work for hire. Please let me know. Thank you.
+------------------------
+The graphics and animations will be professional grade quality, so this would be an excellent portfolio piece after it is published.  Note:  I have intentially set the budget at "$5" on Upwork because I want an evaluation of the project to be conducted, and then given a time estimation to determine the total cost.  A very thorough and detailed outline explaining details of the functionality will be provided to help you determine this.
+
+The developer(s) or company will be required to sign a non-disclosure agreement before conducting a presentation of the project.
+
+A team of developers have created an existing mobile game application.  It was developed in Unity with Doozy UI.  I have hired two different teams to work on this, and yet the simulation results logic still doesn't appear to be correct. Currently, the application is combined into two parts:  blackjack game and card counting simulator.  Due to the large size of the application, I will be requesting that the existing application be separated into two different applications.  We will be focusing on completing the Blackjack game first.  A lot of the logic has been completed, however it does need to be finished.  The UI has been done using Doozy UI.  It will need to be reworked with new graphics.  A lot of the functionality still needs to be reworked or finished, too.  If need be, we may need to transfer the code into an entirely new project.  I don't want to start the project from square one, but perhaps existing code/functionality can be referenced to avoid reinventing the wheel.  You would have to look at the project code to evaluate it to determine the best direction.
+
+Animations and graphics have been completed that need to be applied to the current application.  You would need to walk through the details and functionality of the application, and verify an accurate billable time estimation (this would be done through a screen share / phone call presentation).  Also, the current Unity project files would be shared with you to review the code, and to become familiar with it to see what modifications and additions need to be applied.
+
+The developer or team would also be responsible for publishing the game on both the Apple Store and Google Play.
+
+The animations and instructions on the functionality are well organized and described on a Slack site.  Folder and file structures would also be well organized.
+
+I have an AnyDesk license that would be used to conduct screen-share sessions between myself and the developers.  I would want to use Signal to conduct phone calls while screen sharing.  I require full access to the developer and/or team because I will be working closely with the developer(s) to provide the animations and graphics.  I would expect to communicate with the developer(s) during development while working closely with me, daily, along with a daily status update of the progress of the project - A SET DAILY WORK SCHEDULE THAT IS A NORMAL BUSINESS WORK WEEK, 6 - 8 HOURS PER DAY.
+
+Eventually, I will need to hire a developer, long term, to provide ongoing upgrades and support, after the game is published.   The published game will require maintenance and support.  This support and maintenance would include a permanent, ongoing fee paid on a consistent basis.  After this contract is completed, we would discuss this ongoing assignment.
+------------------------
+Our company has built the application, and now we need certificates to publish it
+------------------------
+Our company has built the application, and now we need certificates to publish it
+------------------------
+We're looking for an iOS developer to join the team and work on an app that promises to change the future of storytelling.
+------------------------
+Our company has built the application, and I need to release it now.
+------------------------
+Full iOS SDLC experience as an application developer                                                                                                        
+Experience with Object Oriented development
+Experience with iOS SDK and Objective-C                                                
+Experience with Swift and latest iOS APIs and frameworks, including JSON annotation
+Experience with Core Data framework          
+Experience with iOS Auto Layout and UX refinement
+Experience with blocks and notifications                          
+Experience with relational database development
+Experience with consuming web services & synchronization of data between integrating systems and databases
+------------------------
+iOS application that can perform the following:
+1. Application should have an overlay that assists the user in placing the passport infront of the camera for good reading.
+2. Application should automatically capture the needed image when mrz is located (no capture button)
+3. Scan and display passport MRZ data
+4. Very fast scanning/reading - Less than 1 sec from the moment passport in placed in overlay.
+5. Following is a sample app with similar requirements (no NFC reading needed) - https://apps.apple.com/ca/app/mrz-scanner/id1346012808
+App StoreApp Store
+‎MRZ Scanner
+------------------------
+ios poc done
+all UX/UI done 
+ios in swift
+android in java 
+
+Just backend functionality
+
+1. Register - 2 user roles - view and post
+2. Posting - posting for social media
+3.  Allow users to purchase items for sale 
+4.  stripe for android, in app purchase ios 
+5. admin takes percentage of each purchase
+6. viewing user can subscribe and pay to posting user
+7. follower, likes, comments of fans
+8. 2 factor authentication login
+9. chat
+10. admin panel
+
+BOTH IOS AND ANDROID MUST BE DONE IN 45 DAYS!
+------------------------
+Required Experience:
+
+3+ years experience in Swift;
+
+Experience of objective-C or C++ programming with developing high-quality production software.
+
+Experience building maintainable and testable code bases, including API design and unit testing techniques.
+
+Experience with multithreading programming and mobile memory management.
+
+Experience in API design, performance optimization, client architecture, and tools in the mobile space.
+
+Have a deep and up-to-date knowledge of iOS design principles and patterns
+
+Experience on 3rd Party SDKs integration
+
+Experience with Bluetooth
+
+Strong interpersonal, negotiation, facilitation, analytic, problem-solving, influencing, prioritization, decision-making and conflict resolution skills
+
+Your main responsibilities would be:
+
+Design and build applications for the iOS platform
+
+Develop clean, modular, and reusable code
+
+Ensure the performance, quality, and responsiveness of applications
+
+Collaborate with a team to define, design, and ship new features
+
+Implement 3rd party API's and SDK's
+
+Integrate communication with 3rd party Bluetooth devices
+
+Our offer:
+
+Opportunity to gain international business experience, working for world high-class company
+
+Comfortable, friendly and supportive working atmosphere
+
+Possibility for personal and professional growth within a stable environment
+
+Office or remote work
+------------------------
