@@ -1,0 +1,50 @@
+number of vacancies: 56
+ui: 125
+sql: 105
+excel: 78
+tableau: 62
+python: 54
+web: 48
+design: 46
+api: 45
+rest: 37
+presentation: 36
+testing: 36
+power bi: 30
+jira: 29
+uml: 28
+use case: 28
+bpmn: 26
+confluence: 24
+database: 21
+google analytics: 21
+mobile: 21
+ux: 21
+architecture: 18
+qa: 16
+firebase: 15
+amplitude: 14
+aws: 13
+html: 13
+java: 12
+xml: 10
+css: 9
+etl: 9
+json: 9
+prototyping: 8
+qlik: 8
+big data: 6
+soap: 6
+sap: 5
+user story: 5
+ci/cd: 4
+draw.io: 3
+figma: 3
+lucidchart: 3
+mixpanel: 3
+desktop: 2
+swagger: 2
+trello: 2
+data visualisation: 1
+oracle bi: 1
+salesforce: 1

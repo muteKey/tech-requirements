@@ -12,7 +12,8 @@ class DouGrabber(BaseGrabber):
             
             for link in links:
                 href = link["href"]
-                results.append(href)
+                if href:
+                    results.append(href)
 
             return results
 
@@ -22,8 +23,9 @@ class DouGrabber(BaseGrabber):
             headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
             response = requests.get(link, headers=headers)
             soup = BeautifulSoup(response.text, 'html.parser')
-            text = soup.body.find('div', attrs={'class':'text b-typo vacancy-section'}).get_text('\n', strip=True)
-            if text is not None:
+            div_content = soup.body.find('div', attrs={'class':'text b-typo vacancy-section'})
+            if div_content is not None:
+                text = div_content.get_text('\n', strip=True)
                 text = self.__cleanup_text(text)
                 results.append(text)
                 results.append(self.delimeter)
