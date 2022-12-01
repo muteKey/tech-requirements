@@ -1,0 +1,91 @@
+Generated at 12/01/2022, 17:33:42
+number of vacancies: 49
+android: 48
+kotlin: 40
+java: 35
+ble: 33
+rest: 28
+git: 23
+mvvm: 23
+android sdk: 21
+hig: 19
+solid: 16
+mvp: 14
+dagger: 12
+jetpack compose: 12
+firebase: 11
+rxjava: 11
+retrofit: 11
+room: 10
+kotlin coroutines: 9
+ios: 9
+dio: 8
+gradle: 7
+xml: 7
+clean architecture: 6
+mvi: 6
+react: 6
+sql: 6
+ci/cd: 6
+android studio: 5
+okhttp: 5
+sqlite: 5
+vision: 5
+c++: 4
+jira: 4
+swift: 4
+tdd: 4
+github: 3
+gitlab: 3
+hilt: 3
+livedata: 3
+realm: 3
+junit: 3
+bitbucket: 2
+combine: 2
+databinding: 2
+flutter: 2
+glide: 2
+html: 2
+python: 2
+react native: 2
+bdd: 2
+volley: 2
+websockets: 2
+jenkins: 2
+fragment: 2
+flavors: 2
+custom view: 2
+workmanager: 2
+android ndk: 1
+appsflyer: 1
+crashlytics: 1
+fastlane: 1
+firebase analytics: 1
+gcm: 1
+gson: 1
+google analytics: 1
+graphql: 1
+javascript: 1
+linux: 1
+mvc: 1
+maven: 1
+mockito: 1
+objective-c: 1
+bash: 1
+ktor: 1
+swift package manager: 1
+swiftui: 1
+intent: 1
+contentprovider: 1
+ionic: 1
+espresso: 1
+android wear: 1
+aosp: 1
+wake-locks: 1
+sqldelight: 1
+assertj: 1
+vpn api: 1
+sdlc: 1
+onesignal: 1
+human interface guidelines: 1

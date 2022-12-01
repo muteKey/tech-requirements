@@ -32,7 +32,6 @@ Bitcoinj
 Blockly
 Breadwallet-Core
 Brightcove Player
-C
 C++
 CameraX
 CardIO
@@ -132,7 +131,6 @@ LiveEvent
 LocalAuthentication
 Lokalise
 Lottie
-Lottie
 MLKit
 MQTT
 MSSQL
@@ -145,6 +143,7 @@ MacOS
 Mantis
 MapBox
 MapKit
+CloudKit
 MapboxMap
 MaterialUI
 Mattermost
@@ -174,6 +173,8 @@ PhilJay JWT
 PhoneNumberKit
 Picasso
 Plaid
+Bash
+Ktor
 PromiseKit
 Pubnub
 Python
@@ -214,6 +215,7 @@ StreamChat SDK
 Stripe
 Swift
 Swift Package Manager
+SPM
 Swift gRPC
 SwiftEntryKit
 SwiftGen
@@ -223,6 +225,7 @@ SwiftyJSON
 Swinject
 Syncfusion
 TDD
+BDD
 Taplytics SDK
 TeamCity
 TeamCity CI
@@ -236,6 +239,7 @@ Twine
 Twitter SDK
 UICollectionViewCompositionalLayout
 UIKit
+StoreKit
 URLSession
 UXCam SDK
 VIPER
@@ -265,3 +269,63 @@ iOS SDK
 libphonenumber
 token.io
 GCD
+Jenkins
+Ansible
+LeakCanary
+Intent
+Fragment
+Xamarin
+Touch Point Architecture
+ListAdapter
+Groupie
+Epoxy
+ContentProvider
+jUnit
+Robolectric
+RxKotlin
+ArcGis
+Frida
+Burp
+Ghidra
+Protocol Buffers
+Protobuf
+CI/CD
+Ionic
+Flavors
+Espresso
+REST
+Android Wear
+AOSP
+wake-locks
+custom view
+WorkManager
+SQLDelight
+AssertJ
+VPN API
+SDLC
+Interface Builder
+Functional Reactive Programming
+FRP
+Autolayout
+TCA
+Swagger
+UISceneDelegate
+RIBs
+IoT
+Starscream
+RTMP
+HLS
+OWASP
+Sourcery
+ScreenTime API
+MDM
+PDFKit
+Multipeer Connectivity
+Deeplinks
+Universal links
+OneSignal
+VoIP
+WebRTC
+AudioToolbox
+HIG
+Human Interface Guidelines

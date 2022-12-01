@@ -124,7 +124,7 @@ Supportive environment of marketing professionals that value quality above quant
 About SE Ranking
 SE Ranking is an all-in-one cloud-based SEO and digital marketing platform for business owners, SEO pros and digital agencies.
 The platform offers a complete set of SEO tools for comprehensive site audit, SEO/PPC competitor analysis, rank tracking, keyword collection and grouping, backlink monitoring, automated professional reporting, and much more.
-Established in 2013, our company has evolved into an international software product company with offices in USA, UK and solid partnership network. We have more than 500 000 customers all over the world and have an ambitious goal to double this figure.
+Established in 2013, our company has evolved into an international software product company with offices in USA, UK and solid partnership network. We have more than 700 000 customers all over the world and have an ambitious goal to double this figure.
 ------------------------Unicorn is a renowned European company with offices in the Czech Republic, the Slovak Republic, the Netherlands, and in Ukraine (Kyiv, Ternopil).
 We are providing the largest information systems and solutions in the area of information and communication technologies. We have been focusing on high added value and competitive advantage for our customers.
 Now we are starting the internship program in Unicorn for those who want to start a career in IT. Join our education program and enter the world of IT on a professional level.
@@ -256,18 +256,19 @@ Finance.ua
 — Корпоративний дитячий клуб (майстер-класи, святкові заходи, подарунки для дітей), творчі майстер-класи для розвитку талантів
 — Кар’єрний ріст і професійний розвиток.
 ------------------------Required skills:
-Required skills:
-— 5+ years of professional experience in an environment that prioritizes data quality;
-— Familiarity with standard financial data providers, platforms, and tools: Bloomberg, Refinitiv, Markit, SIX, CQG, ICE/IDC, Morningstar, exchange data, and more;
-— A bachelor’s degree with a strong academic record, which includes university coursework in programming and computing systems;
-— Exposure to hands-on Python and SQL coding in the context of data pipelining in a professional environment. Prior experience with Jira, Bash, and GIT desired;
-— While financial industry experience is a plus, we are open-minded in our search for critical thinkers who are passionate about technology and data.
+— 5+ years of data analysis experience for a data warehouse
+— P&C Insurance subject matter experience (Policy and Claims)-desired to have
+— Advanced SQL knowledge
+— Extensive knowledge of Data Warehousing, ETL, and BI Architectures, concepts, and frameworks
+— Capable of creating and tuning Semantic layer Reporting Views
+— Capable of facilitating data discovery sessions involving business subject matter experts
+— Knowledge of RDBMS platforms (e.g. SQL Server, DB2) with experience in generating DD
 Responsibilities:
-— Analyze and curate large amounts of data for different tradable instruments, including futures, options, bonds, and more;
-— Create systematic, automated components for processes and tools that allow the team to scale and rapidly onboard new datasets;
-— Collaborate with quantitative researchers, traders, data engineers, and other data analysts to understand business needs and then formulate and iterate on data pipelines that produce high-quality datasets;
-— Support the day-to-day operations of the Research Data Management team by applying problem-solving, pattern detection, and root cause analysis to a wide range of data issues in a fast-paced environment;
-— Help drive continuous improvements to the team’s data quality procedures and a consistent approach to how data quality is measured, monitored, and reported.
+— Works with business stakeholders and IT teams to define data needs for the enterprise data warehouse
+— Creates source-to-target mapping documents to capture application data elements for loading from source systems into the enterprise data warehouse
+— Collaborates with the ETL team to ensure that source-to-target mappings are correctly translated into ETL code
+— Performs data validation to confirm data is moved into the data warehouse correctly
+— Works with reporting teams to assist them in understanding the data warehouse model and optimal ways to use it
 We offer:
 — To work with a company that is financially stable and reliable, the company has ambitious plans for development. Our main customers are American insurance companies, which allows us to feel safe and protected on the financial side;
 — English classes (online) and speaking club with native speakers;
@@ -275,7 +276,8 @@ We offer:
 — Competitive salary;
 — Collaborative friendly team environment.
 About Project:
-Virtuace on behalf of our client — American insurance company is looking for a Data Analyst to join our team. Client is a global specialty provider of property and casualty insurance and reinsurance that has more than $110 billion USD in total assets along with $17 billion USD in net assets.
+The Senior Data Analyst is a hands-on position focused on defining the data needs for the enterprise data warehouse.
+The position will work within IT to help our client to create an industry-leading data warehouse that measures the performance of all aspects of the company’s operations.
 ------------------------Hello!
 We are
 TemaBit Fozzy Group
@@ -860,7 +862,7 @@ Hiring process:
  автоматизувати запити, що повторюються
 Для досягнення результатів, тобі знадобляться:
  досвід від
-2-х
+3-х
 років у ролі Data Analyst
  досвід у розробці та моніторингу аналітичних дашбордів та звітів
  виконання аналітичних задач «під ключ»
@@ -876,6 +878,7 @@ Hiring process:
  внутрішні тренінги, воркшопи, хакатони, шерінги знань тощо
  корпоративна бібліотека та підписки на інформаційні ресурси
  відвідування вебінарів, лекцій за участі спікерів компанії тощо
+ English lessons
 Work (War) — Life Balance
 Ми кажемо «ні» рутині та одноманітності, тому ми створюємо простір, де працювати дійсно в кайф. Гейміфікації, подарунки, розіграші, спортивні заходи, тімбілдінги та корпоративи — з нами точно не буде нудно.
 Відпустки та лікарняні:
@@ -936,10 +939,10 @@ Accounting and legal support.
 Участь у всіх етапах SDLC: від постановки завдань розробникам до поставки замовнику
 ------------------------Привіт :)
 Шукаємо
-Middle Data Analyst
+Data Analyst
 в Universe — можливо, це саме ти?
 Universe
-— продуктова ІТ-компанія, яка створює функціональні бізнес-додатки (утиліти для iOS) та розвиває власний R&D-центр. За чотири роки ми зібрали команду з 60+ фахівців, яка досягла третього місця у світі за доходом як паблішер утиліт.
+— продуктова ІТ-компанія, яка створює функціональні бізнес-додатки (утиліти для iOS) та розвиває власний R&D-центр. За чотири роки ми зібрали команду з 60+ фахівців, яка досягла третього місця у світі за доходом як паблішер утиліт для сканування.
 Наші продукти завантажили близько 40 млн користувачів. Найвідоміші з них:
 Scan Guru
 ,
@@ -953,22 +956,25 @@ Wisey
 .
 Процеси в нашій компанії засновані на data-driven підході. Аналітики застосовують сучасні технології та методики, щоб описувати поведінку користувачів, визначати зони зростання та прискорювати час на прийняття рішень.
 Тобі точно до нас, якщо ти хочеш:
+-
+Працювати в команді драйвових однодумців —
+наша культура побудована на відкритості до ідей та залученості кожного члена команди, швидкій комунікації без бюрократії між відділами.
 —
-Працювати в команді драйвових однодумців
-— наша культура побудована на відкритості до ідей та залученості кожного члена команди, швидкій комунікації без бюрократії між відділами.
-—
-Виконувати різносторонні завдання та мати можливість зануритися в конкретну експертну зону
-; обирай що тобі цікавіше — продуктова аналітика, дата інженерія, бізнес аналіз, ML та AI. Окрім аналітиків, ти будеш обмінюватися знаннями з продуктовими менеджерами, маркетологами та ставати T-Shaped спеціалістом.
+Виконувати різносторонні завдання
+та мати можливість зануритися в конкретну експертну зону;
+обирай що тобі цікавіше — продуктова аналітика, дата інженерія, бізнес аналіз, ML та AI. Окрім аналітиків, ти будеш обмінюватися знаннями з продуктовими менеджерами, маркетологами та ставати T-Shaped спеціалістом.
 —
 Розвиватися разом із проєктом
-— ми не обмежуємо твій карʼєрний ріст, все залежить виключно від твоїх амбіцій та результатів роботи.
+— ми не обмежуємо твій карʼєрний зріст, все залежить виключно від твоїх амбіцій та результатів роботи.
 У тебе будуть такі завдання:
-— Пост-аналіз змін, що проводяться в наших продуктах.
+-
+Пост-аналіз змін, що проводяться в наших продуктах.
 — Сегментація та аналіз поведінки користувачів.
 — Симуляція та прогнозування ключових показників бізнесу, з метою раннього виявлення патернів.
 — Автоматизація data-driven процесів шляхом побудови вітрин даних, регулярної звітності, деплою коду.
 — Покращення та розвиток трекінгу подій, збагачення зібраної інформації з поточних та нових джерел даних.
-Що потрібно, щоб приєднатися до нас:
+Щ
+о потрібно, щоб приєднатися до нас:
 — Від 1 року досвіду в ролі аналітика даних.
 — Впевнені практичні навички з SQL, R або Python.
 — Добре розуміння математичної статистики та базової теорії вірогідності.
@@ -987,6 +993,10 @@ Wisey
 — Доступи до корпоративної бібліотеки та різноманітних курсів
 — Команду, що підтримає у найскладніші часи.
 Чекаємо на твій відгук!
+Ставай частиною нашого Всесвіту.
+Instagram
+Facebook
+Linkedin
 ------------------------Привіт!
 👋
 Я
@@ -1371,7 +1381,8 @@ My Vodafone
 Медичне страхування
 Безкоштовний мобільний зв’язок
 Гнучкий графік роботи та можливість працювати віддалено
-------------------------IT SmartFlex
+------------------------
+IT SmartFlex
 — це продуктова компанія, заснована 2019 року як дочірня компанія провідного мобільного оператора Vodafone Ukraine з метою об’єднати експертів у сферах телекомунікацій і програмного забезпечення.
 Ми створюємо новітні проектні рішення для телеком-індустрії та розробляємо продукти високої якості для мільйонів користувачів мобільного зв’язку.
 Запрошуємо приєднатися до нашої команди
@@ -1742,14 +1753,11 @@ Proven technical background in Development processes, DevOps and API’s
 Good understanding of the Scrum methodology
 Strong communication skills and analytical mindset
 Fluent spoken and written English
-Located in Kyiv, Ukraine
+Located in Poland
 Benefits
 A competitive salary based on your experience
-Insurance package and other social guarantees
 A growth path to become the Product Owner of Alumio
 European working time — regular local hours
-The possibility to work remotely and from our office in Kyiv (Carnegie Tower), Ukraine
-Frequent company parties
 Work with 50 talented, friendly, and diverse colleagues across teams.
 Are you ready to meet us?
 Do you see yourself as part of our team, collaborating to help grow a great futuristic business? Then don’t hesitate and reach out to us. We look forward to meeting you!
@@ -1937,11 +1945,10 @@ ProSteer Group
  Комфортний офіс із сучасною інфраструктурою
 ------------------------Привіт :)
 Шукаємо
-Middle
 Data Analyst
 в Universe — можливо, це саме ти?
 Universe
-— продуктова ІТ-компанія, з екосистеми бізнесів Genesis. Ми створюємо функціональні бізнес-додатки (утиліти для iOS) та розвиваємо власний R&D-центр. За чотири роки в Universe зібрали команду з 60+ фахівців, яка досягла третього місця у світі за доходом як паблішер утиліт.
+— продуктова ІТ-компанія, з екосистеми бізнесів Genesis. Ми створюємо функціональні бізнес-додатки (утиліти для iOS) та розвиваємо власний R&D-центр. За чотири роки в Universe зібрали команду з 60+ фахівців, яка досягла третього місця у світі за доходом як паблішер утиліт для сканування.
 Наші продукти завантажили близько 40 млн користувачів. Найвідоміші з них:
 Scan Guru
 ,
@@ -1961,12 +1968,13 @@ Wisey
 —
 Виконувати різносторонні завдання
 та мати можливість зануритися в конкретну експертну зону;
-обирай що тобі цікавіше — продуктова аналітика, дата інженерія, безнес аналіз, ML або AI. Окрім аналітиків, ти будеш обмінюватися знаннями з продуктовими менеджерами, маркетологами та ставати T-Shaped спеціалістом.
+обирай що тобі цікавіше — продуктова аналітика, дата інженерія, бізнес аналіз, ML та AI. Окрім аналітиків, ти будеш обмінюватися знаннями з продуктовими менеджерами, маркетологами та ставати T-Shaped спеціалістом.
 —
 Розвиватися разом із проєктом
-— ми не обмежуємо твій карʼєрний ріст, все залежить виключно від твоїх амбіцій та результатів роботи.
+— ми не обмежуємо твій карʼєрний зріст, все залежить виключно від твоїх амбіцій та результатів роботи.
 У тебе будуть такі завдання:
-- Пост-аналіз змін, що проводяться в нащих продуктах.
+-
+Пост-аналіз змін, що проводяться в наших продуктах.
 — Сегментація та аналіз поведінки користувачів.
 — Симуляція та прогнозування ключових показників бізнесу, з метою раннього виявлення патернів.
 — Автоматизація data-driven процесів шляхом побудови вітрин даних, регулярної звітності, деплою коду.
@@ -1991,6 +1999,13 @@ Wisey
 — Доступи до корпоративної бібліотеки та різноманітних курсів
 — Команду, що підтримає у найскладніші часи.
 Чекаємо на твій відгук!
+Ставай частиною нашого Всесвіту.
+Instagram
+www.instagram.com/universe__apps
+Facebook
+www.facebook.com/universe.apps.info
+Linkedin
+www.linkedin.com/company/71226745
 ------------------------Responsibilities:
 Helping with developing strong work relationships with cross-functional teammates.
 Knowing how to validate the vision of the Value Stream within the teams.
@@ -2196,27 +2211,18 @@ Leisure time
 —	Corporate parties and events (Pub Quiz, Carquest, etc.);
 —	PM Foundation activities (social responsibility events);
 —	Weekly events aimed at culture, arts, soft skills development.
-------------------------JetSoftPro — це команда технічних професіоналів, які готові допомогти вашому бізнесу досягти технологічних цілей за допомогою найкращої розробки програмного забезпечення та обробки даних. Наша штаб-квартира розташована у Львові, Україна, у серці Східної Європи.
-Ми шукаємо бізнес-аналітика, який стане життєво важливою ланкою між нашим потенціалом інформаційних технологій і нашими бізнес-цілями, підтримуючи та забезпечуючи успішне виконання аналітичних завдань, створення, тестування та розгортання функцій нашого програмного продукту.
-Обов’язки:
-Визначення та переведення потреб бізнесу в чітко визначені вимоги
-Аналіз та управління зацікавленими сторонами
-Визначення обсягу робіт
-Розробка бізнес-кейсів, участь у етапах Pre-sales/Discovery
-Розробка документації щодо вимог, маючи user stories/ use cases, process flows, data flows and report mock-ups
-Планування, фасилітація та проведення сеансів збору вимог, зустрічей та презентацій
-Співпраця з командами розробників і тестувальників
-Навички/вимоги:
-2+ роки досвіду роботи як бізнес аналітик в проектах розробки програмного забезпечення
-Досвід організації діяльності з аналізу бізнесу
-Досвід збору, оформлення та перекладу бізнес-вимог
-Досвід роботи з методологіями Agile
-Досвід роботи з backlog, аналізом вимог та написанням user stories.
-Знання різних методологій розробки ПЗ (RUP, Waterfall, Scrum, Kanban)
-Хороші комунікаційні навички як з менеджментом, так і з технічними командами
-Чудовий тайм-менеджмент, багатозадачність та організаторські здібності
-Аналітичне та критичне мислення
-Рівень англійської мови Upper-Intermediate+
+------------------------Якщо ви мрієте створити щось справді глобальне, ходіть до нас в JetSoftPro
+Наша головна відмінність полягає в комплексному підході до розробки програмного забезпечення. Ми будуємо фірму, яка змінить традиційну модель ІТ-аутсорсингу.
+Завдяки вашій пристрасті та таланту ми створимо радикально новий тип всесвітньої платформи, де кожен розробник зможе знайти будь-яку роботу, пов’язану з його досвідом і обраними сферами розвитку.
+Як наш проектний менеджер, ваша робота полягатиме в координації людей і процесів, забезпеченні вчасного виконання наших проектів та отриманні бажаних результатів. Ви будете відповідальною людиною за організацію та графік проекту. Підтримуйте кількох клієнтів одночасно та надайте найсучасніші рішення для всіх потреб клієнтів.
+4+ роки досвіду роботи в управлінні IT проектами
+Знання кількох Agile фреймворків, SDLC, як будуються основні процеси в розробці програмного забезпечення, основні ролі
+Досвід управління проектами: планування, бюджетування, вирішення проблем, керування запитами на зміни, управління ризиками
+Критичне та системне мислення
+Розвинені комунікативні навички
+Високий рівень емоційного інтелекту
+Цілеспрямований та хороший керівник
+Англійська: Upper-Intermediate або вище (письмово та усно)
 Ми пропонуємо:
 Гнучкий графік роботи
 Віддалена робота/робота в офісі
@@ -2625,42 +2631,26 @@ Our selection process includes:
 — Background security check running in parallel.
 — Prompt feedback after every stage and a short summary of the next steps.
 If you are interested in this opportunity, please apply now.
-------------------------Required skills
-Summary: The ideal candidate is a team player who will be responsible for working with company data in various business areas. Someone who has strong development experience and background as well as who is very technical. Specific responsibilities include reporting metrics, analyzing methodologies, suggesting operation improvements, and building proposal evaluations in a cross-functional environment.
-— 2+ years of experience in system or business analysis;
-— Object modeling using UML;
-— Experience with typical integration patterns via DB, API, standard protocols (SOAP);
-— Strong analytical and systems thinking skills;
-— Development or Architecture experience;
-— Problem solving, attention to details, and result-oriented abilities;
-— Experience in implementing automation processes and best practices in development processes of the Product;
-— Experience in Workflow Design;
-— Experience in Business Process and Decision Flow Reengineering/Analysis;
-— Experience in creating functional specifications;
+------------------------Currently, we are looking for specialists who can support our customers in using our product.
+Required skills
+— 1+ years of technical experience in any area (system administration, HTML layout, programming, etc.);
+— Technical support experience will be a plus;
+— REST, SOAP
+— Problem-solving, attention to detail, and result-oriented abilities;
+— Knowledge of SQL.
 — Strong skills working as part of a project team;
+— Technical education;
+— Ready to learn and get new experience;
 — Good spoken and written English.
-Required skills:
-— SQL (MSSQL/ORACLE/PostgreSQL);
-— UML;
-— HTML, XML
 Responsibilities
-— Improve computer systems and applications, which requires analysis and testing of all systems currently in use by the business.
-— Design and write new computer programs and applications.
-— Test and debug all current and new applications by the technical business analyst on a regular basis.
-— Finding data and computer system risks and implementing new programming to address and eliminate these risks.
-— Create data conversion scripts in order to digitally store data. Some highly sensitive information may need to be encrypted before it is entered into the system.
-— Research data and write reports about computer systems, processes, and applications.
-— Communicate verbally and in written form with other technical staff, informing them of potential risks and briefing them on newly created computer programs.
-— Understand client’s business cases
-— Gather, analyze, organize and document requirements within the scope of the contract
-— Translate business requirements into technical ones for the development team
-— Manage requirements by creating use cases, specifications (including RTM, BRD, SRS, FRS), UML diagrams, wireframes, etc.
-— Design UI forms and business process logic
-— Present the completed project to the client and gain their acceptance
-— Create user training manuals and other instructional guides
-— Train the end-users about the product during formal and informal presentations
-— Document any change requests from the client
-— Explain the approved change requests to the development team
+— Communicate with customers;
+— Track and resolve customer questions and issues ;
+— Participate in QA process;
+— Test and debug all current and new applications by the technical business analyst on a regular basis;
+— Improve computer systems and applications, which requires analysis and testing of all systems currently in use by the business;
+— Research data and write reports about computer systems, processes, and applications;
+— Gather, analyze, organize and document requirements within the scope of the contract;
+— Document any change requests from the client.
 ------------------------Leadsdoit — успішна performance marketing команда з України. Ми займаємося affiliate-monetized проектами для зарубіжних та внутрішніх ринків. Створюємо власні мобільні додатки та проекти, спрямовані на весь світ.
 Ми зробили неймовірне — топові умови, інфраструктуру та ресурси, а все задля неймовірного баїнгу, мобільної розробки та професійної прокачки. А тому, де б ти не працював, у нас крутіше :)
 Ми зараз у пошуку топового Data Analyst для роботі у великому продуктовому проєкті з мобільної розробки додатку.
@@ -3025,33 +3015,30 @@ Metinvest Digital — українська ІТ-компанія, що спец�
 — Періодичні корпоративні заходи, в тому числі і спортивні.
 Якщо Вас цікавить кар’єрний та професійний розвиток в нашій компанії і Ви бажаєте вдосконалити вже наявні вміння спільно з нашою командою, ми з радістю розглянемо Ваше резюме.
 ------------------------WE ARE
-SoftServe is a leading technology solutions company specializing in software products, application development, and services. Our mission is to be a valuable partner for our clients (from start-ups to large enterprises) — we measure our success by our client’s success. We are a 10,000+ team across the globe and are passionate about the development of advisory and consulting services.
-We are a fast-growing unit looking for a solid professional capable of leading requirements management in the digital transformation of a legacy system. Our client is one of the largest and most innovative tax services providers in the US. Currently, we are planning to start an ambitious project to further develop and enhance the existing tax platform by moving from legacy applications to API services by building greenfield products.
-We are a team of passionate people having fun and a lot of satisfaction delivering complex solutions, come join us!
+SoftServe is a team of 13,000+ thinkers and makers, true professionals, and good people. We understand that the best way to build our future is to help you build yours.
+In our team, we are applying Computer Vision and Machine Learning in amazing ways to pathology, healthcare, and detect cancer and other diseases. Our engineering product technology stack uses Javascript and Python as the underpinnings. We use Javascript and Vue.js on Front End. Python is a first-class citizen for our web-based platforms using Django as our framework of choice for Back End. Testing Front End systems is accomplished using Cypress to exercise systems, and with some orchestration in Python.
+We’re looking for a skilled Middle/Senior Software Engineer in Test (SDET) focused on testing strategy, testing techniques, and testing infrastructure. You will be the Subject Matter Expert and create our testing strategy, provide tooling, and help teams adopt these new approaches and tools.
 YOU ARE
-A mature BA with more than 5+ years of BA experience in IT, new Cloud/API solution building, business or finance area, an excellent communicator with problem-solving skills, and a technical knack with the following profile
-Proficient in leading business/system analysis process
-Confident in business process modeling, prototyping, and modeling tools
-Familiar with prioritization techniques and scope management
-Knowledge of software development specifics and methodologies
-Understanding technical aspects and dependencies of the project, very detailed and results-oriented (there would be areas for investigation)
-Experienced with enterprise client’s business operations and legacy system migration
-Working with query database through SQL to validate the specific use case
+An experienced Test Automation Engineer (Python) with
+3-5
+years of experience
+Possessing Bachelor’s degree in Computer Science, or equivalent background
+Showing strong engineering skills
+Confident in testing at every level of the tech stack
+A person who has written automated tests for a complex system including APIs and modern WebUI
 YOU WANT TO WORK WITH
-Establishing and executing the process of the collection of requirements, utilizing the best practices for effective facilitation, requirements elicitation, documenting, prototyping, and modeling to ensure the solution meets the business needs
-Understanding the Client’s business objectives and translating them to the development team to assure alignment
-Establishing and following the requirement’s lifecycle process
-Client stakeholders to manage solution scope and prioritize requirements
-Consulting the project team and helping them to establish the change management process where applicable
-Jira, Confluence, Mira, and other tools
-Conducting demo sessions, where applicable
+Taking our testing strategy to the next level
+Building on a solid base to evolve testing strategy, frameworks, and infrastructure to help improve the overall quality of our platform
+Implementing current best practices from the testing world based on our strict quality requirements
+Defining the desired level of test coverage and achieving that coverage
+Ensuring that the tests improve overall developer efficiency
+Assuring that engineers are equipped with the right tools in order to understand test failure causes and debug failures when needed
 TOGETHER WE WILL
-Accomplish great things
-Get a great deal of learning and development opportunities and our structured career path with objective promotion criteria
-Participate in high-caliber projects at a stable place of work
-Take part in internal and external events where you can build and promote your brand
-Give you access to experienced specialists willing to share their knowledge
-Care about your initiatives. We are open to them; just come and share your ideas
+Be integrated within the greater software development teams, understanding, and advising on architecture, teaching good test habits, and aiding in designing and implementing automated tests at all levels
+Create frameworks, systems, and infrastructure to help the greater organization in elevating our test capabilities and habits
+Join our budding SDET organization as we tackle more products and mature our testing infrastructure and strategy
+Operate in the same space and manner as the product teams and participate in planning, design, and implementation
+Teach engineering groups about the test structure and how application design affects testing
 ------------------------In support of the ongoing growth, OLSOM is seeking talented security analyst to join to customers team from the USA.
 Responsibilities:
 Global IT security program support for Proof of Concepts (POCs), project, client test and roll-out, security tool monitoring.
@@ -3372,15 +3359,15 @@ We think that at the end of the day, it’s people who matter. And we are a comp
 — продуктова IT-компанія, у якій ми відтворили світ венчурних інвестицій. Як
 venture builder
 , ми будуємо та запускаємо стартапи, у серці яких — аналітика, дані та машинне навчання.
-Наразі SocialTech має вісім проектів, мільйони користувачів по всьому світу й сильну команду з крутою експертизою й амбітними цілями, яка нараховує 400+ фахівців. Та на цьому ми не збираємося зупинятись.
+Наразі SocialTech має вісім проєктів, мільйони користувачів по всьому світу й сильну команду з крутою експертизою й амбітними цілями, яка нараховує 400+ фахівців. Та на цьому ми не збираємося зупинятись.
 Мета компанії на наступні п’ять років — мати
 10-15
-успішних проектів у нашому портфелі, п’ять з яких оцінені у понад $1 млрд або перевищили річний дохід у $100 млн. Щоб зробити це можливим, ми будуємо першокласну бізнес-інфраструктуру й шукаємо найталановитіших людей з жагою до створення проривних проектів.
+успішних проєктів у нашому портфелі, п’ять з яких оцінені у понад $1 млрд або перевищили річний дохід у $100 млн. Щоб зробити це можливим, ми будуємо першокласну бізнес-інфраструктуру й шукаємо найталановитіших людей з жагою до створення проривних проєктів.
 Зараз ми в пошуку
 Data Analyst
 для підсилення команди аналітики.
-Про проект.
-Communication marketplace. Стали прибутковими за 2 роки. Паралельно розпочинаємо запуск нового великого продукту. Активно розвиваємо аналітичний стек (BigQuery, Tableau, Python, Airflow, GrowthBook)
+Про проєкт.
+Стали прибутковими за 2 роки. Паралельно розпочинаємо запуск нового великого продукту. Активно розвиваємо аналітичний стек (BigQuery, Tableau, Python, Airflow, GrowthBook)
 Про команду.
 Команда складається з 4 людей разом з Analytics Lead. Кожен член команди тісно співпрацює з продуктовою, інженерною і операційною командами.
 Must have:
@@ -3478,9 +3465,9 @@ Product management
 Billing Development
 Запускаємо та підключаємо всі можливі платіжні методи, оптимізуємо процеси оплати кастомерів по всьому світу.
 Customer Care and Sales
-Надаємо підтримку, супроводжуємо білінг процеси, працюємо з Zendesk та робимо аналітику.
-Inbound and Paid Marketing.
-Створюємо текстовий та відео контент, на всіх локалях. Керуємо сайтами для монополізації пошукової видачі.
+Надаємо підтримку нашим продуктам, супроводжуємо білінг процеси, працюємо з Zendesk.
+Inbound and Paid Marketing
+Генеруємо мультиканальний worldwide трафік на наші продукти, створюємо контент, працюємо із великими бюджетами.
 Як
 Data Analyst
 , Ви будете формувати майбутнє компанії та працювати безпосередньо з керівниками відділів (Development, Billing, Marketing, Customer Care, тощо).
@@ -3566,8 +3553,8 @@ We Offer:
 ------------------------Команда
 Nova Poshta Global
 ставить перед собою завдання створити найзручніший у світі діджитал-сервіс із глобальної доставки для приватних клієнтів та e-commerce. Якщо ти глобально мислиш і допитливість ключовий елемент у твоєму житті — ми впевнені, що ти будеш у захваті від проєктів та завдань із глобальними викликами.
-Для досягнення глобальних цілей, ми запрошуємо до своєї команди
-Системного аналітика (інтеграції).
+Для досягнення глобальних цілей, ми запрошуємо до своєї команди Бізнес Аналітика
+.
 Необхідні навички:
 Вільне володіння англійською мовою
 Досвід побудови інтеграцій між системами та сервісами
@@ -4100,20 +4087,34 @@ Data Analyst
 — Велика електронна бібліотека та доступ до платних онлайн-курсів і конференцій, внутрішні бесіди і воркшопи, курси англійської.
 Залишай своє резюме і приєднуйся до Boosters!
 ------------------------Requirements:
-— 1+ year experience in Data Science, Data Analysis
-— Experience with bash, git
-— Knowledge of SQL
-— Intermediate English level
-— Desire to learn & expand your comfort zone whenever a new technological trend in the relevant areas arises
-— Strong interpersonal and communication skills
-— Be interested and keen to learn everything around AI and AI related organizational transformation
-Proposal
-— Full-time remote work
-— 24 days vacation per year
-— Knowledge sharing, covering conference expenses
-— Flexible work-time
-Goal
-Working on event management US-based platform
+Work experience as a Product Owner or similar role in product management or senior BA ideally in the software industry.
+Knowledge of at least one of the industries: CPG, Retail, Commodity Trading, Lifesciences.
+Proven knowledge of data science process in the different data factory stages.
+Experience with project management tools like Jira, Azure DevOps is a plus.
+Familiarity with agile is a plus.
+Fluent English.
+Responsibilities:
+Set Product vision with Product stakeholders
+Identify business problems and act accordingly
+· Create a Value proposition
+· Incorporate feature requests into the product roadmap
+· Groom and prioritize the backlog
+· Develop user stories and define acceptance criteria based on cross-team inputs
+Work in Agile
+· Set sprint goals
+· Write acceptance tests
+· Plan releases and upgrades
+· Follow the progress of work and address production issues during sprints
+Build User Communication
+· User interface
+· Models / Model communication
+· Documentation (plans)
+Keep track of industry trends
+We offer:
+Full-time remote work
+24 days vacation per year
+Knowledge sharing, covering conference expenses
+Flexible work-time
 ------------------------Привіт!
 Ми — TemaBit Fozzy Group — команда фанатів технологій, які змінюють користувацький досвід українців.
 Розробками нашої команди щодня користуються 65 000 співробітників Fozzy Group, тисячі партнерів та мільйони гостей «Сільпо», «Фора», Fozzy, Thrash!
@@ -4228,15 +4229,7 @@ Product Analyst
 bit.ly/referral_program_JatApp
 .
 ------------------------Привіт👋
-Хочемо познайомити тебе з командою
-JatApp,
-яка займається запуском та розвитком різноманітних мобільних та крос-платформних діджитал продуктів в нішах бізнес, утиліти та розваги.
-Продукти, з якими ти працюватимеш, займають
-топові позиції
-у пошуковій видачі App Store на ринку США, Канади, Британії та Австралії. Щодня ними користуються мільйони юзерів з усього світу.
-Ми зростаємо надшвидкими темпами, саме тому зараз ми в пошуках талановитого
-продуктового аналітика
-, який буде допомагати в прийнятті бізнес та продуктових рiшень. У цій ролі ти будеш тісно співпрацювати з нашими командами продакт і маркетинг менеджерів та відповідати за оптимізацію воронок продажів, оцінку нових гіпотез, пошук точок зростання та надання рекомендацій на основі даних.
+Шукаємо талановитого Product Analyst, який допоможе нам приймати найоптимальніші рішення для бізнесу та продуктів. Ти будеш тісно співпрацювати з нашими командами продуктових і маркетинг менеджерів та відповідатимеш за оптимізацію воронок продажів, оцінку нових гіпотез, пошук точок зростання та надання рекомендацій на основі даних.
 Ти будеш займатися:
 Розробкою продуктових дашбордів, які дозволять швидше реагувати на зміни та якісніше приймати бізнес рішення
 Вимірюванням ефективності маркетингових каналів та шляхів їх подальшої оптимізації з метою зниження вартості трафіку та підвищення ROAS
@@ -4583,7 +4576,7 @@ Teiva Systems is looking for a Senior ServiceNow Consultant & Business Analyst w
 — Критерії оцінки.
 — Кінцевий термін подання пропозицій.
 У разі зацікавленості, будь ласка, надішліть свою заявку до 23:59 (за Київським часом)
-25 Вересня 2022 року на
+20 жовтня 2022 року на
 [email protected]
 з темою листа " RFP-FY23-09-14 UNITY «Емолодь»
 ------------------------About company
@@ -4930,7 +4923,7 @@ Responsibilities:
 We could assist to you together with your family relocation and accommodation into Estonia. Priority is given to developers with experience in the crypto/blockchain field.
 Salary level is negotiable regarding candidate experience and knowledge level.
 0% bureaucracy, Very Ambitious stable and profitable project with adequate management.
-Tallinn (Estonia) $2350–3800
+Tallinn (Estonia) $1350–3500
 EUROGROUP TECHNOLOGIES OÜ
 Harju maakond, Tallinn, Kesklinna linnaosa, Tuukri tn
 19-222,
@@ -5049,7 +5042,7 @@ Develop Dashboards to display aircraft flight routes and network performance dat
 Track project stories/tasks, provide status and ensure stories/tasks are completed on schedule
 May participate in establishing and maintaining software build environment and source code repository for assigned projects
 Requirements:
-Experience with BI tools and Dashboards such as Tableau or similar
+Experience with BI tools and Dashboards such as Tableau
 Experience with SQL
 Being result-oriented, ability to make things done in a highly dynamic environment
 Understanding and experience with data warehouse concepts
@@ -5525,37 +5518,37 @@ Intecracy Group
 — зручний графік роботи;
 — професійний розвиток.
 Запрошуємо Вас стати частиною дружної команди професіоналів!
-------------------------N-iX
-is looking for a passionate and motivated
-QlikSense Engineer
-to join our team.
-Our team seeks to unleash the full potential of our data assets by bringing technology and data, and insights to the forefront of decision making via fit-for-purpose data analytics solutions.
+------------------------We are looking for a strong, highly motivated Scala Engineer, who will fulfill our cross-functional team as a backend developer on the development of various products.
+You’ll have responsibility for all aspects of the application development lifecycle, from design through to build, test and deploy, plus anything from back-end services to their client-end counterparts.
+You'll be involved in collaboration with the rest of the team and a customer working on different layers of the infrastructure. Therefore, a passion for collaborative problem solving, sophisticated design, and quality product is essential.
+Our customer gives us freedom and trust on a full development lifecycle as well to find and experiment with the best tools for the job.
+Over time, you will begin to establish your own responsibilities as you both define and react to the opportunities to enhance and improve our system. You'll be excited about making an impact and growing with the team.
 Responsibilities:
-The QlikSense Engineer will analyze, transform, and interpret data and develop reports, visualizations, and dashboards.
-Required:
-2+ years of experience working directly with Qlik Sense as an Engineer
-Perform data model design and implementation using the Qlik associative data model and Qlik Script Editor
-Experience building QlikSense Data Models
-Data experience (data architecture, data modeling, data engineering)
-2+ years of experience with writing and debugging SQL queries
-Data experience (data architecture, data modeling, data engineering)
-Have a working understanding of visual analytics best practices, development processes, and knowledge of typical BI & analytics tools and technologies (Tableau, Power BI, etc.)
-Integrate reporting components from multiple data sources
-Create and deploy Qlik load scripts to load and build the data model and associated QVDs
-Effective analytical, conceptual, and problem-solving skills
-Ability to manage multiple concurrent assignments and meet specified milestones
-Experience in optimizing dashboards with a focus on usability, performance, flexibility, and standardization
-Experience in end-to-end implementation of BI projects for developing a portfolio of scorecards, KPIs, reports & dashboards
+Designing, building, and maintaining efficient, reusable, and reliable code
+Sharing new ideas and techniques and methodologies
+Delivering quality through well written unit tests
+Build tools and automation of development techniques
+Collaboration and communication with team and customer in all development phases
+Requirements:
+2+ years of commercial Scala development experience
+Rich experience creating REST-based web-services
+Proficient in SQL/noSQL
+Expertise in prototyping and rapid development
+Experience with CI, and ideally CD
+Proficiency with unit testing frameworks
+Strong knowledge of design patterns
+Analyze, plan and estimate requirements as well as identify risks involved and provide solutions to them
+Understanding of design principles behind scalable and testable applications
+Experience with agile methodology will be a plus
 Nice to have:
-Experience with BigQuery a plus
-Experience working in the GCP cloud environment is a plus
-Passionate about data visualization
-Ability to perform training and mentorship
+Experience of usage AWS services is a big plus
+Experience in Kafka
+Experience with client side frameworks like AngularJS and ReactJS
 We offer:
 Flexible working format — remote, office-based or flexible
 A competitive salary and good compensation package
 Flexible and personalized career growth
-Professional development tools (mentorship program, tech talks and training, centers of excellence, and more)
+Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
 Active tech communities with regular knowledge sharing
 Education reimbursement
 Paid vacation days, sick leaves, and days off
@@ -5566,7 +5559,7 @@ Corporate events and team buildings
 REFER A FRIEND,
 GET A BONUS
 Do you have a talented, smart, and tech-savvy friend? Tell them about N-iX, help them find their dream job, and receive a pleasant bonus as a thank you.
-GET A BONUS
+GET $1500
 ------------------------Room 8 Group
 is a uniting force of Room 8 Studio, Dragons Lake, and Massive Black — international leaders, providing worldwide game development and art production services. Room 8 Group oversees the companies’ corporate life and business processes, while experts of the industry work with 7/10 top global publishers supporting all aspects of game creation.
 Join the phenomenal team of professionals and deliver creative and tech services, bringing games to the next level together with Room 8 Group.
@@ -5665,24 +5658,24 @@ Aналізувати конкурентів;
 Різноманітна та інклюзивна культура для об’єднання найвидатніших талантів;
 Спільнота людей, які розуміють вашу пристрасть до ігор.
 Разом ми виведемо ігри на новий рівень. Саме з тобою!
-------------------------Працювати в
+------------------------Ми — продуктова IT-компанія
 appflame
-— це можливість розвивати свої здібності в особливих умовах, де сумісні дух стартапу, налаштовані процеси без бюрократії та команда своїх людей.
-Ми розвиваємо власні продукти в ніші social network/lifestyle. Наші продукти працюють на Tier-1 ринках, таких як США, Великобританія, Канада й Австралія та входять у Топ-5 рейтингів App Store у своїх категоріях.
-Чим будеш займатись:
+. Ми створюємо продукти, що змінюють життя та ламають правила гри в категорії. Територіально знаходимося в Україні, реально — по всьому світу.
+Ми шукаємо зухвалих та навіжених. Тих, що фанатіють від створення справжніх продуктів та мріють запускати й розвивати круті стартапи. З тебе — амбіції, з нас — комфортні умови для їх реалізації.
+Ти будеш:
 ●
-генерація гіпотез для покращення роботи білінг логік сумісно з командою продакт-менеджерів та аналітиків;
+генерувати гіпотези для покращення роботи білінг логік сумісно з командою продакт-менеджерів та аналітиків;
 ●
-щоденний моніторинг ключових платіжних метрик, контроль прохідності платежів;
+займатися щоденним моніторингом ключових платіжних метрик, контролем прохідності платежів;
 ●
-комунікація з PSP та банками;
+комунікувати з PSP та банками;
 ●
-робота над оптимізацією маржинальності процесингу;
+працювати над оптимізацією маржинальності процесингу;
 ●
-аналіз hight-risk сегментів трафіку, оптимізація;
+аналізувати hight-risk сегментів трафіку, оптимізація;
 ●
-актуалізація проєктної документації.
-Що ми від тебе чекаємо:
+актуалізувати проєктну документацію.
+З тебе:
 ●
 хороші аналітичні навички, уважність до деталей;
 ●
@@ -5700,24 +5693,31 @@ appflame
 досвід роботи в customer support billing department;
 ●
 розуміння основних продуктових метрик.
-У твій перший день
-тебе зустріне HR Manager, яка познайомить тебе з компанією та командою, проведе екскурсію офісом та відповість на всі питання. На тебе чекатиме все необхідне (ноутбук, робоче місце, пакет новачка, обіди на тиждень і т.д.). Ми зробимо все необхідне, щоб ти почувався/лася комфортно та будемо підтримувати тебе в період адаптації та після.
-Ми пропонуємо:
-Для наших працівників ми створюємо умови, притаманні великим корпораціям.
-💸 Компенсація по верхній межі ринку. Регулярні рев’ю та перегляд компенсації в залежності від твоїх результатів.
-🚑 Повне медичне страхування після випробувального терміну (включно з діагностикою COVID-19, стоматологією), корпоративний лікар та масаж в офісі.
-🏫 Зручний та просторий офіс з новим ремонтом, кімнатою для сну та душем.
-💻 Сучасна техніка та круте обладнання, необхідне для комфортної роботи.
-📕 Безплатні курси англійської мови в офісі, компенсація семінарів, виставок, конференцій — все, що необхідно для твого професійного розвитку.
-✈️ Загальнокомандні подорожі за рахунок компанії (за 3 роки відвідали: Кіпр, Іспанію (2 рази), Шрі-Ланку, Єгипет, Мексику, Грецію).
-🏓 Ігрова кімната з пінг-понгом, спортивний куточок, настільні ігри та PlayStation.
-🏃‍♂‍Йога та стретчинг в офісі. Тренування з футболу, баскетболу, бігу. Оплата участі в спортивних змаганнях по всьому світу.
-🍔 Безплатні сніданки, обіди, холодильник з напоями та снеками, свіжі фрукти та солодощі.
-Уяви, що ти вже з нами!
+Твій шлях до вакансії:
+повідомлення від рекрутера > співбесіда > тестове > фінальна співбесіда > job offer.
+Чому appflame?
+●
+Причетність до українських продуктів, які конкурують із найкращими світовими гравцями.
+●
+Можливість реалізувати власні ідеї, а не відчуття гвинтика у системі.
+●
+Продукти із сенсом та користю, а не просто заради заробітку акціонерів.
+●
+Відчуття себе серед своїх, заряджених на результат людей.
+●
+Робота зі світовим ринком та величезною аудиторією.
+●
+Прямий контакт зі Snapchat, Facebook, Google, Apple та доступ до їх кращих практик.
+●
+Налагоджені процеси та відсутність бар’єрів для зростання всередині компанії.
+●
+Прозора оцінка роботи на основі особистих показників ефективності.
+●
+Потужний соцпакет та справедлива компенсація.
+Ми забезпечуємо всі умови для того, щоб твої таланти розкрилися повною мірою. Ми віддані своїм людям. І наша відданість не зникає наприкінці робочого дня. Ми не лишаємо своїх сам на сам із проблемами: ані професійними, ані особистими.
+Приєднуйся.
 __________
-Інклюзивність та різноманіття одні з основ політики
-appflame
-. Ми забезпечуємо рівні можливості працевлаштування незалежно від раси, кольору шкіри, релігії, статі, сексуальної орієнтації, гендерної ідентичності, віку, сімейного стану, громадянства, національного походження, стану здоров’я чи будь-якої іншої характеристики.
+Ми проти будь-яких видів дискримінації, булінгу та стереотипів. Ми забезпечуємо рівні можливості працевлаштування незалежно від раси, кольору шкіри, релігії, статі, сексуальної орієнтації, гендерної ідентичності, віку, сімейного стану, громадянства, національного походження, стану здоров’я чи будь-якої іншої характеристики.
 ------------------------ПриватБанк
 — є найбільшим банком України та одним з найбільш інноваційних банків світу. Займає лідуючі позиції за всіма фінансовими показниками в галузі та складає близько чверті всієї банківської системи країни.
 Ми шукаємо
@@ -6139,9 +6139,9 @@ Product management
 Billing Development
 Запускаємо та підключаємо всі можливі платіжні методи, оптимізуємо процеси оплати кастомерів по всьому світу.
 Customer Care and Sales
-Надаємо підтримку, супроводжуємо білінг процеси, працюємо з Zendesk та робимо аналітику.
+Надаємо підтримку нашим продуктам, супроводжуємо білінг процеси, працюємо з Zendesk.
 Inbound and Paid Marketing
-Створюємо текстовий та відео контент, на всіх локалях. Керуємо сайтами для монополізації пошукової видачі.
+Генеруємо мультиканальний worldwide трафік на наші продукти, створюємо контент, працюємо із великими бюджетами.
 На посаді
 Senior Data Analyst
 Ви будете формувати майбутнє компанії та працювати безпосередньо з керівниками відділів (Development, Billing, Marketing, Customer Care, тощо).
@@ -6267,19 +6267,35 @@ Geek community:
 at KindGeek, we value community — even in the social distancing times we take every opportunity to stick together. Our Geeks organize various online and offline clubs — from stretching and skiing to English. Football enthusiasts can also join the corporate team that regularly participates in Lviv IT League.
 Flexibility:
 KindGeek offers a hybrid working model. Team members can work remotely or from the office or KindGeek London Hub — an innovative cafe-style co-working.
-------------------------We are looking for a BA who has:
-2+ years of experience as a Business/System Analyst;
-Analytical and communications skills necessary to gather and define business requirements and translate them into solutions;
-Ability to work with multiple stakeholders in the international environment;
-Upper-Intermediate (or above) English level.
-Would be a Plus:
-Technical background (including knowledge of programming basics);
-System analysis skills (data modelling)
-As BA You will:
-Define and prioritise high-level requirements;
-Collect estimates from developers;
-Prepare roadmaps;
-Specify low-level requirements based on spoken and written communication with the technical customer.
+------------------------We are looking for a talented
+Automation QA Engineer
+to join our team on a highly interesting and challenging project.
+We are looking for AQA Engineer who:
+Has experience in the development of frameworks based on JS;
+Has understanding of the Test process;
+Has good OOP knowledge;
+Familiar with architecture patterns;
+Has knowledge of language JavaScript;
+Has experience with API testing;
+Has knowledge of Selenium/Selenide, DOM, Selectors, WDIO;
+Has experience with the framework: NodeJS or similar;
+Has knowledge of CI/CD: Jenkins;
+Has experience with Agile and Scrum.
+Can speak and write in English on upper-intermediate or higher level and efficiently communicate ideas, design, and document artifacts concisely;
+Manifests KindGeek corporate values — trust, transparency, social responsibility, and a sense of beauty.
+Would be a plus:
+Has experience with Stress/Load testing.
+As an
+AQA Engineer
+, you will:
+Automate existing test cases;
+Extend, modify and maintain test automation framework;
+Integrate framework with additional services/tools;
+Analyze test report;
+Participate in test planning, grooming, and estimation;
+Interact with the development team;
+Identify and report discovered issues/bugs and provide them to the development team;
+Demonstrate communication and proactive skills.
 We want you to thrive and feel supported
 Professional growth:
 at KindGeek, we want our employees to grow and achieve ambitious professional goals. We support professional development with training and certifications refunds, as well as provide regular feedback and technical reviews.
@@ -6420,13 +6436,13 @@ We offer:
  Educational possibilities
  Competitive compensation
  Warm and friendly attitude to every specialist
-------------------------Працювати в
+------------------------Ми — продуктова IT-компанія
 appflame
-— це можливість розвивати свої здібності в особливих умовах, де сумісні дух стартапу, налаштовані процеси без бюрократії та команда своїх людей.
-Ми розвиваємо власні продукти в ніші social network/lifestyle. Наші продукти працюють на Tier-1 ринках, таких як США, Великобританія, Канада й Австралія та входять у Топ-5 рейтингів App Store у своїх категоріях.
-Чим будеш займатись:
+. Ми створюємо продукти, що змінюють життя та ламають правила гри в категорії. Територіально знаходимося в Україні, реально — по всьому світу.
+Ми шукаємо зухвалих та навіжених. Тих, що фанатіють від створення справжніх продуктів та мріють запускати й розвивати круті стартапи. З тебе — амбіції, з нас — комфортні умови для їх реалізації.
+Ти будеш:
 ●
-будеш досліджувати великі масиви даних;
+досліджувати великі масиви даних;
 ●
 шукати точки росту;
 ●
@@ -6439,7 +6455,7 @@ appflame
 пропонувати як оптимізувати та збільшувати об’єми трафіку;
 ●
 візуалізувати дані для прийняття рішень.
-Що ми від тебе чекаємо:
+З тебе:
 ●
 досвід роботи на аналітичній посаді від 2 років і більше;
 ●
@@ -6467,24 +6483,31 @@ appflame
 досвід роботи з Git;
 ●
 досвід роботи з AirFlow.
-У твій перший день
-тебе зустріне HR Manager, яка познайомить тебе з компанією та командою, проведе екскурсію офісом та відповість на всі питання. На тебе чекатиме все необхідне (ноутбук, робоче місце, пакет новачка, обіди на тиждень і т.д.). Ми зробимо все необхідне, щоб ти почувався/лася комфортно та будемо підтримувати тебе в період адаптації та після.
-Ми пропонуємо:
-Для наших працівників ми створюємо умови, притаманні великим корпораціям.
-💸 Компенсація по верхній межі ринку. Регулярні рев’ю та перегляд компенсації в залежності від твоїх результатів.
-🚑 Повне медичне страхування після випробувального терміну (включно з діагностикою COVID-19, стоматологією), корпоративний лікар та масаж в офісі.
-🏫 Зручний та просторий офіс з новим ремонтом, кімнатою для сну та душем.
-💻 Сучасна техніка та круте обладнання, необхідне для комфортної роботи.
-📕 Безплатні курси англійської мови в офісі, компенсація семінарів, виставок, конференцій — все, що необхідно для твого професійного розвитку.
-✈️ Загальнокомандні подорожі за рахунок компанії (за 3 роки відвідали: Кіпр, Іспанію (2 рази), Шрі-Ланку, Єгипет, Мексику, Грецію).
-🏓 Ігрова кімната з пінг-понгом, спортивний куточок, настільні ігри та PlayStation.
-🏃‍♂‍Йога та стретчинг в офісі. Тренування з футболу, баскетболу, бігу. Оплата участі в спортивних змаганнях по всьому світу.
-🍔 Безплатні сніданки, обіди, холодильник з напоями та снеками, свіжі фрукти та солодощі.
-Уяви, що ти вже з нами!
+Твій шлях до вакансії:
+повідомлення від рекрутера > співбесіда > тестове > фінальна співбесіда > job offer.
+Чому appflame?
+●
+Причетність до українських продуктів, які конкурують із найкращими світовими гравцями.
+●
+Можливість реалізувати власні ідеї, а не відчуття гвинтика у системі.
+●
+Продукти із сенсом та користю, а не просто заради заробітку акціонерів.
+●
+Відчуття себе серед своїх, заряджених на результат людей.
+●
+Робота зі світовим ринком та величезною аудиторією.
+●
+Прямий контакт зі Snapchat, Facebook, Google, Apple та доступ до їх кращих практик.
+●
+Налагоджені процеси та відсутність бар’єрів для зростання всередині компанії.
+●
+Прозора оцінка роботи на основі особистих показників ефективності.
+●
+Потужний соцпакет та справедлива компенсація.
+Ми забезпечуємо всі умови для того, щоб твої таланти розкрилися повною мірою. Ми віддані своїм людям. І наша відданість не зникає наприкінці робочого дня. Ми не лишаємо своїх сам на сам із проблемами: ані професійними, ані особистими.
+Приєднуйся.
 __________
-Інклюзивність та різноманіття одні з основ політики
-appflame
-. Ми забезпечуємо рівні можливості працевлаштування незалежно від раси, кольору шкіри, релігії, статі, сексуальної орієнтації, гендерної ідентичності, віку, сімейного стану, громадянства, національного походження, стану здоров’я чи будь-якої іншої характеристики.
+Ми проти будь-яких видів дискримінації, булінгу та стереотипів. Ми забезпечуємо рівні можливості працевлаштування незалежно від раси, кольору шкіри, релігії, статі, сексуальної орієнтації, гендерної ідентичності, віку, сімейного стану, громадянства, національного походження, стану здоров’я чи будь-якої іншої характеристики.
 ------------------------Ми у Цитрусі завжди говоримо: «Яскраво жити не заборониш».
 Виглядай — як хочеш, думай — про все на світі, роби — те, що до душі, і працюй — у Цитрусі.
 У нас діє лише одне правило: відрізнятись дозволено!
@@ -6513,13 +6536,13 @@ draw.io
 Офіційне працевлаштування, оплачувана відпустка та лікарняний
 Гнучкий графік: 5/2 з 9/10—18/19
 Цитрус. Відрізнятись роботою!
-------------------------Працювати в
+------------------------Ми — продуктова IT-компанія
 appflame
-— це можливість розвивати свої здібності в особливих умовах, де сумісні дух стартапу, налаштовані процеси без бюрократії та команда своїх людей.
-Ми розвиваємо власні продукти в ніші social network/lifestyle. Наші продукти працюють на Tier-1 ринках, таких як США, Великобританія, Канада й Австралія та входять у Топ-5 рейтингів App Store у своїх категоріях.
-Чим будеш займатись:
+. Ми створюємо продукти, що змінюють життя та ламають правила гри в категорії. Територіально знаходимося в Україні, реально — по всьому світу.
+Ми шукаємо зухвалих та навіжених. Тих, що фанатіють від створення справжніх продуктів та мріють запускати й розвивати круті стартапи. З тебе — амбіції, з нас — комфортні умови для їх реалізації.
+Ти будеш:
 ●
-будеш досліджувати великі масиви даних;
+досліджувати великі масиви даних;
 ●
 шукати точки росту;
 ●
@@ -6532,7 +6555,7 @@ appflame
 пропонувати як оптимізувати та збільшувати об’єми трафіку;
 ●
 візуалізувати дані для прийняття рішень.
-Що ми від тебе чекаємо:
+З тебе:
 ●
 досвід роботи на аналітичній посаді від 1 року і більше;
 ●
@@ -6560,26 +6583,31 @@ appflame
 досвід роботи з Git;
 ●
 досвід роботи з AirFlow.
-Комфортні етапи:
-повідомлення від рекрутера, співбесіда, тестове завдання, фінальна співбесіда, job offer.
-У твій перший день
-тебе зустріне HR Manager, яка познайомить тебе з компанією та командою, проведе екскурсію офісом та відповість на всі питання. На тебе чекатиме все необхідне (ноутбук, робоче місце, пакет новачка, обіди на тиждень і т.д.). Ми зробимо все необхідне, щоб ти почувався/лася комфортно та будемо підтримувати тебе в період адаптації та після.
-Ми пропонуємо:
-Для наших працівників ми створюємо умови, притаманні великим корпораціям.
-💸 Компенсація по верхній межі ринку. Регулярні рев’ю та перегляд компенсації в залежності від твоїх результатів.
-🚑 Повне медичне страхування після випробувального терміну (включно з діагностикою COVID-19, стоматологією), корпоративний лікар та масаж в офісі.
-🏫 Зручний та просторий офіс з новим ремонтом, кімнатою для сну та душем.
-💻 Сучасна техніка та круте обладнання, необхідне для комфортної роботи.
-📕 Безплатні курси англійської мови в офісі, компенсація семінарів, виставок, конференцій — все, що необхідно для твого професійного розвитку.
-✈️ Загальнокомандні подорожі за рахунок компанії (за 3 роки відвідали: Кіпр, Іспанію (2 рази), Шрі-Ланку, Єгипет, Мексику, Грецію).
-🏓 Ігрова кімната з пінг-понгом, спортивний куточок, настільні ігри та PlayStation.
-🏃‍♂‍Йога та стретчинг в офісі. Тренування з футболу, баскетболу, бігу. Оплата участі в спортивних змаганнях по всьому світу.
-🍔 Безплатні сніданки, обіди, холодильник з напоями та снеками, свіжі фрукти та солодощі.
-Уяви, що ти вже з нами!
+Твій шлях до вакансії:
+повідомлення від рекрутера > співбесіда > тестове > фінальна співбесіда > job offer.
+Чому appflame?
+●
+Причетність до українських продуктів, які конкурують із найкращими світовими гравцями.
+●
+Можливість реалізувати власні ідеї, а не відчуття гвинтика у системі.
+●
+Продукти із сенсом та користю, а не просто заради заробітку акціонерів.
+●
+Відчуття себе серед своїх, заряджених на результат людей.
+●
+Робота зі світовим ринком та величезною аудиторією.
+●
+Прямий контакт зі Snapchat, Facebook, Google, Apple та доступ до їх кращих практик.
+●
+Налагоджені процеси та відсутність бар’єрів для зростання всередині компанії.
+●
+Прозора оцінка роботи на основі особистих показників ефективності.
+●
+Потужний соцпакет та справедлива компенсація.
+Ми забезпечуємо всі умови для того, щоб твої таланти розкрилися повною мірою. Ми віддані своїм людям. І наша відданість не зникає наприкінці робочого дня. Ми не лишаємо своїх сам на сам із проблемами: ані професійними, ані особистими.
+Приєднуйся.
 __________
-Інклюзивність та різноманіття одні з основ політики
-appflame
-. Ми забезпечуємо рівні можливості працевлаштування незалежно від раси, кольору шкіри, релігії, статі, сексуальної орієнтації, гендерної ідентичності, віку, сімейного стану, громадянства, національного походження, стану здоров’я чи будь-якої іншої характеристики.
+Ми проти будь-яких видів дискримінації, булінгу та стереотипів. Ми забезпечуємо рівні можливості працевлаштування незалежно від раси, кольору шкіри, релігії, статі, сексуальної орієнтації, гендерної ідентичності, віку, сімейного стану, громадянства, національного походження, стану здоров’я чи будь-якої іншої характеристики.
 ------------------------Вимоги:
 Аналітичний склад розуму, відмінні вміння рахувати, критичне мислення, увага до деталей і мультизадачність, щоб відповідати вимогам і очікуванням проекту
 Комунікативні навички
@@ -6766,19 +6794,35 @@ Responsibilities
 🔹Managing the development workflow applying Agile methodologies
 About Project
 Follow your passion, create exciting products inspired by industry experts, and work on complex business solutions until they reach global market recognition. Our aim is to always be the best, grow, improve, and innovate. And we would welcome a like-minded person to become an invaluable part of our team!
-------------------------Syndicode
-is looking for a Financial Analyst who will strengthen our Financial Department and take part in its improvement and development.
-About us
-A
+------------------------About us
+Syndicode
+is a trustful digital transformation partner that will take care of every aspect of the business — from product development and delivery to maintenance and marketing promotion. We make customers’ success our top priority and establish long-term relationships with clients.
+Syndicode
+strives to create a sound feeling of
+maturity
+for the client and the high professionalism of the company’s engineers and managers.
+Maturity
+is our focus while selecting candidates. For Syndicode, it means being proactive, accountable, self-aware, and able to think critically.
+Besides, our shared principles are:
+Accountability
+,
+Involvement
+,
+Excellence
+,
+Visibility
+,
+Integrity
+,
+Innovation
+,
+Win-Win
+,
+Flexibility
+.
+This way, we ensure our employees’ high productivity and ability to fit in any work environment. If it sounds like you, apply to our jobs and become a new
 Syndicoder
-possesses good soft skills, loves what he/she does, can trust and delegate, is always ready to learn new things, and unites people in difficult situations.
-Every
-Syndicoder
-is an innate part of the horizontally built team with a massive pool of interests and knowledge. For us, friendship, empathy, dedication, and respect are not just words — they are what make Syndicode a team
-Our core
-values
-are Integrity, Openness, Responsibility, and Being ready to support.
-It is unacceptable for us to cheat or be silent about problems on a project, systematically fail to perform our duties, have no desire to develop, and be toxic in any way.
+!
 🌟 What you’ll get at Syndicode
 Fully remote job and flexible working hours
 Coverage of health insurance or annual health check-ups
@@ -6884,25 +6928,26 @@ __________
 Інклюзивність та різноманіття одні з основ політики
 appflame
 . Ми забезпечуємо рівні можливості працевлаштування незалежно від раси, кольору шкіри, релігії, статі, сексуальної орієнтації, гендерної ідентичності, віку, сімейного стану, громадянства, національного походження, стану здоров’я чи будь-якої іншої характеристики.
-------------------------Працювати в appflame
-— це можливість розвивати свої здібності в особливих умовах, де сумісні дух стартапу, налаштовані процеси без бюрократії та команда своїх людей.
-Ми розвиваємо власні продукти в ніші social network/lifestyle. Наші продукти працюють на Tier-1 ринках, таких як США, Великобританія, Канада й Австралія та входять у Топ-5 рейтингів App Store у своїх категоріях.
-Чим будеш займатись:
+------------------------Ми — продуктова IT-компанія
+appflame
+. Ми створюємо продукти, що змінюють життя та ламають правила гри в категорії. Територіально знаходимося в Україні, реально — по всьому світу.
+Ми шукаємо зухвалих та навіжених. Тих, що фанатіють від створення справжніх продуктів та мріють запускати й розвивати круті стартапи. З тебе — амбіції, з нас — комфортні умови для їх реалізації.
+Ти будеш:
 ●
-відстеження показників та пошук точок зростання/вузьких місць — ми керуємося даними, і саме так ми розвиваємось;)
+відстежувати показники та шукати точки зростання/вузьких місць — ми керуємося даними, і саме так ми розвиваємось;)
 ●
-A/B тестування функцій нового продукту: дизайн, оцінка і найголовніше — рекомендації на основі проведеного аналізу;
+займатися A/B тестуванням функцій нового продукту: дизайн, оцінка і найголовніше — рекомендації на основі проведеного аналізу;
 ●
-глибоке занурення в поведінку користувачів: воронки продукту, шлях клієнта, цикли діяльності;
+глибоко занурюватись в поведінку користувачів: воронки продукту, шлях клієнта, цикли діяльності;
 ●
-оптимізація алгоритмів зіставлення користувачів і системи рекомендацій;
+оптимізувати алгоритми зіставлення користувачів і системи рекомендацій;
 ●
-створення гіпотез і перевірка для покращення утримання продукту;
+створювати гіпотези та перевірки для покращення утримання продукту;
 ●
-представлення результатів аналізу команді в зрозумілій формі;
+представляти результати аналізу команді в зрозумілій формі;
 ●
-дослідження тенденцій та найкращих практик ринку мобільних додатків.
-Що ми від тебе чекаємо:
+досліджувати тенденції та найкращі практики ринку мобільних додатків.
+З тебе:
 ●
 від 1 року досвіду в аналітиці даних (чудово, якщо ви працювали з мобільними додатками);
 ●
@@ -6917,24 +6962,31 @@ Python або R буде плюсом;
 бажання працювати автономно та брати відповідальність за виконання завдань;
 ●
 рівень англійської мови — Upper Intermediate.
-У твій перший день
-тебе зустріне HR Manager, яка познайомить тебе з компанією та командою, проведе екскурсію офісом та відповість на всі питання. На тебе чекатиме все необхідне (ноутбук, робоче місце, пакет новачка, обіди на тиждень і т.д.). Ми зробимо все необхідне, щоб ти почувався/лася комфортно та будемо підтримувати тебе в період адаптації та після.
-Ми пропонуємо:
-Для наших працівників ми створюємо умови, притаманні великим корпораціям.
-💸 Компенсація по верхній межі ринку. Регулярні рев’ю та перегляд компенсації в залежності від твоїх результатів;
-🚑 Повне медичне страхування після випробувального терміну (включно з діагностикою COVID-19, стоматологією), корпоративний лікар та масаж в офісі;
-🏫 Зручний та просторий офіс з новим ремонтом, кімнатою для сну та душем;
-💻 Сучасна техніка та круте обладнання, необхідне для комфортної роботи;
-📕 Безплатні курси англійської мови в офісі, компенсація семінарів, виставок, конференцій — все, що необхідно для твого професійного розвитку;
-✈️ Загальнокомандні подорожі за рахунок компанії (за 3 роки відвідали: Кіпр, Іспанію (2 рази), Шрі-Ланку, Єгипет, Мексику, Грецію);
-🏓 Ігрова кімната з пінг-понгом, спортивний куточок, настільні ігри та PlayStation;
-🏃‍♂‍Йога та стретчинг в офісі. Тренування з футболу, баскетболу, бігу. Оплата участі в спортивних змаганнях по всьому світу;
-🍔 Безплатні сніданки, обіди, холодильник з напоями та снеками, свіжі фрукти та солодощі.
-Уяви, що ти вже з нами!
+Твій шлях до вакансії:
+повідомлення від рекрутера > співбесіда > тестове > фінальна співбесіда > job offer.
+Чому appflame?
+●
+Причетність до українських продуктів, які конкурують із найкращими світовими гравцями.
+●
+Можливість реалізувати власні ідеї, а не відчуття гвинтика у системі.
+●
+Продукти із сенсом та користю, а не просто заради заробітку акціонерів.
+●
+Відчуття себе серед своїх, заряджених на результат людей.
+●
+Робота зі світовим ринком та величезною аудиторією.
+●
+Прямий контакт зі Snapchat, Facebook, Google, Apple та доступ до їх кращих практик.
+●
+Налагоджені процеси та відсутність бар’єрів для зростання всередині компанії.
+●
+Прозора оцінка роботи на основі особистих показників ефективності.
+●
+Потужний соцпакет та справедлива компенсація.
+Ми забезпечуємо всі умови для того, щоб твої таланти розкрилися повною мірою. Ми віддані своїм людям. І наша відданість не зникає наприкінці робочого дня. Ми не лишаємо своїх сам на сам із проблемами: ані професійними, ані особистими.
+Приєднуйся.
 __________
-Інклюзивність та різноманіття одні з основ політики
-appflame
-. Ми забезпечуємо рівні можливості працевлаштування незалежно від раси, кольору шкіри, релігії, статі, сексуальної орієнтації, гендерної ідентичності, віку, сімейного стану, громадянства, національного походження, стану здоров’я чи будь-якої іншої характеристики.
+Ми проти будь-яких видів дискримінації, булінгу та стереотипів. Ми забезпечуємо рівні можливості працевлаштування незалежно від раси, кольору шкіри, релігії, статі, сексуальної орієнтації, гендерної ідентичності, віку, сімейного стану, громадянства, національного походження, стану здоров’я чи будь-якої іншої характеристики.
 ------------------------WE ARE
 SoftServe is a global digital solutions company with headquarters in Austin, Texas, founded in 1993 in Ukraine. 13,000+ associates are currently working on 2,000+ projects with clients in the USA, Europe, and APAC region. We are about people who create bold things, make a difference, have fun, and love their work.
 We are successfully collaborating with Our US-based Client is the global virtual healthcare leader, offering the only comprehensive virtual care solution spanning telehealth (telemedicine), expert medical, and licensed platform services. The product serves the world’s leading insurers, employers, and health systems and helps millions of people around the world resolve their healthcare needs with confidence.
@@ -7922,7 +7974,7 @@ What we offer:
 компанію
 та переваги роботи з нами.
 ------------------------Про Продукт:
-Наш клієнт — це одна з найбільших промислових компаній, фокус якої полягає у виробництві будівельних матеріалів. Вони є лідерами промислових високоякісних продуктів, виняткового досвіду клієнтів та інновацій на ринку. Наша мета — удосконалити продукт і процес розробки за допомогою R&D, інновацій, покращення процесів поставок та соціального середовища загалом.
+Наш Партнер — це одна з найбільших промислових компаній, фокус якої полягає у виробництві будівельних матеріалів. Вони є лідерами промислових високоякісних продуктів, виняткового досвіду клієнтів та інновацій на ринку. Наша мета — удосконалити продукт і процес розробки за допомогою R&D, інновацій, покращення процесів поставок та соціального середовища загалом.
 Стек технологій:
 Agile цінності та принципи;
 Jira;
@@ -7951,7 +8003,6 @@ Confluence.
 Забезпечувати пряме спілкування із зацікавленими сторонами продукту;
 Надавати можливість впливати на розвиток продукту та компанії;
 Компенсувати до 50% вартості освітніх курсів і конференцій для подальшого професійного зростання;
-Надавати знижки та бонуси програми лояльності IT;
 Розвивати або підтримувати твою англійську за допомогою безкоштовних курсів англійської мови та курсу ділової англійської мови;
 Надавати 23 робочих дні відпустки, 10 днів лікарняного та медичну підтримку Covid;
 Допомагати з юридичним та бухгалтерським супровідом;
@@ -7959,7 +8010,7 @@ Confluence.
 Дарувати незабутні емоції та подарунки до значущих подій у твоєму житті.
 Ми маємо:
 Сильну культуру компанії, орієнтовану на якісний розвиток продуктів та використання високих стандартів розробки. Понад 160 висококваліфікованих спеціалістів, які прагнуть розвитку та готові долати професійні челленджи. Та амбітні продукти, які ми створюємо та удосконалюємо.
-------------------------We are looking for a BA with leadership experience to manage our Business Analyst Office, which currently consists of 5 persons. After onboarding into the role, you can also work part-time on one of our projects.
+------------------------We are looking for a BA with leadership experience to manage our Business Analyst Office, which currently consists of 4 persons. After onboarding into the role, you can also work part-time on one of our projects.
 BAs in our company act as problem solvers for the clients and are focused on business, not just features.
 We have:
 Decision-making freedom — you can implement practices and try things out;

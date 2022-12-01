@@ -1,0 +1,38 @@
+Generated at 12/01/2022, 17:19:06
+number of vacancies: 16
+flutter: 16
+android: 15
+ios: 12
+ble: 9
+git: 9
+dart: 8
+solid: 8
+rest: 7
+hig: 5
+firebase: 4
+clean architecture: 3
+mvp: 3
+mvvm: 3
+react: 3
+redux: 3
+java: 2
+kotlin: 2
+retrofit: 2
+swift: 2
+ci/cd: 2
+android sdk: 1
+bloc: 1
+combine: 1
+dagger: 1
+github: 1
+graphql: 1
+macos: 1
+objective-c: 1
+rxjava: 1
+react native: 1
+sql: 1
+sqlite: 1
+vision: 1
+webrtc: 1
+websockets: 1
+xamarin: 1

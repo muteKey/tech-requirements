@@ -1,0 +1,1344 @@
+Generated at 12/01/2022, 14:53:12
+Ми впевненні, що успіх будь-якого бізнесу — це співробітники. Компанія створює комфортні умови для формування та розвитку колективу професіоналів — однодумців, що прагнуть до самореалізації і досягнення корпоративних цілей.
+Компанія MOYО завжди рада вітати у своїй команді талановитих фахівців, професіоналів своєї справи, готових розвиватися, шукати нестандартні рішення, підтримувати темп компанії і рухати її вперед. Якщо ви вважаєте себе таким — запрошуємо в нашу команду.
+Наразі ми в пошуках фахівця на посаду Flutter Developer, який розділяє наші цінності та прагне стати частиною нашої компанії. .
+Що ми пропонуємо нашим співробітникам:
+— Ми відповідальна компанія, тому повністю дотримуємось КЗпП, стабільно та чесно виплачуємо заробітну плату, оплачуємо лікарняні, відрядження та відпустки (24 календарних днів).
+— Компанія робить для своїх співробітників більше ніж очікують. Тому у нас Ви можете отримати :
+— Зручний графік роботи —ми працюємо з 09:00 до 18:00, але вимірюємо ефективність не відпрацьованими годинами, а виконаними завданнями. Ви маєте можливість індивідуально його відрегулювати;
+— Роботу в соціально відповідальній компанії, що слідкує за трендами ринку, цінує ідеї співробітників.
+— Сучасний та комфортний офіс, а також необхідну техніку для роботи і ліцензійне ПЗ.
+Ви наш кандидат, якщо:
+- Маєш комерційний досвід з Flutter від 2-х років;
+- Впевнені знання Dart Core;
+- Присутні практичні знання концепцій OOP, розробки GUI, програмних шаблонів - проектування, SOLID;
+- Маєш знання Flutter SDK;
+- Маєш досвід роботи з REST API, JSON;
+- Маєш досвід створення базової структури додатків;
+- Вмієш налаштовувати нативну частину iOS, Android;
+- Маєш досвід розгортання додатків (TestFlight, Play Market);
+- Вмієш читати журнали логів;
+- Маєш досвід створення та додавання створених додатків в AppStore та Google Play;
+- Маєш успішний досвід використання систем управління та управління версіями: GIT, Gitlab, Jira;
+- Володієш успішним досвідом роботи з Figma;
+- Розумієш Agile методологій.
+Ми плануємо Вам доручити наступні задачі:
+- Створення та запуск нативних мобільних додатків з нуля;
+- Розробка нових функціоналів;
+- Розробка нових продуктів та сервісів;
+- Участь у процесі рецензування коду;
+Якщо ви маєте бажання приєднатися до нашої команди, використайте цю можливість та відправляйте своє резюме!
+Ми детально вивчаємо кожне резюме, яке до нас надходить, тому не завжди можемо надати зворотній зв’язок так швидко, як ви очікуєте. Але при цьому ми поважаємо ваш час, і якщо протягом наступних 14 днів ми не зв’яжемося з вами, це означатиме, що ми ознайомилися з резюме, але, на жаль, на сьогоднішній день в компанії немає актуальних вакансій, які відповідають вашій кваліфікації та досвіду.
+Ваше резюме буде додано до нашого кадрового резерву і при появі відповідної вакансії ми запропонуємо її вам для розгляду.
+Шановний кандидат, відправляючи своє резюме Ви даєте згоду на обробку персональних даних, з відповідністю Закона України «Про захист персональних даних».
+------------------------
+We need help building a PoC-mobile application that will connect to a micro-tech device using Bluetooth 5.0 while receiving images from it during an initiated session. The app will have to display the list of devices and further on provide a tiled view for all the images received.
+This job listing assumes direct cooperation with our CTO and 3rd-party vendor (hardware device provider) for 4-8 weeks to have the application created. Once the PoC is done we will continue our cooperation on a part-time basis based on the upcoming requirements from stakeholders.
+Device specs:
+- Device: Micro-sized pill equipped with 2 cameras
+- Protocol: Bluetooth 5.0
+- Image resolution: 320x320 px, 6~7 fps
+- Stream speed: 1.8Mbps (~0.225Mb/s)
+- Session duration: 30mins (~1800s)
+- Expected volume: 405Mb per session
+------------------------
+We are looking for
+Senior Flutter Engineer
+to join our team.
+Our client is one of Azerbaijan's leading mobile telecommunication providers, with the most significant 49% market share and 5.0 million customers. Together with N-iX, our customer plans to develop a Telco Platform Solution that allows B2B interactions for its impressive customer base.
+Responsibilities:
+Cooperation with the team in order to research, design, implement and maintain a high-quality software system using Flutter technologies to meet internal/external client’s requirements
+Requirements:
+•	2-3+ years of Flutter framework experience is a must.
+•	Mobile development experience with either native or web-to-native tooling and frameworks
+•	Experience with state management in Flutter
+•	Ability to write effective unit, integration, and end-user automation tests
+•	Knowledge of Object-Oriented programing
+•	Experience with third-party libraries and APIs
+•	Understanding of APIs and how to use them in practice
+•	Native Android development experience is highly desirable
+•	Strong understanding of Agile methodologies
+•	Experience with financial or other application domains with high-security requirements
+•	Experience as a developer on a cross-functional agile team preferred
+•	Past experience as a frontend developer building modern applications – nice to have
+We offer:
+•	Flexible working format - remote, office-based ordge of Object-Oriented programing
+•	Experience with third-party libraries and APIs
+•	Understanding of APIs and how to use them in practice
+•	Native iOS development experience is highly desirable
+•	Strong understanding of Agile methodologies
+•	Experience with financial or other application do flexible
+•	A competitive salary and good compensation package
+•	Flexible and personalized career growth
+•	Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
+•	Active tech communities with regular knowledge sharing
+•	Education reimbursement
+•	Paid vacation days, sick leaves, and days off
+•	Healthcare & Sport program
+•	Medical insurance
+•	Memorable anniversary presents
+•	Corporate events and team buildings
+------------------------
+We expect you to have:
+- At least 1,5 year of commercial experience,
+- Strong knowledge of Dart language,
+- Strong knowledge of Flutter
+- Knowledge of data structures,
+- Knowledge of asynchronous principles,
+- Knowledge of isolates, Stream API,
+- Knowledge of SOLID, design patterns,
+- Knowledge of Clean architecture principles.
+- Experience with Google / Firebase services, REST and WebSocket clients,
+SQLite, noSQL (Hive), states management (BLoC and Provider).
+- Good knowledge of Flutter SDK, deep understanding of Widgets Trees, keys, custom animations.
+- Experience in one of native platforms (Android/ IOS/ Web) will be a plus,
+- Experience with CI/CD and app distribution,
+- Good knowledge of English (
+Intermediate
+or higher).
+With us you can:
+- Use the latest technologies;
+- Participate in technical events and conferences (the cost is covered by the company);
+- Participate in regular techtalks and professional development;
+- Build strong teamwork skills and become an essential part of the dynamic teams;
+- Improve your English in classes.
+What else do we offer?
+- Professional growth: a variety of projects, regular technical events, mentorship;
+- Free English classes (we have an amazing English teaching team);
+- Speaking-club with a native English speaker;
+- Truly friendly atmosphere and teambuildings.
+------------------------
+Requirements:
+- At least 3 years experience in development of native
+IOS
+apps;
+- 2+ years experience in Flutter and Dart;
+- Good knowledge of main OOP principles, design patterns;
+- Experience in IOS SDK, Swift Core;
+- Knowledge of SQLite/Core Data;
+- Understanding of source control systems;
+- Knowledge of CI/CDs;
+- Ability to explore and drive new ideas and technologies, think and learn independently;
+- Good knowledge of English (Intermediate or higher).
+Main tasks:
+- Supporting of team technical development;
+- Conducting an interview for new candidates;
+- Conducting Performance Review for the team members;
+- Conducting mentoring procedures.
+About the Team:
+Our Flutter department is the youngest in the company, the team consists of 14 developers and Tech Lead. All members are of diverse levels ranging from Junior to Senior, as a rule, they are experienced in Android, iOS or Web native development. Our developers have extensive commercial experience in the IT field, from 2 to 6 years of work.
+Every year we launch an internship program for beginners in all areas, where more experienced professionals share their knowledge. Part of the team are graduates of our internship programs who are of Middle/Senior level.
+We are established in the following domains:
+Fintech, E-commerce, Telecommunications, Social, Retail, also we have experience in projects with devices, BLE devices. Projects of different scales, both with small teams of 1-10 developers, and with 10-100 developers.
+With us you can:
+Develop your technical knowledge:
+— Use the latest technologies;
+— Participate in technical events and conferences (the cost is covered by the company);
+— Regular techtalks and professional development.
+Improve your soft skills:
+— Build strong teamwork skills and become an essential part of the dynamic teams;
+— Improve your English in classes and speaking directly with clients;
+— Increase your productivity and communication level via Scrum, Kanban, Agile methodologies.
+What else do we offer?
+— Competitive compensation and benefits;
+— Flexible and negotiable schedule;
+— Covered rest period (20 business days + 5 days off);
+— Free English classes;
+— Truly friendly atmosphere and unforgettable events.
+------------------------
+About Virtido
+Virtido is an entrepreneurial and innovative IT company headquartered in Zurich, Switzerland. We realize ideas and projects - from strategic concept to technical implementation closely alongside our dynamic clients with a strong focus on start-up or fast-growing companies. Since inception in 2015, we have grown rapidly to currently 140+ professionals in Switzerland and Eastern Europe.
+About the client
+Our client is a disruptive eHealth company builder that supports global pharmaceutical and med-tech enterprises to build, accelerate and enhance their digital health business. The project supports oncology patients who suffer from high psychological stress and anxiety during and after cancer therapy. The product empowers patients in a very intuitive way, helps to understand the condition and coaches them to a new normal.
+We are looking for a developer to join on a short-term basis with the potential for an extension of the cooperation.
+Requirements
+- Overall, at least 3+ years of commercial experience as a Mobile Applications Developer
+- 2+ years of experience with Flutter
+- Familiar with running and testing the app on iOS and Android
+- Familiar with updating the native project settings for iOS and Android
+- Experienced with asynchronous communication with backends, ideally with GraphQL
+- Able to grasp the product vision and deduce product requirements from UI prototypes
+- Keen eye for product quality, both on UX and technical levels
+- Encryption experience (token authentication and encryption of data for secure exchange of binary blobs between app users)
+- Good level of English - written and spoken.
+What we offer
+- Flexible working hours
+- Ability to work from home or from one of our offices in Lviv or Kyiv, if that would be your preference
+- Part-time Option
+- Courses of English and German
+- Comfortable and friendly environment.
+Does this resonate well with you? Then we look forward to receiving your application!
+------------------------
+We are seeking a self-motivated
+Flutter developer
+to join our growing engineering team. Our candidate should have excellent communication skills and creative thinking, along with keen attention to detail.
+About:
+Our project supports farmers by providing real-time actionable information to help them manage their herds. It provides pet owners with smart devices and data that give them a better understanding of their pets activity and health needs, enriching relationships. It helps conservationists safeguard natural environments and wildlife.
+Responsibilities:
+-Working with your team leader and QA to deliver an excellent flutter application;
+-Verifying your work is tested manually or by automation and delivered with high quality;
+-Working with Product and UX team to define the product;
+-Working in an Agile environment.
+Requirements:
+-At least 3 years of hands-on development experience;
+-At least 1 year of proven mobile development with Flutter (We expect you to have at least one app in production);
+-Good knowledge of core OOP and general programming concepts (object lifecycle, reflection, connection/thread pools, etc.);
+-Working experience with SQL (with proven ability to write native SQL queries);
+-B.Sc. (or M.Sc.) in Computer Science or Computer/SW Engineering;
+-English level — Intermediate or higher.
+Would be a plus:
+Experience with native mobile development.
+We offer:
+Professional Development:
+free English courses, access to company’s library, free access to the corporate Udemy account, possibility to participate and share your knowledge as a speaker in our internal meetups.
+Benefits:
+100% paid vacation and sick leaves, health insurance, free accountant and lawyer services, access to psychological help, opportunity to accumulate part of the own salary in the company in dollar terms.
+------------------------
+Requirements:
+- 1+ years of iOS development experience;
+- Understanding of SOLID principles;
+- Strong knowledge of OOP principles and design patterns;
+- Experience using source control systems (git, bitbucket, etc.);
+- Experience with Flutter will be a plus;
+- Proactive Team Player.
+You will be responsible for:
+- Create mobile applications from "0" and add new functions;
+- Write efficient code using software development best practices;
+- Developing new features for iOS and Android mobile applications.
+We offer:
+- 24 paid working days of vacation per year and a paid day off on birthdays;
+- Paid probationary period: 2 months;
+- Flexible schedule;
+- Work in the office or remotely;
+- Corporate events and team buildings;
+- Mental Health Program (consultations with our corporate psychologist and training with our coach);
+- Personal development opportunities at the Wezom Academy with a discount of up to 50%.
+------------------------
+Вимоги:
+2+ роки досвіду у мобільній розробці;
+Понад 1 рік досвіду розробки програмного забезпечення з використанням Flutter/Dart;
+Розуміння принципів ООП/SOLID;
+розуміння роботи деяких стейт менеджментів;
+Досвід публікації додатків у AppStore/Play Market.
+Ми пропонуємо:
+Цікаві проекти та завдання від відомих брендів;
+Гнучкий та договірний графік роботи;
+Оплачувану відпустку та лікарняні;
+Регулярну оцінку та збільшення винагороди.
+------------------------
+Responsibilities
+:
+Build cross-platform applications using Flutter
+Collaborate with the team and the client to define, design, and ship new features.
+Code review, work on bug fixing and improving application performance.
+Delivering the results no matter what
+Manage expectations - communication is what our clients like the most about us
+Participate in other mobile application development, using Xamarin or Unity, if the help is needed
+Requirements
+:
+3+ years overall of Mobile Development experience
+Experience with Flutter
+Understanding Redux pattern, experience using it in real projects
+Solid understanding of mobile app development, design principles and user experience
+Understanding of Test Driven Development
+Good English reading and writing skills
+Positive attitude
+As a plus
+:
+Experience with Xamarin, React Native or Unity3D
+Experience with Objective-C, Swift, Java (Android)
+Participation in open-source projects
+Own apps in AppStore or GooglePlay
+We offer
+:
+Open, friendly, and cooperative team
+Interesting projects with US and European customers in Healthcare industry
+Team building, games, other events
+Flexible working schedule
+Paid vacation and sick leaves
+Medical insurance or sport coverage
+Education subsidy and access to a huge amount of company education resources
+Regular performance reviews and salary update
+------------------------
+As a
+Cross Platform Mobile App Developer
+, you will use relevant technologies to design, develop and deliver business logic on the client side. You will visualise the intuitive query and navigation of intelligence information. You will also be part of a new and exciting product that we are building.
+What You’ll Do:
+- Translate designs and wireframes into high-quality code
+- Collaborate with UI/UX team, product managers and other stakeholders in delivering the ultimate user experience
+- Translate wireframes and UI designs into functional mobile application
+- Develop and maintain high-performance, reliable and reusable cross-platform mobile applications
+- Implement methods to safeguard user's private information
+- Work with third-party APIs
+- Write unit and UI tests to identify malfunctions
+- Integrate with existing CI/CD workflows
+What Skills and Experience You’ll Bring:
+- Agile mindset with experience working in agile and matrix environments
+- An independent team player with excellent communication skills
+- Experience in iOS/Android mobile app development is a must
+- Demonstrable portfolio of released applications on the App store or the Android market
+- Cross-platform development experience using ReactNative or Flutter
+- Experience publishing to Google Play / Apple App stores
+- Worked with Google Cloud services
+- Experience working with NoSQL data stores
+- Delivered work with Ionic is a plus
+- Fluent in the English language
+What You’ll Enjoy:
+- Competitive salary based on skills and experience
+- Yearly performance bonus
+- Daily lunch allowance
+- Private health insurance
+- Udemy (learning platform) unlimited membership
+- Working from home policy & Flexible hours
+- Sport/Gym allowance
+Applications will be strictly confidential.
+------------------------
+Skills:
+Swift more than 1 year
+Analytics, attribution, A/B tests - Firebase, Appsflyer
+Push notifications and deepplinks
+Mobile subscriptions
+Work:
+Creation and development of subscription mobile apps (health, utilities), example: https://apps.apple.com/us/app/smart-cleaner-clean-up-storage/id1194582243
+Terms:
+High speed of processes: allows you to quickly see your contribution and results
+Resources: to create the best product on the market together
+Work-life balance: remote format with a flexible start of the working day
+Friendly strong culture
+------------------------
+UDrive
+- один з проєктів нашої команди, який стає єдинорогом в наступному році. Зараз ми починаємо з розробки MVP і в тебе є можливість стати одним з творців соціальної мережі для водіїв Америки.
+Що ти отримаєш від нас:
+- No bull shit - в нас немає бюрократії, тільки пряма коммунікація і швидкі рішення
+- Віддалену роботу - працюєш з дому, не витрачаючи час на дорогу
+- Відкритість - тебе будуть чути
+- Постійний ріст - мало хто може похвастатись що створив проєкт на мільярд, в тебе скоро зʼявиться така можливість
+- Стабільну, своєчасну, конкурентну оплату, що важливо в ці дня
+Що ми оцікуємо від тебе:
+- Ти розробляв мобільні застосунки на Flutter, писав автотести, вмієш розібратися з чужим кодом, знаєш стандарти розробки
+- Готовий працювати на результат, зараз для нас важливо зробити продукт і дати його нашим клієнтам, і в тебе ті самі цілі
+- Готовий розвиватись і стати швидко Middle Flutter Developer
+- Добре знаєш англійську, і можеш на ній спілкуватися
+Цікаво спробувати, тоді відправляй своє резюме з інформацією у відгуку, або скидай мені в телеграмм sov131
+------------------------
+REQUIREMENTS:
+- At least 3 years of experience with JavaScript + at least 1 year with TypeScript;
+- Experience with client-side web frameworks: VueJS, Angular, React (we use VueJS);
+- At least 2 years with NodeJS;
+- Ability to write unit and integrational tests;
+- Experience with relational databases (preferably MySQL) and related libraries (such as TypeORM);
+- Experience in Agile development, including CI, CD, and automated testing;
+- Experience with docker and docker-compose;
+- Being familiar with AWS technologies;
+- Ability to quickly learn and use new technologies in general;
+- English level - Intermediate and higher;
+Advantages:
+- Understanding of PHP and Angular JS to be able to understand legacy parts of the code;
+- Experience with non-relational databases;
+- Being comfortable working with terminal and bash/zsh;
+- Experience with other programming languages would be a plus.
+RESPONSIBILITIES:
+We're looking for a highly motivated and responsible full-stack JavaScript/TypeScript engineer to join our team;
+As a part of the team, you'll be responsible for building and maintaining our main product;
+You'll be working in a friendly environment with experienced and high-skilled engineers.
+ABOUT INNOVECS
+Innovecs is a global digital transformation tech company with presence in the U.S., Europe, UK, Australia, LATAM, and Israel. With 10 years on the market and 850+ team members, we focus on long-term cooperation with our people providing them with the opportunity to learn, grow, develop, and stand out not only in their profession but also outside of it. We are one of the fastest-growing private companies in America by Inc. 5000, and on the list of 100 Best Global Outsourcing Providers by IAOP, have TikTok with over 10m views, and 10+ lifestyle communities by interests.
+Get on board and unlock your potential with us!
+ABOUT THE CLIENT
+The product is building the leading growth engine for mobile games. Just like game developers use a game engine to build their games, they’d use our ‘growth engine’ to grow their games and get them on the top of the charts.
+WHAT WILL YOU GET
+- Attractive compensation pegged to the U.S. dollar with full benefits package;
+- Modern hardware setup;
+- Individual development plan, career coaching, and Mentorship Program;
+- Investment in your professional growth: workshops, webinars, training platform, and edutainment events;
+- Global certification preparation program (AWS, ISTQB, Unity, Scrum, etc.), and comprehensive online courses on Udemy, Educative, Pluralsight, edX;
+- Flexible working mode in hybrid teams with high-skilled peers;
+- Opportunity to work from home or from anywhere with our Relocation Support Program;
+- Open-door culture, simplified processes, transparent communication, and top management at a handshake distance;
+-Private health insurance, paid maternity/paternity leave, sick leaves,  vacation, and holidays;
+- Online workouts with fitness coaches & community enrollment in activities such as esports, yoga, chess, mindfulness, etc.;
+- English classes and public speaking club to boost your language and presenting skills;
+- Virtual team buildings, social activities and occasional gifts to celebrate Innovecs lifestyle.
+Here at Innovecs, we promote equal opportunities and embrace diversity in our teams in terms of work experience, area of expertise, culture, religion, gender, and ethnicity. We are committed to building a tight-knit, team tradition-loving community that represents a variety of backgrounds, perspectives, and skills.
+There are no limitations, no barriers when the right people are on your way — apply for the vacancy and succeed with us!
+------------------------
+Requirements:
+— 2+ years of commercial experience as a Flutter Engineer ;
+— OOP, SOLID, Design Patterns, Architectural Patterns
+— Strong understanding of mobile development principles, design patterns, and techniques;
+— Experience with the git;
+— Experience in iOS and/or Android development 2+ years;
+— English B2 or upper.
+— Proven experience in publishing apps to Appstore and Google Play (at least one example);
+— Understanding of CI/CD;
+Main responsibilities:
+— Take an active part in R&D activities in the field of Internet of Things projects;
+— Develop cross-platform applications from scratch;
+— Collaborate in a team with frontend/backend developers, UI/UX designers, Business Analyst,s and QA engineers;
+Will be a plus:
+— Experience Flutter Desktop development;
+— Experience in app development with BLE-integrated devices;
+— Understanding of Bluetooth and BLE protocols;
+— Experience with RTL (Arabic/Hebrew) layouts;
+------------------------
+A few facts about us:
+- Technical stack of our team: JS (React and Node), Java, PHP and others
+- Whereas our business model is outstaff, we offer a search for a project that matches not only the developer's stack but also matches his interests
+- Our developers are involved in long-term projects in the fields of Fintech, Healthcare, Education, E-commerce, SaaS, etc. We do not consider projects in the Betting, Gambling, Adult content, and similar domains
+- Each of our developers is involved only in one project (full-time)
+- Our current clients are from the USA and Europe
+- This year we hope to grow up, regardless of the conditions, and organize the work of outsourcing teams
+- Hostilities did not affect the stability of our company: not a single dismissed person, not a single reduction in the rate or other payments because of war, the terms of payment of salaries have not shifted. The founders are optimistic about the future, so our team continues to grow.
+What we offer for your success:
++ Competitive salary and regular performance reviews
++ The ability to focus on your work: a lack of bureaucracy and micromanagement
++ No unpaid overtimes
++ Timely salary payment
++ 50% compensation for English courses (if it’s needed)
++ 21 paid days off
++ Adaptation period of 3 months
++ Attention) The salary amount depends on the results of the tech. interview and your experience
+About your responsibilities:
+Now, the app's main function is to securely manage a user's digitized ID document. This marks an important difference regarding a standard app: In our case, the developer won't only call endpoints from the backend, but she/he may also be required to write some logic on the client side, which means that the person we're after should also be a decent software developer in general (although we're creating multiple libraries to alleviate part of the work).
+What you need for this position:
+- 3+ years with Flutter (NOT freelance!)
+- Having some knowledge/ previous experience with cryptography (must)
+- Working in an Agile environment.
+Requirements:
+- At least 3 years of hands-on development experience;
+- At least 3+ year of proven mobile development with Flutter (Not freelancing!);
+- Good knowledge of core OOP and general programming concepts (object lifecycle, reflection, connection/thread pools, etc.);
+- Working experience with SQL (with proven ability to write native SQL queries);
+- English level — Upper-Intermediate
+Would be a plus:
++ Experience with native mobile development
++ Location around the CET timezone (GMT+1)
++ OWN equipment IOS and Android
+If you have any questions about this job post, please feel free to ask.
+Contact us and become a valuable part of the People-First team.
+------------------------
+A few facts about us:
+- Technical stack of our team: JS (React and Node), Java, PHP and others
+- Whereas our business model is outstaff, we offer a search for a project that matches not only the developer's stack but also matches his interests
+- Our developers are involved in long-term projects in the fields of Fintech, Healthcare, Education, E-commerce, SaaS, etc. We do not consider projects in the Betting, Gambling, Adult content, and similar domains
+- Each of our developers is involved only in one project (full-time)
+- Our current clients are from the USA and Europe
+- This year we hope to grow up, regardless of the conditions, and organize the work of outsourcing teams
+- Hostilities did not affect the stability of our company: not a single dismissed person, not a single reduction in the rate or other payments because of war, the terms of payment of salaries have not shifted. The founders are optimistic about the future, so our team continues to grow.
+What we offer for your success:
++ Competitive salary and regular performance reviews
++ The ability to focus on your work: a lack of bureaucracy and micromanagement
++ No unpaid overtimes
++ Timely salary payment
++ 50% compensation for English courses (if it’s needed)
++ 21 paid days off
++ Adaptation period of 3 months
++ Attention) The salary amount depends on the results of the tech. interview and your experience
+About your responsibilities:
+Now, the app's main function is to securely manage a user's digitized ID document. This marks an important difference regarding a standard app: In our case, the developer won't only call endpoints from the backend, but she/he may also be required to write some logic on the client side, which means that the person we're after should also be a decent software developer in general (although we're creating multiple libraries to alleviate part of the work).
+What you need for this position:
+- 3+ years with Flutter (NOT freelance!)
+- Having some knowledge/ previous experience with cryptography (must)
+- Working in an Agile environment.
+Requirements:
+- At least 3 years of hands-on development experience;
+- At least 3+ year of proven mobile development with Flutter (Not freelancing!);
+- Good knowledge of core OOP and general programming concepts (object lifecycle, reflection, connection/thread pools, etc.);
+- Working experience with SQL (with proven ability to write native SQL queries);
+- English level — Upper-Intermediate
+Would be a plus:
++ Experience with native mobile development
++ Location around the CET timezone (GMT+1)
++ OWN equipment IOS and Android
+If you have any questions about this job post, please feel free to ask.
+Contact us and become a valuable part of the People-First team.
+------------------------
+Project
+We develop a software platform for our client that is an end-to-end solution that digitalizes all types of experience in the golf play and recreational industry. The platform includes a set of application components that help operate resorts, and bookings, manage membership, give visibility to revenue and costs, accompany players at golf courses and organize tournaments. The platform currently operates in more than 1500 golf courses in Europe and globally, around the world.
+You will collaborate closely with the backend development team and web apps frontend developers. We still have some Swift and native Android Java code that needs to be migrated to Flutter over time. Therefore experience in any of these technologies would be a plus.
+While you own mobile apps, in particular, you will be working as a part of a dedicated Agile team with a high level of responsibility for technical decisions and daily collaboration with the client team abroad.
+Responsibilities
+Developing and maintaining mobile applications in iOS and Android markets;
+Performing refactoring;
+Working with Product and QA teams while applying strong analytical and problem-solving skills to deliver high-quality software that meets the needs of our clients and stakeholders;
+Conducting code reviews and mentoring less experienced colleagues.
+Technologies
+Must have: Flutter
+Nice to have: Swift / Android Java
+Backend (owned by a separate team): Java, Spring, Hibernate, PostgreSQL
+Qualifications
+Self-driven team member of a high-performing development team who cares about the team culture and takes pride in the outcome of the teamwork
+Bright and engaging with "start-up" energy and passion
+Flexible and able to align with priorities coming from the business
+Enjoys an Agile development environment, Scrum methodology experience is a plus
+Excellent interpersonal and communication skills
+Intermediate English or higher
+Experience
+2+ years of working experience using Flutter
+BS/BSE degree or equivalent with a minimum of 5+ years of general work experience
+Experience in building/integrating Frontend and Backend APIs
+Experience with automated code testing (unit testing, automated UI testing)
+Experience working on an enterprise level, production applications
+We offer
+Experience working with colleagues locally and abroad
+Opportunities for self-realization working on challenging projects using new technologies and tools
+Friendly team and enjoyable working environment
+Social and corporate events
+Possibility for career development
+Participation in professional trainings, meetups
+Medical & family care programs
+Various sport activities coverage
+Fully paid by Forte 5 sick days during working year
+Internal English courses provided by Forte Teacher
+Comfortable and fully equipped workplace
+------------------------
+We are looking for flutter developer for our music software
+( work in Lviv or Kiev,
+remote work possibility ):
+www.MusConv.com
+About the project:
+MusConv is b2c music software which helps people synchronize their music between music services: Spotify, Apple Music, YouTube Music, Amazon Music, Tidal and others.
+We offer:
+Challenging interesting project
+Professional growth and development program
+Flexible schedule
+Team of highly talented individuals
+Access to developer courses like https://www.pluralsight.com
+Mentor: code reviews, studying
+We are looking for flutter developer to implement new features
+------------------------
+A distributed storage system and applications (Windows, MAC, IOS and Android) which provides end-users an automatic and slick online backup application, based on robust and secure P2P architecture.
+In a nutshell: "a Dropbox like experience, at a fraction the cost, complete user privacy", or alternatively: "The Airbnb of Storage".
+Privacy: No data is stored in data centers or centralized servers, but rather "slices" of files are encrypted by a key only the user has access to, distributed, stored and managed on hard disks of the users themselves.
+The system includes comprehensive FEC encoding (Reed Solomon), Encryption, data distribution/seeding , a GUI for Windows, MAC, IOS and Android, and a server side management system and administration portal.
+The architecture resembles certain Blockchain storage projects, however - we are targeting simple end consumers, not developer community - so it is much more robust and user friendly.
+Also, since we already developed the entire storage infrastructure and data delivery protocol (UDP), and it has already been operational with millions of end users (for different use case/application - Video CDN) - the technology is already proven in the market and very robust.
+Our team will have access to one of the most robust, scalable and proven P2P storage and UDP based data delivery protocols, and working with expert engineers of network protocols, GUI, cryptography and infrastructure.
+The core in the client is developed in C++, including the use of cross platform open source framework ACE, and GUI is based on Flutter.
+The server side management modules are based on Java, Python, and PhP, with databases and REDIS and Cassandra.
+Required skills:
+7-9 years in mobile development (Android and iOS. Good knowledge of Windows and MAC)
+At least 2-3 years in Flutter
+Strong knowledge/understanding of networking , knowledge of OS requirements. Services, background operations, working with OS file system.
+GUI
+Cross platform(Android \ iOS)
+RestAPI
+Understanding of integration with c++ libraries for Flutter application - an advantage
+knowledge in C++ - an advantage
+networking - an advantage
+Benefits:
+- Flexible working format - remote or office-based
+- A competitive salary and good compensation package
+- 20 business days of payable annual free-time
+- 10 days of paid sick leave
+- Medical insurance
+- technical courses / Education reimbursement
+- Comfortable office space or help with remote working place setup
+- Needed software licenses reimbursement
+- Friendly team
+- Professional grow and salary review every 8-10 months
+------------------------
+Основні задачі:
+- Розробка нових застосунків
+- Ведення та розвиток існуючого застосунку
+Для нас важливо:
+- Комерційних досвід розробки в мобайлі від 3-х років
+- Комерційний досвід розробки Flutter від 3-х років)
+- Довід з Dart Core
+- Знання одного зі стейс-менеджер (Redux, BLoC, MobX)
+- Практичні знання концепцій ООР, розробки GUI, програмних шаблонів проєктування, SOLID
+- Знання Git, GitFlow.
+Ми пропонуємо:
+- ЗП: від 5000$
+- Графік роботи: fulltime (remote)
+- Компенсація конференцій, профільних курсів, тренінгів
+- Корпоративна англійська
+- Відпустка та лікарняні – оплачувані
+- Оформлення: контракт ФОП 3 групи
+Hiring process: HR Interview ---- Technical Interview ---- Final Interview
+------------------------
+REQUIRED SKILLS:
+— At least 5 years of experience in mobile development
+— Excellent understanding of coding best practices and a strong passion for software development;
+— Excellent understanding of Apple and Google development guidelines;
+— Experience with Flutter;
+— Experience with React Native;
+— Experience with SQLite;
+— Riverpod;
+— Dio;
+— Freezed;
+— Flutter Form Builder;
+— Responsive;
+— English level - B2 Upper Intermediate.
+WHAT WE OFFER:
+— Unlimited work from home
+— Flexible schedule
+— Minimal bureaucracy
+— Ability to influence the company’s processes and project tech stack
+— PE support and tax coverage
+— Free English classes
+— Memorable corporate parties and theme events
+------------------------
+Project:
+A system that consists of a wireless camera and mobile apps for assisting during shooting exercises. The system makes the sport more inviting to aspiring shooters, provides avid shooters with the ability to hone their skills more efficiently and has gaming features everyone can enjoy with their friends.
+App provides instant feedback allowing shooters to mark and number shots, and adds essential features to maximize time at the range.
+The technology stack of the project:
+Flutter, iOS, Android, Computer Vision, AI
+Team:
+PM, CV/AI Developer, QA
+Requirements:
+-3+ years of experience in mobile development;
+-1+ years of experience with Flutter;
+-Strong understanding of mobile development principles, design patterns and techniques;
+-Experience with Git;
+-Level of English – Upper Intermediate or higher.
+Nice to have:
+-Experience with streaming protocols.
+Responsibilities:
+-Review the existing app;
+-Add new features to the existing app or start a new one from the scratch.
+Our benefits:
+-Professional and career growth promotion;
+-Competitive salary;
+-Flexible working hours.
+------------------------
+Technical details:
+-	2+ years of experience  in creating mobile apps using Flutter;
+-	Knowledge of Dart language
+-	Experience with WebSockets and REST API;
+-	Experience with GIT
+English: Intermediate +
+Location: Ivano-Frankivsk / Chernivtsi
+Про компанію bvblogic
+bvblogic is a technology development company with a passion for innovation. We develop and implement efficient IT solutions in five key domains: Agriculture, Logistics, and Transportation, eCommerce, eBooking, and eTickets.
+bvblogic creates progressive software with the use of disruptive technologies and intellectual approaches of Data Science, Artificial Intelligence, Machine Learning and Deep Learning.
+Using the innovations, we help our clients to become more innovative and to successfully achieve their goals
+We began our operations in 2008 from the small group of developers. Currently, we have evolved into one of the regional leaders serving more than 500 clients all over the world. We have already successfully implemented more than 800 projects in various industries and technological areas.
+We are committed to long-term trustworthy and friendly relationships with our clients and partners. We always deliver our services and innovative business solutions very professionally.
+Our development centers are located in Ukraine: Ivano-Frankivsk, Sumy, and Chernivtsi.
+We have sales offices in Ukraine (Ivano-Frankivsk, Kyiv), Poland (Warsaw, Poznan), USA (Houston, Denver, New York), and Canada (Toronto)
+Сайт компанії:
+https://bvblogic.com/
+Сторінка компанії на DOU:
+https://jobs.dou.ua/companies/bvblogic/
+------------------------
+Наша команда шукає кваліфікованого
+Mobile App Developer
+для кодування функціональних, високопродуктивних і масштабованих додатків, які працюють належним чином.
+Що входимите до Ваших обов'язків?
+- Написання якісного та чистого коду для програмування повноцінних додатків за графіком.
+- Виконання модульного та інтеграційного тестування перед запуском.
+- Допомагати в підготовці та виробництві релізів.
+- Проводити функціональне та нефункціональне тестування.
+- Пошук і усунення несправностей і налагодження додатків, виправлення помилок.
+- Оцінка існуючих додатків і реалізація оновлень і модифікацій.
+- Вивчення технологій для прискорення розробки.
+- Відстежування нових тенденцій в розробці.
+Чого ми очікуємо від Вас?
+- Досвід роботи розробником додатків (IOS, Android).
+- Досвід роботи з основними мовами програмування для мобільної розробки (JavaScript, Kotlin, Swift, Objective C).
+- Знання фреймворку Flutter та мови програмування Dart.
+- Уміння програмувати нативні (Android & IOS) та гібридні (Flutter) додатки.
+- Знання програмування для різних операційних систем і платформ з використанням інструментів розробки.
+- Розуміння принципів програмування.
+- Досвід налаштування систем відстеження та аналітики (Firebase, Appsflyer та ін.).
+- Знання реалізації API.
+Які особисті якості знадобляться?
+- Навички вирішення проблем.
+- Креативність.
+- Робота в команді.
+- Комунікабельність.
+- Уважність до деталей.
+- Навички тайм-менеджменту.
+- Здатність до навчання в умовах швидких змін.
+Етапи:
+1й етап: пре-скрін з рекрутером (до 20 хвилин).
+2й етап: інтерв'ю з ТЛ (до 90 хвилин).
+3й етап: збір рекомендацій.
+4й етап: job offer.
+Ласкаво просимо до команди, наш HR познайомить Вас із культурою та цінностями компанії в рамках 2-денної програми адаптації.
+Випробувальний термін для даної позиції 2 місяці, протягом них ми будемо звикати та працювати разом. Також Вам допомагатиме ментор із команди, щоб все пройшло з найменшим стресом та найбільшою радістю.
+І, нарешті, завершення ВТ та мільйон привітань для Вас!
+Що ми пропонуємо?
+ Команду професіоналів, готових поділитися своєю експертизою, знаннями та досвідом.
+ У нас гнучкий графік, Ви можете самостійно планувати свій робочий день.
+ Маємо офіси та коворкінги у Києві, Львові, Дніпрі, Одесі та Кракові.
+ У нас був і є ремоут ще до того, як це стало мейнстрімом, тому працюємо з будь-якої точки планети.
+ 18 робочих днів відпустки, які не згорають. Додаткові 5 day off та до 35 sick leaves на рік. Як бачите, ми за work-life balance та проти вигорання.
+ Медичне страхування.
+ Навчання - наше все і це одна із наших цінностей, тому ми даємо усі можливості для розвитку: доповіді різних спікерів у різноманітних напрямах, велика корпоративна бібліотека, компенсація курсів і, звичайно, уроки англійської.
+ Та  найголовніше: Boosta - це одна велика сім'я, де кожний відчує підтримку та впевненість.
+Хочете побачити, як і чим живе Boosta? Заходьте в наші соц.мережі та дізнавайтеся більше:
+https://www.instagram.com/boosta.co/
+https://www.facebook.com/BoostaOfficial/
+------------------------
+Since early 2018 we have gained strong experience in Flutter & Dart mobile/web engineering. For now, we are happy to share our wisdom with those who want to grow in cross-platform development and become experts in this area.
+We're proud of the team of professionals that lead our company, where each member is valuable, and we`re looking forward to seeing you among us.
+What will you do?
+🟧 Implementation projects from scratch with the focus on high quality, support and add new features;
+🟧 Participation in applications architecture development as a part of a high-performance team;
+🟧 Constant development and improvement of your Flutter & Dart skills.
+Requirements:
+🟧 Knowledge of Flutter & Dart Core;
+🟧 Previous experience in Flutter application development up to 1 year;
+🟧 Basic knowledge of Computer Science fundamentals;
+🟧 English level: at least Intermediate;
+🟧 Experience in Android/ iOS would be a plus;
+🟧 Good understanding of OOP, SOLID, DRY principles;
+🟧 Familiarity with version control systems (Git)
+🟧 Strong focus on code quality and ability to write clean code;
+🟧 Curiosity and constant willingness to dig to the roots of the matter;
+🟧 Problem-solving skills as well as a self-initiative approach.
+Why Solid Software?
+🟧 We support Ukraine
+🟧 Atmosphere of comfortable work & life balance;
+🟧 Flexible schedule and work-from-home opportunity;
+🟧 One of the biggest Flutter expertise in Ukraine and in the world;
+🟧 Work with trendy and sometimes experimental technologies;
+🟧 MacBook Pro and great tech;
+🟧 Decent compensation;
+🟧 Lack of bureaucracy;
+🟧 Compensation of professional events, sports activities, COVID-19 test;
+🟧 Accounting and juridical services.
+Professional growth:
+🟧 Mentorship program;
+🟧 Internal career path program: from Developer to Architect. It consists of 11 knowledge areas, books, training sessions, and work activities;
+🟧 Corporate library with best programming books (+ an ability to order a particular book if we miss it);
+🟧 Ability to work on challenging projects with awesome international clients;
+🟧 Professional and constant feedback.
+Team & Fun:
+🟧 A wonderful team of colleagues with lots of practical experience in Flutter development;
+🟧 Friendly atmosphere, mutual help and support;
+🟧 Corporate parties and fun team-buildings in the nearest Future;
+🟧 Anniversary presents.
+Look forward to meeting you and discussing this job position. Talk to you soon!
+------------------------
+Our client - Belgium company works in quality, safety, environmental protection, food safety, information security and energy.
+Role responsibilities:
+●	Design, build and scale web & mobile applications using Flutter
+●	Writing readable, stable and performant code
+●	Reacting to app users’ feedback and fixing bugs and performance issues in the app’s codebase
+●	Convert projects and frameworks into high-quality responsive user interface code
+●	Integrating mobile apps with web services
+●	Conducting code reviews and participating in the code review process
+●	Project documentation
+●	Working closely with the team throughout the app development process
+Skills and Qualifications:
+●	2,5+ years of experience in commercial Flutter application development
+●	Good understanding of OOP/SOLID principles
+●	Understanding of Android/iOS application development and deployment to Google Play/App Store
+●	Experience of working with Git, Dart
+●	REST principles understanding
+●	Understanding of networking features and protocols (HTTP, WebSocket, multicast)
+      English (B2+)
+We offer
+●	20 working days of paid vacation per year;
+●	Official holidays of Ukraine – days off;
+●	Modern equipment for work;
+●	Corporate events;
+●	External and internal training: conferences, professional events, courses, TechTalks;
+●	English speaking club.
+Interview stages
+●	СV review
+●	technical interview
+●	interview with owner
+------------------------
+Требования:
+— Уверенное знание принципов ООП, SOLID, асинхронности,
+— Уверенное знание Dart (Java/Kotlin/Swift - приветствуется);
+— Умение работы с VPN сетями, протоколов OpenVPN, WireGuard;
+- Понимание работы методов шифрований траффика, аутентификации, подтверждения;
+— Понимание клиент-серверной архитектуры проектирования;
+— Опыт работы с HTTP, JSON, Firebase, а также REST APIs;
+— Опыт работы в командных либо самостоятельных проектах;
+— Опыт работы с Git;
+Детали обсуждаем уже при интервью, основываясь на Ваши навыки, опыт и пожелания
+В отклике просьба указать Ваш опыт работы в домене VPN, proxy
+------------------------
+Ми зробили неймовірне - топові умови, інфраструктуру та ресурси, а все задля неймовірного баїнгу, розробки та професійної прокачки. А тому, де б ти не працював, у нас крутіше :)
+Розширюємо нашу команду за кордоном, тому у пошуку спеціаліста за межами України!
+Зараз в команду ми шукаємо скілового Flutter Developer який буде розробляти креативні додатки на AppStore платформі.
+Що потрібно, щоб приєднатися до нас:
+Хороше розуміння мобільної архітектури iOS та Android;
+Розробка компонентів та додатків;
+Обслуговування існуючих програм
+Комерційний досвід роботи з Flutter/Dart (не менше 1 опублікований додаток);
+Знання of Clean Architecture, MVP, and MVVM
+Знання аналітик SDK (Facebook, Amplitude, Firebase, etc)
+Чому наша команда тобі точно сподобається? Тому що у нас ти знайдеш:
+Нетривіальні задачі та нові челенджи.
+Фінансова стійкість - перформенс ревью кожні півроку з моменту завершення випробувального терміну.
+Найкрутіша команда контенту - заряджена на результат!
+Ідеально вибудована внутрішня інфраструктура.
+Можливість втілювати навіть найбожевільніші ідеї.
+Працюй з будь-якого зручного місця у світі!
+Чесну та професійну команду, яка готова слухати та розуміти, а головне – підтримати тебе у профбезумстві!
+Кар'єрне зростання - відкрий свій напрямок або запусти свій продукт!
+Наші цінності:
+Чесність - Завжди прямо та відкрито висловлюємо свою думку.
+Партнерство та Синергія - Усвідомлюємо важливість взаємовіддачі. Формуємо екологічні взаємини, що базуються на довірі та підтримці.
+Захопленість - Горимо ідеями та не втрачаємо азарт. Прагнемо розібратися в суті будь-якого питання, бути залученим до його вирішення і стати найкращим із найкращих!
+Результативність - Результат – наш найкращий друг. Ми знаємо, як досягати мети та впевнено крокуємо шляхом переможців.
+Любов до цифр - Аргументуємо свої рішення на підставі реальних цифр. Проводимо аналіз та оцифровуємо результати.
+Вражає? :)
+Тоді швидше виходь на зв'язок, ми вже чекаємо на тебе!
+------------------------
+Ми зробили неймовірне - топові умови, інфраструктуру та ресурси, а все задля неймовірного баїнгу, розробки та професійної прокачки. А тому, де б ти не працював, у нас крутіше :)
+Зараз в команду ми шукаємо скілового Flutter Developer який буде розробляти креативні додатки на AppStore платформі. Розширюємо нашу команду за кордоном, тому у пошуку спеціаліста за межами України!
+Що потрібно, щоб приєднатися до нас:
+Хороше розуміння мобільної архітектури iOS та Android;
+Розробка компонентів та додатків;
+Обслуговування існуючих програм
+Комерційний досвід роботи з Flutter/Dart (не менше 1 опублікований додаток);
+Знання of Clean Architecture, MVP, and MVVM
+Знання аналітик SDK (Facebook, Amplitude, Firebase, etc)
+Чому наша команда тобі точно сподобається? Тому що у нас ти знайдеш:
+Нетривіальні задачі та нові челенджи.
+Фінансова стійкість - перформенс ревью кожні півроку з моменту завершення випробувального терміну.
+Найкрутіша команда контенту - заряджена на результат!
+Ідеально вибудована внутрішня інфраструктура.
+Можливість втілювати навіть найбожевільніші ідеї.
+Працюй з будь-якого зручного місця у світі!
+Чесну та професійну команду, яка готова слухати та розуміти, а головне – підтримати тебе у профбезумстві!
+Кар'єрне зростання - відкрий свій напрямок або запусти свій продукт!
+Наші цінності:
+Чесність - Завжди прямо та відкрито висловлюємо свою думку.
+Партнерство та Синергія - Усвідомлюємо важливість взаємовіддачі. Формуємо екологічні взаємини, що базуються на довірі та підтримці.
+Захопленість - Горимо ідеями та не втрачаємо азарт. Прагнемо розібратися в суті будь-якого питання, бути залученим до його вирішення і стати найкращим із найкращих!
+Результативність - Результат – наш найкращий друг. Ми знаємо, як досягати мети та впевнено крокуємо шляхом переможців.
+Любов до цифр - Аргументуємо свої рішення на підставі реальних цифр. Проводимо аналіз та оцифровуємо результати.
+Вражає? :)
+Тоді швидше виходь на зв'язок, ми вже чекаємо на тебе!
+------------------------
+Flutter Strong Junior / Middle
+— 3+ years of mobile development experience
+— Commercial experience with Flutter/Dart (at least 1 published app)
+— BLoC, Provider
+— English level: A2+
+— Git, Jira (or other similar tools)
+— CI/CD tools as a plus
+Парт тайм 20 часов в неделю,но по договоренности можно и фулл тайм
+------------------------
+Project Description:
+Our Client is the world's largest manufacturer of professional dental products and technologies, with a more than a 100-year history of innovation and service to the dental industry and patients worldwide.
+Our Client develops, manufactures, and markets a comprehensive solution offering including dental and oral health products as well as other consumable medical devices under a strong portfolio of world-class brands.
+Our Client's products provide innovative, high-quality, and effective solutions to advance patient care and deliver better and safer dentistry.
+The project is a recently started development of a web Flutter application for dentists and patients.
+Responsibilities:
+- Development of new components of the system
+- Active participation in the architecture of the backend
+- Participation in the code review process
+- Collaborative work in an Agile environment together with the engineering team and product owners
+- To be the only front-end developer in a team (to be proactive and pull things forward)
+- To have experience with web-applications
+Mandatory Skills Description:
+- To be the only front-end developer in a team (to be proactive and pull things forward)
+- To have experience with the development of web applications
+- Flutter (3+ of commercial experience with Flutter)
+- Dart
+- Languages: (1) English at least Upper Intermediate and (2) either Portuguese or Ukrainian
+- Ability to visit the office in Lisbon 1-2 per week will be a significant advantage.
+Nice-to-Have Skills:
+- Golang (basic)
+- WASM
+- Selenium
+- Jira/Xray
+- Scrum framework
+------------------------
+A few facts about us:
+- Technical stack of our team: JS (React and Node), Java, PHP and others
+- Whereas our business model is outstaff, we offer a search for a project that matches not only the developer's stack but also matches his interests
+- Our developers are involved in long-term projects in the fields of Fintech, Healthcare, Education, E-commerce, SaaS, etc. We do not consider projects in the Betting, Gambling, Adult content, and similar domains
+- Each of our developers is involved only in one project (full-time)
+- Our current clients are from the USA and Europe
+- This year we hope to grow up, regardless of the conditions, and organize the work of outsourcing teams
+- Hostilities did not affect the stability of our company: not a single dismissed person, not a single reduction in the rate or other payments because of war, the terms of payment of salaries have not shifted. The founders are optimistic about the future, so our team continues to grow.
+What we offer for your success:
++ Competitive salary and regular performance reviews
++ The ability to focus on your work: a lack of bureaucracy and micromanagement
++ No unpaid overtimes
++ Timely salary payment
++ 50% compensation for English courses (if it’s needed)
++ 21 paid days off
++ Adaptation period of 3 months
++ Attention) The salary amount depends on the results of the tech. interview and your experience
+About your responsibilities:
+No long descriptions are needed: every developer knows his tasks while on a project. The specific list of tasks will depend on the project, of course.
+What you need for this position:
+- Working with your team leader and QA to deliver an excellent flutter application;
+- Verifying your work is tested manually or by automation and delivered with high quality;
+- Working with Product and UX team to define the product;
+- Working in an Agile environment.
+Requirements:
+- At least 3 years of hands-on development experience;
+- At least 3+ year of proven mobile development with Flutter (Not freelancing!);
+- Good knowledge of core OOP and general programming concepts (object lifecycle, reflection, connection/thread pools, etc.);
+- Working experience with SQL (with proven ability to write native SQL queries);
+- English level —
+Upper-Intermediate
+Would be a plus:
++ Experience with native mobile development.
+If you have any questions about this job post, please feel free to ask.
+Contact us and become a valuable part of the People-First team.
+------------------------
+🎯 Необхідні знання:
+Досвід роботи у #Flutter від 1 року, досвід мобільної розробки від 3-х років;
+Наявність готових проектів у портфоліо;
+Впевнені знання принципів роботи #Flutter;
+Вміння працювати з датчиками активності та #gps;
+Вміння працювати із системою контролю версій #Git;
+Досвід роботи з #WebSockets та #REST API;
+Досвід розробки під #Android чи #iOS;
+English B1.
+🙌 Компанія пропонує:
+Робота в затишному офісі в Одесі;
+Графік роботи: 10:00–19:00;
+Цікаву та активну роботу в яскравій команді;
+Драйвовий колектив зі своїми тематичними вечірками;
+14 днів відпустки;
+Чай, кава та обіди за рахунок компанії.
+------------------------
+Hey guys 👋
+We’re Intobi — a software development company, located in Kyiv 🇺🇦
+Our main specialization is Web & Mobile applications + UI/UX Design.
+We’re looking for a success-driven Flutter Developer for one of our clients.
+Full-Time, Long-Term position, work from the office or remotely.
+About project:
+Commercial real estate software provider. The industry-leading platform provides commercial agencies a central place to collaborate on their Properties, Inquiries, Deals & Marketing efforts.
+Requirements:
+— Strong knowledge of Flutter SDK;
+— Experience with widget testing, and mock tests;
+—At least 2 years of working experience with Flutter/Dart;
+— Understanding and practical usage of OOP/SOLID;
+— At least one of state management patterns knowledge (BLoC, GetX, ChangeNotifier);
+— Native languages (Android/Kotlin, Swift/Obj-C) would be a plus;
+— Network — REST, WebSockets;
+— English: Upper-intermediate or above.
+What we offer:
+— Competitive salary;
+— Paid vacation and sick leaves;
+— Paid day-off (Ukrainian holidays);
+— Ability to work from our cozy office;
+— 8 hours working day, 5 days a week;
+— Career growth potential;
+— Free snacks, fruits, and drinks;
+— Friendly team and corporate events.
+Please send your CV here or via email
+Should the first stage be successfully completed, you’ll be invited to a personal interview.
+------------------------
+Hey guys 👋
+We’re Intobi — a software development company, located in Kyiv 🇺🇦
+Our main specialization is Web & Mobile applications + UI/UX Design.
+We’re looking for a success-driven Flutter Developer for one of our clients.
+Full-Time, Long-Term position, work from the office or remote.
+About project:
+Commercial real estate software provider. The industry-leading platform provides commercial agencies a central place to collaborate on their Properties, Enquiries, Deals & Marketing efforts.
+Requirements:
+— Strong knowledge of Flutter SDK;
+— Experience with widget testing, mock tests;
+—At least 2 years of working experience with Flutter/Dart;
+— Understanding and practical usage of OOP/SOLID;
+— At least one of state management patterns knowledge (BLoC, GetX, ChangeNotifier);
+— Native languages (Android/Kotlin, Swift/Obj-C) would be a plus;
+— Network — REST, WebSockets;
+— English: Upper-intermediate or above.
+What we offer:
+— Competitive salary;
+— Paid vacation and sick leaves;
+— Paid day-off (Ukrainian holidays);
+— Ability to work from our cozy office;
+— 8 hours working day, 5 days a week;
+— Career growth potential;
+— Free snacks, fruits, and drinks;
+— Friendly team and corporate events.
+Please send your CV here or via email
+Should the first stage be successfully completed, you’ll be invited to a personal interview.
+------------------------
+Flutter developer
+Required Experience/Qualifications:
+* Strong experience and understanding of Flutter structure and cycle
+* Understanding of Reactive programming
+* Strong knowledge of OOP/SOLID
+* Experience with RESTful API
+* Experience with Redux
+* Experience with TDD
+WE OFFER
+— remote or office
+— 8 hours working day (flexible working hours);
+— 20-day paid vacation;
+— Insurance;
+— Professional environment;
+— 15 minutes from metro station Vokzalna or Olimpiyska.
+Responsibilities:
+* Development of end-user applications
+* Development of unit tests
+* Code review
+* Taking part in applications architecture development
+Visonic is an international developer and manufacturer of high-quality electronic security systems and components. We are dedicated to enhancing people’s way of life by increasing their sense of security. Our easy-to-use and innovative Home Security Systems and components are vital parts of everyday family life for people of every age. By providing real-time connectivity between families, homes, property, care givers and community support networks, we empower people to pursue their daily lives with full confidence that the people and things they care most about are safe and comfortable.
+------------------------
+Requirements:
+- 1+ years of iOS development experience;
+- Understanding of SOLID principles;
+- Strong knowledge of OOP principles and design patterns;
+- Experience using source control systems (git, bitbucket, etc.);
+- Experience with Flutter will be a plus;
+- Proactive Team Player.
+You will be responsible for:
+- Create mobile applications from "0" and add new functions;
+- Write efficient code using software development best practices;
+- Developing new features for iOS and Android mobile applications.
+We offer:
+- 24 paid working days of vacation per year and a paid day off on birthdays;
+- Paid 10 days off;
+- Paid probationary period: 2 months;
+- Flexible schedule;
+- Work in the office or remotely;
+- Corporate events and team buildings;
+- Mental Health Program (consultations with our corporate psychologist and training with our coach);
+- Personal development opportunities at the Wezom Academy with a discount of up to 50%.
+------------------------
+Your tasks:
+- Create mobile applications from "0" and add new functions;
+- Write efficient code using software development best practices.
+Required skills:
+- 2+ years of experience in iOS/Android mobile development;
+- Experience of 1+ years of practical use of Flutter;
+- Experience in creating applications for iOS and Android;
+- Understanding of mobile development principles, patterns and design techniques;
+What we are offering:
+- Stable and competitive salary;
+- Work in a cool team + with the presence of an experienced mentor, support and task setting;
+- Flexible working schedule;
+- Interesting projects and tasks;
+- Review of working conditions every 6 months in case of improving skills and gaining new skills;
+- Compensation for the courses in your field;
+Would be a plus:
+– Experience with App Store release processes.
+------------------------
+Requirements:
+* 3+ years of mobile development experience;
+* Commercial experience with Flutter/Dart (at least 1 published app);
+* BLoC, Provider, Redux, Clean Architecture;
+* DI;
+* Good understanding of OOP and FP
+* SOLID principles and Design Patterns
+* RX Dart;
+Would be a plus:
+* SQL; NoSQL ;
+* Big plus - background in native iOS and/or Android development;
+* Git, Jira;
+* CI/CD tools as a plus.
+------------------------
+About
+us
+Syndicode
+is a trustful digital transformation partner that will take care of every aspect of the business - from product development and delivery to maintenance and marketing promotion. We make customers’ success our top priority and establish long-term relationships with clients.
+Syndicode
+strives to create a sound feeling of maturity for the client and the high professionalism of the company's engineers and managers. Maturity is our focus while selecting candidates. For
+Syndicode
+, it means being proactive, accountable, self-aware, and able to think critically.
+Besides, our shared principles are:
+Accountability, Involvement, Excellence, Visibility, Integrity, Innovation, Win-Win, Flexibility.
+This way, we ensure our employees’ high productivity and ability to fit in any work environment. If it sounds like you, apply to our jobs and become a new
+Syndicoder
+!
+🌟
+What you’ll get at Syndicode
+- Fully remote job and flexible working hours
+- Coverage of health insurance or annual health check-ups
+- Opportunity for professional growth and development
+- Competitive compensation, regular reviews
+- Fixed annual balance for sports
+- 15 days of vacation, 11 days off for holidays, and 20 sick leave days per year
+- Internal tech meetups and education
+- Positive work environment, friendly, collaborative, and professional teammates
+⚡️
+Zones of responsibility
+- Participate in all phases of the development life-cycle
+- Create well-designed, testable, efficient code
+- Resolve any problems in the system and suggest and add new features to the system
+- Assist in the preparation and production of releases of software components
+- Use CI/CD for smooth deployment
+- Document the project and code efficiently by using Git
+💼
+Required skills and experience
+4+ years of experience working with mobile development
+3+ years of experience in Flutter Development
+Have experience with Flutter for both iOS and Android.
+Experience with third-party libraries and APIs
+Understanding of the Agile development life-cycle
+Experience with Git or other version control tools
+Upper-Intermediate English level or higher
+⭐️
+Why Syndicode?
+- Dynamic fast-growing environment: we react and adapt quickly to the world’s and market changes, meanwhile we don’t forget to take care of our employees’ needs
+- We hear and implement your ideas: ability to participate in decision-making, bring new ideas
+- Self-management: opportunity to manage your time and plan your activities
+- Continuous feedback within teams and departments.
+------------------------
+We work with foreign partners like Austria, Israel, German, the USA, and South Africa, so we definitely never sit idle). Our company will provide you with a comfortable office/remote work & technique, competitive salary, education & career promotion, open-minded management, and accounting support.
+Currently, we are looking for a Flutter Developer, so maybe you are the perfect match to our team!
+That would be wonderful if you have:
+* 2+ years of mobile development experience;
+* Commercial experience with Flutter/Dart (at least 1 published app);
+* BLoC, Provider;
+* English level B1;
+* Git, Jira (or other similar tools);
+* CI/CD tools as a plus.
+Advantages for a candidate:
+* Stable and competitive salary;
+* Reporting and payment of taxes from private individuals;
+* Work in a cool & experienced team;
+* Useful & interesting projects;
+* Flexible working schedule;
+* Up to 24 Days Off per year at your convenience;
+* Convenient office in Vinnytsia or an opportunity to work remotely;
+* Monthly team activities;
+* Corporate culture with maximum automation of processes;
+* Review of working conditions and position based on performance, productivity and development in accordance with a skills assessment program
+* Excellent opportunities and prospects for professional growth in a company with a 6-year history.
+What will you do:
+* Flutter cross-platform mobile app development;
+* Develop/support of new applications and add new features;
+* Work as part of a team;
+* Constantly improve your Flutter skills or any other skills.
+------------------------
+Responsibilities
+•	Design and build advanced applications for the Android platform
+•	Collaborate with cross-functional teams to define, design, and ship new features
+•	Work with outside data sources and APIs
+•	Unit-test code for robustness, including edge cases, usability, and general reliability
+•	Work on bug fixing and improving application performance
+•	Continuously discover, evaluate, and implement new technologies to maximize development efficiency
+Requirements and skills
+•	BS/MS degree in Computer Science, Engineering or a related subject
+•	Proven software development experience and Android skills development
+•	Proven working experience in Android app development and
+•	Have published at least one original Android app
+•	Experience with Android SDK
+•	Experience working with remote data via REST and JSON
+•	Experience with third-party libraries and APIs
+•	Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies
+•	Solid understanding of the full mobile development life cycle.
+We offer:
+•	competitive compensation package
+•	health insurance
+•	possibility of personal and professional development
+•	dynamic work environment of international company
+•	other employee's benefits
+------------------------
+Основні задачі:
+- Розробка нових застосунків
+- Ведення та розвиток існуючого застосунку
+Для нас важливо:
+- Комерційних досвід розробки в мобайлі від 3-х років
+- Комерційний досвід розробки Flutter від 3-х років
+- Довід з Dart Core
+- Знання одного зі стейс-менеджер (Redux, BLoC, MobX)
+- Практичні знання концепцій ООР, розробки GUI, програмних шаблонів проєктування, SOLID
+- Знання Git, GitFlow.
+Ми пропонуємо:
+- ЗП: від 5000$
+- Графік роботи: fulltime (remote)
+- Компенсація конференцій, профільних курсів, тренінгів
+- Корпоративна англійська
+- Відпустка та лікарняні – оплачувані
+- Оформлення: контракт ФОП 3 групи
+Hiring process: HR Interview ---- Technical Interview ---- Final Interview
+------------------------
+We are seeking a self-motivated Flutter developer to join our growing engineering team. Our candidate should have excellent communication skills and creative thinking, along with keen attention to detail.
+About:
+Our project supports farmers by providing real-time actionable information to help them manage their herds. It provides pet owners with smart devices and data that give them a better understanding of their pets activity and health needs, enriching relationships. It helps conservationists safeguard natural environments and wildlife.
+Responsibilities:
+-Working with your team leader and QA to deliver an excellent flutter application;
+-Verifying your work is tested manually or by automation and delivered with high quality;
+-Working with Product and UX team to define the product;
+-Working in an Agile environment.
+Requirements:
+-At least
+3 years
+of hands-on development experience;
+-At least
+1 year
+of proven mobile development with Flutter (We expect you to have at least one app in production);
+-Good knowledge of core OOP and general programming concepts (object lifecycle, reflection, connection/thread pools, etc.);
+-Working experience with SQL (with proven ability to write native SQL queries);
+-B.Sc. (or M.Sc.) in Computer Science or Computer/SW Engineering;
+-English level — Intermediate or higher.
+Would be a plus:
+Experience with native mobile development.
+We offer:
+Professional Development: free English courses, access to company’s library, free access to the corporate Udemy account, possibility to participate and share your knowledge as a speaker in our internal meetups, opportunity to work from anywhere (depends on the project).
+Benefits:
+100% paid vacation and sick leaves, assistance in relocation, health insurance, access to psychological help, convenient office location, free accountant and lawyer services, opportunity to accumulate part of the own salary in the company in dollar terms, team building activities.
+------------------------
+Requirements:
+- 3+ years of experience in commercial Flutter application development
+- Good understanding of iOS and Android mobile architecture
+- Experience using github flow
+- Good understanding of OOP and FP
+- Excellent problem solving, critical thinking, and communication skills
+- Fluent English (B2+)
+A big plus if you have:
+- Background in native iOS and/or Android development
+- Understanding of SOLID principles and Design Patterns
+- Reactive programming or Redux
+You will be responsible for:
+- Developing new features for iOS and Android mobile applications
+- Working on bug fixing and improving application performance
+- Integrating mobile apps with web services
+- Conducting code reviews
+- Working closely with the Product and Engineering teams throughout the app development process
+What we offer:
+- Working in the industry leader and growing together with the product (we finally reached over 250,000 monthly users)
+- Fast tracked career progression based on performance
+- The freedom to push boundaries and use all your expertise
+- Income stability: get paid on time, every time
+- Remote work
+- Paid vacation & sick leaves
+------------------------
+Ми шукаємо Senior Flutter Developer , який або яка разом з нами створюватиме прогресивні продукти для своїх колег, які подарують щастя тисячам українців.
+В планах ще дуууже багато роботи з амбітними задачами та викликами. І для цього ми шукаємо саме тебе!
+На яких цінностях будуємо проекти?
+●	Український продукт для українців. Свої для своїх. Наші продукти важливі та корисні Гостям, твоїй сім’ї та твоїм друзям. І це буде актуально і сьогодні, і завтра, і після Перемоги;
+●	Ми експериментуємо і піклуємося про команду, топимо за співпрацю, проповідуємо чесність і відкритість. Кар’єра у нас це — турбота про кожного;
+●	Можливість впливати на продукт. Ми набираємо зірочок та даємо їм можливість сяяти та цим самим запалювати наші продукти. Здоровий глузд для нас цінніший, ніж “так історично склалося”.
+Як ми бачимо нашого dream кандидата чи кандидатку?
+●	Досвід 3+ роки в мобільній розробці iOS/Android;
+●	Досвід 2+ роки практичного використання Flutter;
+●	Глибокі знання Dart;
+●	Досвід створення додатків для iOS та Android;
+●	Розуміння принципів мобільної розробки, шаблонів і технік проектування;
+●	Добре розвинені комунікативні та організаторські здібності.
+Буде плюсом:
+●	Досвід публікації додатків в AppStore і PlayMarket;;
+●	Досвід модульного та функціонального тестування;
+●	Досвід роботи з CI/CD.
+Що ти будеш робити?
+●	Створювати мобільні додатки з “0” та додавати нові функції;
+●	Писати ефективний код, використовуючи найкращі практики розробки програмного забезпечення.
+Що ми пропонуємо?
+●	Роботу над флагманськими проектами з великою кількістю юзерів;
+●	Можливість впливати на рішення;
+●	Конкурентоспроможна оплата, обговорюється за результатами співбесіди з успішним кандидатом;
+●	Підтримку ФОП;
+●	Добровільне медичне страхування;
+●	Знижки для співробітників мережі;
+●	Конс’єрж сервіс для працівників;
+●	Віддалений режим роботи. А якщо хочеш попрацювати в офісі - є затишний коворкінг в БЦ SilverBreeze на русанівці. Проте наразі в цілях безпеки ми рекомендуємо скорочувати поїздки в офіс.
+------------------------
+Our main mission is to speed up the IT-sphere by making next-generation, omnichannel platforms.
+We challenge assumptions and speak up when we believe that a client may be making a mistake. Good business practices and purpose-built teams ensure optimal outcomes for our clients.
+Our continuous devotion to developing internal knowledge and collaborative processes allows us to solve problems that other people can’t.
+Want to join our Kapsys Team? Keep Reading!
+Job requirements:
+•2+ years of experience in Web development  in commercial projects
+•Upper-Intermediate English level is a must
+•Experience in developing Flutter application, more than 1 year of professional experience
+•Deep understanding of iOS and Android platforms
+•Experience in developing REST API client-server application
+•Advanced knowledge of HTML, SASS
+You will:
+•Be involved in multiple projects for the development and maintenance of mobile apps with thousands of active users.
+•Be working along with a fantastic international team
+•Be working with the following technologies:
+— Backend: Node.js, Typescript
+— Client-side: Angular
+— Cloud provider: AWS
+— CI/CD: GitHub actions
+— Infrastructure management: Kubernetes / AWS ECS
+— Architecture: Microservice architecture, REST API
+We offer - more than just a job:
+•100% remote work with ability to work from anywhere
+•Broad and advanced technology stack, huge opportunities to grow, learn and advance your skills.
+•Great team communication and amazing cross-cultural team: you will collaborate with teammates from all around the world and get to know new cultures.
+•Flexible schedule: work/life balance
+•19 Paid Time Off days
+•Competitive compensation depending on experience and skills
+•Open-minded management, no bureaucracy, flat hierarchy
+•Support in certifications
+Interview stages - step by step:
+•1-st stage - Video interview with HR Manager
+•2-nd stage - Technical task
+•3-rd stage - Video interview with our Technical Lead
+•4 stage - Final video interview with CEO
+Want to speed up the IT-sphere with us? Then join our ride and apply now!
+------------------------
+—Architecting, designing, developing and deploying new features for mobile applications;
+—Diagnose and fix bugs and performance bottlenecks for great performance;
+—Maintain code and write automated tests to ensure the product is of the highest quality;
+—At least 2 years of full-time mobile development experience (iOS, Android) with at 1 year experience with Flutter;
+—Familiarity with RESTful APIs to connect applications to back-end services;
+—Proficient understanding of code versioning tools, such as Git;
+What we offer
+— Competitive salary based on your experience;
+— Professional and career growth and development within the fast-growing company;
+— Flexible work schedule;
+— Friendly management, professional and cooperative team atmosphere;
+— Interesting, challenging tasks.
+Responsibilities
+— Take a path of development new projects
+— Help to improve current projects
+*Remote work is also an option.
+------------------------
+As a
+Cross Platform Mobile App Developer
+, you will use relevant technologies to design, develop and deliver business logic on the client side. You will visualise the intuitive query and navigation of intelligence information. You will also be part of a new and exciting product that we are building.
+What You’ll Do:
+- Translate designs and wireframes into high-quality code
+- Collaborate with UI/UX team, product managers and other stakeholders in delivering the ultimate user experience
+- Translate wireframes and UI designs into functional mobile application
+- Develop and maintain high-performance, reliable and reusable cross-platform mobile applications
+- Implement methods to safeguard user's private information
+- Work with third-party APIs
+- Write unit and UI tests to identify malfunctions
+- Integrate with existing CI/CD workflows
+What Skills and Experience You’ll Bring:
+- Agile mindset with experience working in agile and matrix environments
+- An independent team player with excellent communication skills
+- Experience in iOS/Android mobile app development is a must
+- Demonstrable portfolio of released applications on the App store or the Android market
+- Cross-platform development experience using ReactNative or Flutter
+- Experience publishing to Google Play / Apple App stores
+- Worked with Google Cloud services
+- Experience working with NoSQL data stores
+- Delivered work with Ionic is a plus
+- Fluent in the English language
+What You’ll Enjoy:
+- Competitive salary based on skills and experience
+- Yearly performance bonus
+- Daily lunch allowance
+- Private health insurance
+- Udemy (learning platform) unlimited membership
+- Working from home policy & Flexible hours
+- Sport/Gym allowance
+Applications will be strictly confidential.
+------------------------
+Now we are looking for a Flutter Developer who will strengthen our developer’s team.
+More detailed information
+About the project:
+The existing application is a web-specific font-end which is data-heavy so resides on the desktop only. The new App app will be run on mobile devices and support the existing application by allowing task management and data maintenance in the field (away from the desk).
+The candidates will help develop and maintain multiple secure Flutter applications built on an AWS cloud infrastructure to help service the digital data needs of the construction industry.
+Required Skills
+- 4+ years working in a professional front-end software development team
+- 2 years working with Dart and Flutter
+- Understanding of secure programming across networks/internet
+- Firm grasp of SOLID principles
+- Understanding of OOP design patterns
+- Experience with TDD and unit testing in particular
+- Demonstrable experience with git version control in a team
+- Can explain rebase, merge, reset, etc.
+- Jira management software
+-Experience with interacting with cloud services such as AWS, GCP, Azure, etc.
+We offer:
+-an opportunity for career growth and professional development;
+-individual approach to rates;
+-package of social benefits;
+-space for generating ideas and innovations;
+-the possibility of work remotely;
+-flexible schedule;
+-modern and bright inside, well-equipped office right in the city center with a --comfortable working environment;
+-friendly team and not-bosses-management where you’re valued as a person, not just as a worker;
+-table football championships and VR room;
+-positive atmosphere, regular team-building, and corporate events.
+------------------------

@@ -1,43 +1,49 @@
-number of vacancies: 56
-ui: 125
-sql: 105
-excel: 78
-tableau: 62
+number of vacancies: 62
+ui: 124
+sql: 103
+excel: 77
+tableau: 61
 python: 54
-web: 48
-design: 46
+web: 50
+design: 47
 api: 45
-rest: 37
-presentation: 36
-testing: 36
-power bi: 30
-jira: 29
-uml: 28
-use case: 28
+testing: 39
+presentation: 35
+agile: 32
+power bi: 29
+jira: 28
+uml: 27
 bpmn: 26
-confluence: 24
-database: 21
+use case: 25
+confluence: 23
+scrum: 22
 google analytics: 21
 mobile: 21
 ux: 21
-architecture: 18
-qa: 16
+database: 20
+architecture: 19
+qa: 18
 firebase: 15
 amplitude: 14
-aws: 13
+aws: 14
+diagram: 14
+java: 14
 html: 13
-java: 12
-xml: 10
+etl: 10
 css: 9
-etl: 9
 json: 9
+xml: 9
 prototyping: 8
-qlik: 8
+kanban: 7
+prototype: 7
+qlik: 7
 big data: 6
 soap: 6
+ci/cd: 5
 sap: 5
 user story: 5
-ci/cd: 4
+waterfall: 5
+wireframe: 5
 draw.io: 3
 figma: 3
 lucidchart: 3

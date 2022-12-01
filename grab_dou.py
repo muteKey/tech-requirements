@@ -26,15 +26,10 @@ class DouGrabber(BaseGrabber):
             div_content = soup.body.find('div', attrs={'class':'text b-typo vacancy-section'})
             if div_content is not None:
                 text = div_content.get_text('\n', strip=True)
-                text = self.__cleanup_text(text)
+                text = self.cleanup_text(text)
                 results.append(text)
                 results.append(self.delimeter)
         return results
-
-
-    def __cleanup_text(self, text):
-        return text.strip().replace("● ", "").replace(" "," ").replace(" "," ").replace(" "," ").replace("• ", " ").replace(" ", "").replace("• ", "").replace("​", "")
-
     
     def process(self):
         links = self.__get_vacation_links()

@@ -1,0 +1,112 @@
+number of vacancies: 165
+android: 152
+kotlin: 143
+java: 124
+ble: 115
+git: 82
+android sdk: 63
+mvvm: 58
+solid: 37
+mvp: 36
+firebase: 35
+ios: 35
+retrofit: 34
+room: 32
+dio: 31
+dagger: 25
+rxjava: 24
+kotlin coroutines: 23
+sql: 23
+clean architecture: 21
+jetpack compose: 19
+ci/cd: 19
+sqlite: 18
+swift: 17
+android studio: 16
+jenkins: 15
+c++: 14
+gradle: 14
+linux: 14
+react: 14
+html: 13
+mvi: 13
+jira: 12
+crashlytics: 10
+okhttp: 10
+xml: 10
+flutter: 9
+hilt: 9
+livedata: 9
+realm: 9
+koin: 8
+tdd: 8
+dart: 7
+github: 7
+mvc: 7
+mockito: 7
+vision: 7
+fragment: 7
+junit: 7
+gson: 6
+nimble: 6
+glide: 5
+javascript: 5
+react native: 5
+websockets: 5
+android ndk: 4
+bitbucket: 4
+gitlab: 4
+python: 4
+appsflyer: 3
+bloc: 3
+graphql: 3
+contentprovider: 3
+databinding: 2
+kodein: 2
+nfc: 2
+navigation component: 2
+objective-c: 2
+redux: 2
+speech: 2
+stripe: 2
+timber: 2
+uikit: 2
+viewbinding: 2
+volley: 2
+webrtc: 2
+xcode: 2
+ansible: 2
+intent: 2
+xamarin: 2
+touch point architecture: 2
+listadapter: 2
+groupie: 2
+epoxy: 2
+rxkotlin: 2
+frida: 2
+ionic: 2
+apple pay: 1
+charts: 1
+cocoapods: 1
+coil: 1
+combine: 1
+exoplayer: 1
+firebase analytics: 1
+firebase dynamic links: 1
+gcm: 1
+lottie: 1
+mqtt: 1
+mapbox: 1
+maven: 1
+moshi: 1
+mysql: 1
+picasso: 1
+socketio: 1
+sonarqube: 1
+teamcity: 1
+viper: 1
+ios sdk: 1
+robolectric: 1
+arcgis: 1
+burp: 1
+ghidra: 1

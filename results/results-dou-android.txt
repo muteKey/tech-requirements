@@ -1,0 +1,1800 @@
+Generated at 12/01/2022, 17:33:42
+Хей, тебе вітає команда Leadsdoit!
+Хто ми?
+Успішна
+performance marketing
+команда з України, що заряджена на результат та вирішення поставлених задач.
+Чим ми займаємось?
+Ми займаємось
+affiliate-monetized
+проєктами для закордонних та внутрішніх ринків. Створюємо власні мобільні додатки та проєкти, спрямовані на весь світ. Також, в нас є все для досягнення успіху: фінанси, стратегія, інвестиції й топова команда.
+Наша компанія продовжує зростати, тому ми в пошуках найкрутіших спеціалістів, що заряджені на результат та переповнені ідеями.
+Наразі ми в активному пошуку Technical Lead Android Developer, який мислить стратегічно, а систематичність — це невід’ємна частина його роботи. Для нього складна ситуація — це не проблема, а можливість прокачати свої скіли.
+Тобі до нас, якщо ти:
+Маєш досвід роботи від
+2-х
+років;
+Здобув досвід у розробці мобільних додатків для Android з глибоким розумінням архітектури Android, Framework, Android SDK, Core Java, Android Studio IDE, Android Debugger, Kotlin;
+Експерт з основних компонентів Android: Activity, Services, Intent, Broadcast Receiver, Content Provider;
+Втілював і генерував нові рішення, які сприяли поліпшенню додатків
+Розумієшся на компонентах та елементах інтерфейсу користувача (панелі дій, віджети, фрагменти тощо) ;
+Проводив Сode Review;
+Плануєш релойкет чи знаходишся в іншій країні.
+Неймовірним + буде, якщо ти отримав(ла) досвід роботи в галузі інтеграції вебсервісів (REST, JSON, XML), хмарних технологій — AWS, GAE, GCM та маєш досвід реалізації Webview.
+Твої задачі полягають в наступному:
+Моніторинг технічної складової відділу розробки та впровадження нових рішень для досягнення цілей відділу розробки;
+Впроваджуватимеш нові рішення по створенню окремих функцій, продуктів, а також найкращих практик та шаблонів, які можна використовувати для розробки;
+Контроль якості продукту та масштабування розробки мобільних додатків;
+Оптимізація процесів для підтримки нових співробітників у нашій команді;
+Комунікація з командою, що націлена на розвиток, мотивацію та прокачку технічних скілів;
+Створення прототипів, нових ідей та дослідження нових технологій;
+Кілька приємних бонусів, які тобі точно сподобаються та будуть завжди викликати бажання працювати:
+Перформанс ревʼю кожен рок з моменту завершення випробувального терміну
+Працюй з будь-якого зручного місця у світі!
+Можливість вибору стека, на якому будуть реалізовані проєкти твоєї команди
+Можливість отримувати бонуси та винагороди за досягнення поставлених цілей
+В нас є цінності, які важливі для нас:
+Чесність
+—
+Завжди прямо та відкрито висловлюємо свою думку.
+Партнерство та Синергія
+— Усвідомлюємо важливість взаємовіддачі. Формуємо екологічні взаємини, що базуються на довірі та підтримці.
+Захопленість
+—
+Горимо ідеями та не втрачаємо азарт. Прагнемо розібратися в суті будь-якого питання, бути залученим до його вирішення і стати найкращим із найкращих!
+Результативність —
+Результат — наш найкращий друг. Ми знаємо, як досягати мети та впевнено крокуємо шляхом переможців.
+Любов до цифр —
+Аргументуємо свої рішення на підставі реальних цифр. Проводимо аналіз та оцифровуємо результати
+Залишай своє резюме, з радістю поспілкуємось та відповімо на всі твої питання)
+------------------------
+We are looking for a skilled Android Developer
+Requirements:
+2+ years of experience in commercial projects
+Proven Android SDK knowledge
+Java/Kotlin programming languages
+Proven experience with Dagger 2, Retrofit 2 libraries
+Experience with Kotlin Coroutines
+Experience with Jetpack Compose
+Experience in Unit Testing
+WebSockets, REST
+Understanding of MVVM pattern
+Strong skills in git scm and git-flow
+Knowledge of Android Architecture Components
+Nice to have:
+Understanding of CI/CD processes implementation
+Experience in Firebase services
+Experience in Flavors
+Experience with RxJava2
+Working conditions:
+100% remote;
+Competitive compensation linked to USD rate;
+Flexible working hours in the European time zone;
+Team that is always ready to help;
+Opportunities for professional and personal growth;
+Paid vacation and sick leaves.
+------------------------
+About the client:
+We are a creative bunch of programmers that love to tinker with technology. We work on a diverse variety of projects, with ample room for self-improvement, R&D. Since we tend to adopt the newest tech fast, your eagerness to learn is valued as much as your years of experience. As part of a small, talented team, you will have direct input into implementation decisions and will have a major impact on the development and the contribution of ideas.
+Requirements:
+Around 5 yrs experience in Android development;
+Kotlin;
+Jetpack Compose;
+Coroutines;
+Good eye for quality;
+Familiar with writing unit tests and instrumentation tests (for a Compose app);
+Some familiarity with encryption and keypairs is heavily preferred;
+Familiar with Git and preferably the Gitlab suite.
+Responsibilities:
+Development of new features and bugfixing of the Android client;
+Help the product team with creating new features, using your knowledge of what is possible on the Android platform;
+Work with backend, iOS and web app engineers to ensure compatibility and create the best data formats;
+Do code reviews of fellow Android devs;
+Write unit tests and instrumentation tests.
+Project:
+A password manager that aims to be easier and more complete;
+~6 direct engineering colleagues, team of
+10-15
+including designers, UX research, etc.;
+Work together with 2 other Android devs;
+Versatile team in different countries, all working from home;
+3x per week standups,
+2-week
+sprints with sprint planning and retrospective meetings.
+About Global IT Support
+Global IT Support is a Ukrainian-Dutch outstaffing company that specializes in building IT teams from the best tech talent in Ukraine, the Philippines, and Indonesia. Founded in 2003, it has successfully matched more than 400 remote workers with highly satisfied clients from around the world. Be a part of a winning team!
+What we offer:
+If you make the cut, you can look forward to working on interesting projects with international companies as well as:
+Competitive salary and social package including paid vacations, sick days, and health insurance
+Free English language school
+Performance-oriented company culture
+Flexible work arrangements for optimal work-life balance
+A cozy workspace with modern amenities and friendly atmosphere
+Exciting company events
+Are you ready to make a change? If you are, then click on the Apply button now!
+------------------------
+Слава Україні! У Львівську команду OpenBet Ukraine
+шукаємо Strong Middle/Senior Android Engineer
+The Android Software Engineer role will be a key one for the OpenBet Product Engineering team. Reporting to the Development Lead, the Software Engineer will be shaping and implementing the technology and product deliverables that will drive forward strategic product deliverables.
+What would you do
+Development of new features and functionality for
+OpenBet Android native mobile applications
+, including the production of unit tests as and where required.
+Monitor and adapt to changes in the Android Operating systems,
+native SDKs
+and build frameworks introduced by Google.
+Work with the Mobile Architect and Principal Engineers to define the direction for the introduction of new technologies and trends to adhere to
+Google’s native mobile guidelines and best practices
+.
+Provide structured feedback and recommendations to “back-end” platform developers, to ensure APIs are fit for purpose.
+Proactively identify and address areas of material improvement, notably around
+native performance, security and code complexity
+.
+Identify and support the training needs of Android dev teams and in extension the broader OpenBet teams on the Android ecosystem.
+On occasion, lead an Agile workstream.
+Where required, provide 3rd line support and supporting production launches.
+Qualifications
+If you are the right Senior Android Engineer for us you will be able to demonstrate:
+A Bachelor’s degree in a traditional science subject, ideally computer science, engineering or information systems from a well-regarded university.
+At least 5 published Android apps in the Google App Store.
+Ability to document technical solutions in a variety of formats and to constructively share knowledge with less experienced team members.
+A minimum of 5 years’ hands-on experience in designing and developing mobile applications for
+Android using Kotlin and Java
+.
+Demonstrable experience working with at least one other web wrapping native framework such as Ionic with HTML 5 and AngularJS, Cordova, React Native.
+Demonstrable experience in developing
+data heavy
+, RESTful service driven applications using JSON data models.
+Experience with mobile
+SSO integrations
+for authenticating users.
+Demonstrable experience with
+TDD
+and / or BDD.
+General understanding of the use of Jenkins and Git (BitBucket)
+Demonstrably strong understanding of Google’s Human Interface Guidelines.
+Some experience with the new
+Flutter
+framework.
+It would be great to see these experiences as well:
+Experience in mobile web technologies (JavaScript, HTML5, AJAX, CSS).
+Understanding of general
+UX principles
+for web applications, including responsive and adaptive design principles and how they can be embedded within a native container as webviews.
+Knowledge of the iOS ecosystem and apps.
+Use of a
+CI/CD framework
+for Android applications development.
+General scripting skills: Bash, Python, Ruby,etc.
+Domain knowledge is
+not
+required, but having worked on fully native high data complex Android mobile applications development
+is.
+------------------------
+Futurra Group is a fast-growing Ukrainian IT company. We successfully develop and promote our own products: cross-platform mobile-first products, applications for iOS and Android, Smart Home products with 10+ million unique users every month.
+We are looking for an Android Developer who possesses a passion for mobile technologies and will work with our talented team. The candidate will work on developing a new line of applications in the Utilities/Productivity/Lifestyle categories.
+Your tasks will be:
+Provide implementation and complete testing of new features
+Supporting existing functionality
+Write a highly optimized code
+Key requirements:
+Good knowledge general software development principles
+Good knowledge of design patterns
+Understanding of git, git flow
+Good knowledge of Android SDK, Android studio
+Good knowledge of Support libraries, JetPack
+Good knowledge Java or Kotlin. Kotlin is a preference
+Understanding of Multithreading(RX, Coroutines)
+Understanding of Networking(Retrofit, Ktor, etc)
+Understanding of Dependency injection principles and tools(Dagger)
+Understanding of Android Architecture Components(MVVM, Livedata)
+Understanding of data persistence (shared preferences, sqlite, Room)
+The growth of our employees is a success of our company, therefore we have created the most comfortable working conditions:
+your career and financial growth directly depend on your results
+spacious office with terrace located 2 min. from Poshtova square
+non-bureaucratic environment
+flexible schedule
+free breakfasts, lunches, and fruits in the office
+funding of specialized courses and trainings
+corporate events, parties on the terrace, table tennis, table football, game console
+sports — we run, play soccer, volleyball, participate in sports events in Ukraine and abroad.
+Futurra Group is built on continuous investment in people. All of our managers have implemented their own ideas and have grown within the company.
+Join us!
+------------------------
+Ми шукаємо
+Senior/Middle Android Developer
+, який мріє розробляти амбітні ІТ-продукти та хоче бути частиною чудової команди професіоналів.
+Зростай разом з нами:
+ 5+ років на світовому ринку
+ 500+ спеціалістів (за минулий рік ми виросли в х2 рази)
+ 5+ додатків
+ 200М завантажень
+ Наші додатки продаються по всьому світу з фокусом на США, Латинську Америку, Європу, активно виходимо на Азійські ринки
+Разом з нами ви будете:
+ Працювати з рядом сучасних технологій: Kotlin, Kotlin coroutines, Android Jetpack (компоненти Arch, Compose, Navigation, Room, Hilt)
+ Брати участь у дизайні та розробці додатків
+ Працювати в команді Android Developers і взаємодіяти з іншими фахівцями компанії
+ Реалізовувати круті ідеї без мікроменеджменту та бюрократії, і відчувати свободу творчості
+ Випробовувати нові підходи в розробці та постійно йти в ногу з часом
+Ключові завдання:
+ Впровадження нового функціоналу
+ Написання фактичного коду
+ Інтеграція програми з серверною частиною
+ Розробка архітектури для нового функціоналу
+Навички та досвід:
+ 3+ роки комерційного досвіду розробки Android
+ Чітке розуміння ООП і дизайн патернів, знання типових архітектур
+ 2+ роки досвіду розробки додатків на Kotlin
+ 1+ рік досвіду роботи з Android Jetpack (будь-який із компонентів Arch, Compose, Navigation, Room, Hilt, WorkManager)
+ 1+ рік досвіду роботи з Kotlin Coroutines і Coroutine Flow
+ Розуміння MVVM/MVI
+ Розуміння DI (hilt or dagger 2)
+ Досвід роботи з Rest API, Retrofit
+ Досвід роботи з юніт тестами
+Буде плюсом:
+ Досвід з CI/CD
+ Досвід з Jetpack Compose
+У нашій команді ми цінуємо:
+ Ефективну комунікацію
+ Проактивність і орієнтованість на результат
+ Критичне мислення, відкритість до зворотного зв’язку
+Ми створюємо комфортні умови співпраці, орієнтовані на твій ритм життя, роботи і відпочинку і пропонуємо:
+ Рівень винагороди, який буде відповідати кваліфікації та рівню кандидата
+ Оскільки вакансія відкрита в офісі Лімассол, Кіпр чи у Варшаві, Польща, компанія допомагає з релокацією
+ Welltech — це не лише чудові бенефіти, але й чудова культура. Всі наші спеціалісти мають неймовірні можливості для професійного та кар’єрного зростання, гнучке робоче середовище та можливість драйвити зміни
+ У нашій команді ви зможете не лише розвиватися та втілювати свої ідеї, а й приносити користь світу!
+Деякі з наших додатків:
+ Muscle Booster — musclebooster.fitness
+ Yoga-Go — yoga-go.fit
+ FitCoach — fitcoach.fit
+ WalkFit —
+walkfit.pro
+ Omo —
+bit.ly/OMOio
+Рекрутмент процес:
+⭕️ Знайомство з рекрутером ---- ⭕️ Інтерв’ю ---- ⭕ Фінальне інтерв’ю
+У нашій команді ви зможете не лише розвиватися та втілювати свої ідеї, а й приносити користь світу!
+------------------------
+Uklon — продуктова IT-компанія, що розробляє провідний райд-хейлінг сервіс. Щодня потужна команда Uklon прокачує одну з найбільших інфраструктур на ринку України та за її межами, забезпечуючи взаємодію драйверів та райдерів.
+Ми створюємо highload продукт, за яким ховаються амбітні технологічні челенджі, безперервні інновації та неочевидні ходи. Наш фреймворк роботи — тестувати нові гіпотези, пушити свої ідеї та використовувати останній стек технологій.
+То ж приймай виклик та вступай у гру із світовими гігантами на рівних! Давай змінювати індустрію разом!
+Приєднуйся до нас у ролі
+Android Software Engineer
+Hiring process:
+Проходь лише один етап інтерв’ю до
+2-х
+годин (знайомство + технічна співбесіда)
+Деталі щодо того, як познайомитися з нашою командою дізнавайся у
+Насті
+, IT Recruiter
+Якщо цікаво познайомитися з СTO особисто, пиши
+Віталію
+.
+Що ми пропонуємо саме для цієї ролі:
+ розробка нового продукту з нуля в кросфункціональних продуктових командах
+ можливість прокачати навички роботи з tcp
+ інтеграція з сервером за підходами API-first та Async-first
+ розробка продукту, яким сам користуєшся та бачиш результати своєї роботи
+ можливість безпосередньо впливати на вектор розвитку відомого продукту
+ відсутність бюрократії та висока швидкість прийняття рішень
+ культура компанії, в якій кожен є значущим і цінним та має вплив на процеси
+Як саме ти можеш впливати на розвиток компанії:
+ розробка нового функціоналу, підтримка існуючого
+ виправлення помилок
+ аналіз причин та пошук рішень інцидентів з production
+ Code Review
+ участь в обговоренні майбутніх задач до виконання
+ вести правдиву та акуратну git та Jira-iсторію
+Челленджі на півроку:
+ знайомство з командою
+ знайомство зі структурою проєктів
+ освоєння бізнес-логіки проєктів
+ освоєння підходів до проєктування і написання коду всередині компанії
+ пошук вузьких місць і шляхів їх оптимізації
+ Code Review
+ розробка нового функціоналу у передбачувані терміни
+ пришвидшення розробки нового функціоналу командою
+ активна участь в декомпозиції технічних та бізнесових ініціатив
+ покращення якості коду на проєктах
+Для досягнення результатів, тобі знадобляться:
+ досвід розробки від 2 років на Kotlin
+ впевнене розуміння та використання принципів OOP та SOLID
+ впевнене володіння Java Сore: core, collections, concurrency, networking
+ Android Framework: Core Android API, UI, threading model та популярні third-party бібліотеки
+ досвід використання Gradle, Coroutines
+ покриття функціоналу тестами (JUnit, Spek)
+ впевнене розуміння та використання MV*-патернів
+Як ти регулюєш свій робочий час?
+ сам визначаєш зручний для себе час, але потрібно залишатися на зв’язку з 11:00 до 16:00
+ самостійно вибираєш зручний формат (офіс/віддалено/міксований), працюй з будь-якого куточка України й світу
+Як ти будеш прокачувати свої скіли в Uklon?
+ внутрішні тренінги, воркшопи, хакатони, шерінги знань тощо
+ корпоративна бібліотека та підписки на інформаційні ресурси
+ відвідування вебінарів, лекцій за участі спікерів компанії тощо
+ English lessons
+Work (War) — Life Balance
+Ми кажемо «ні» рутині та одноманітності, тому ми створюємо простір, де працювати дійсно в кайф. Гейміфікації, подарунки, розіграші, спортивні заходи, тімбілдінги та корпоративи — з нами точно не буде нудно.
+Відпустки та лікарняні:
+ 20 робочих днів на відпустку
+ 10 робочих днів на лікарняний
+ вихідний в день народження
+Health Care:
+ корпоративне медичне страхування
+Якщо ти шукаєш драйвову та амбіційну продуктову компанію, орієнтовану на розвиток та світову експансію, зацікавлений у використанні новітніх технологій та готовий далі підвищувати свою експертизу, приєднуйся до команди Uklon.
+------------------------
+About ITRex
+We are a global IT consulting and development company with a We Care attitude, striving to
+create momentum in our clients’ digital transformation.
+Our 300+ team brings together creative and talented cross-functional experts who are hungry
+for the success of every project.
+We have delivered hundreds of game-changing solutions to Fortune 500 giants,
+mid-market
+companies and startups and pride ourselves on being part of a success story of global leaders such as Walmart, TASC, Procter & Gamble, Dun & Bradstreet, Warner Bros., 21st Century Fox, Dollar Shave Club or JibJab.
+We value initiative, open communication and self-motivated commitment rather than compliance and box-ticking, and are looking for like-minded individuals who share our passion about doing great new things together.
+Join our friendly team as a
+Mobile Engineer
+!
+Our Expectations
+Required
+4+ years of experience in mobile development
+Experienced in
+iOS and Android development
+Swift / Kotlin
+Combine / Reactive programming
+Dependency Injection
+SwiftUI /Jetpack Compose
+MVVM
+Fastlane
+Swift Package Manager
+Git/GitFlow
+Good communication and interpersonal skills
+Upper-Intermediate English level
+Nice to have:
+Unit testing experience
+Pair programming experience
+Your
+Responsibilities
+Develop and implement features
+Ensure the quality of the source code that is written or reviewed
+Ensure the technical feasibility of UI/UX designs
+Collaborate with clients and other team members
+What We Offer
+A sense of community and friendship, diversity and inclusivity
+Informal working environment with short decision-making chains
+Flexible work hours and remote work options
+Established personal development processes
+Support of professional training and certification
+Regular company events (ITRexTalks, Q&A session with the CEO, Tech Meet-ups)
+Social benefits (medical insurance, sports reimbursement, and free English classes)
+------------------------
+OTAKOYI is looking for a smart and eager Android Developer to join our client team. We like challenges and self-development. If you like it too, don’t hesitate, join us
+Our client is
+Shelfr.com
+Shelfr.com
+is a B2B tech startup that specializes in the retail tech industry. It is based out of Dubai, where 60% of our team members work remotely from different countries: Ukraine, Belgium, KSA, Pakistan and Morocco.
+Required skills
+Design and build advanced applications for the Android platform
+We are looking for a passionate Android developer to join a team of innovators that are committed to revolutionizing the retail industry for good:
+BS/MS degree in Computer Science, Engineering or a related subject
+A minimum of 2 years of software development experience
+A minimum of 2 years of Android development
+Have published at least Android apps
+Experience with Kotlin
+Experience working with Firebase SDK, MVVM, Realm Database, Android Architecture Components, Google APIs
+Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies
+Solid understanding of the full mobile development life cycle
+Critical thinking and problem-solving skills
+Team player
+Good time-management skills
+Great interpersonal and communication skills
+Responsibilities
+Collaborate with cross-functional teams to define, design, and ship new features
+Work on bug fixing and improving application performance
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency
+Recruitment process:
+1. Pre-screening Interview with Recruiter up to 45 minutes)
+2. Tech Interview with Tech Lead
+(1-1.5 hour)
+3. Client Interview (up to 45 minutes)
+------------------------
+Fluix is a simple no-code platform that helps companies save labor hours, digitize document processes, automate routine tasks, and gather reliable data from the field and office. For instance, with the help of Fluix, Siemens Gamesa installed the largest 604 MW offshore wind farm at Kriegers Flak in June 2021. Imagine, you will be working on a product used by field and office teams on some of the most complex and modern projects in the world! Hundreds of businesses worldwide have already rolled out Fluix to optimize their processes and bridge the gap between field teams and offices. Our team of over 50 employees in 7 locations is a part of the Readdle family. We’re concentrating on empowering world-class enterprises with technology and mobility.
+Now we are looking for a Middle Android Developer to join our team.
+Responsibilities:
+— Development of Fluix Android client;
+— Create new and support existing product functionality;
+— Bug fixing;
+— Participation in feature’s design sessions
+Requirements:
+— Strong knowledge of Java/Kotlin + Android SDK;
+— Understanding of MVVM pattern;
+— Android Architecture Components;
+— Experience with commonly used libraries: Kotlin Coroutines + Flow, Hilt, Retrofit, Room;
+— Experience and strong skills in Git
+Will be a plus:
+— Knowledge of unit testing frameworks JUnit + Espresso;
+— Experience with Jetpack Compose
+What you will get:
+— Customer-centric culture. We put our customers first. It means that every employee can benefit from interacting with our customers directly. It enables us to create and deliver the best solutions for millions of our users;
+— Professional growth. We are professionals at everything we do. It means we own our decisions, our work, and our results. We provide quality feedback to others and welcome feedback as an opportunity to learn and improve;
+— A team of amazing people. The greatest power we have is the team. It means we care about each other, ensure transparency, and invest in everyone’s success;
+— Impact on our products. We aim to create valuable products. It means that we improve ourselves constantly by overcoming constraints, simplifying our processes, and improving our capacity;
+— Innovative culture. We try to be innovative and creative in everything we do. It means that we expect, appreciate and value new ideas
+------------------------
+Найкреативніша в галузі mobile development команда Leadsdoit чекає молодих та амбітних фахівців для розробки та підтримки власних продуктів.
+Ми чекаємо на тебе — Team Lead Android Developer :)
+Це твій шанс отримати крутий бекграунд та експірієнс, працюючи зі справжніми професіоналами своєї справи у розробці мобільних додатків!
+Якщо ти хочеш спробувати себе в ролі Team Lead Android Developer і мрієш створити свою ідеальну команду,
+тоді ця пропозиція для тебе :)
+Ти зможеш стати частиною нашої команди, якщо:
+У тебе є від 2+ років досвіду у розробці Android.
+У тебе вже є круті пет-проекти і ти готовий поділитися ними посиланням на гітхабі;
+Є досвід у розробці додатків використовуючи Kotlin;
+Є впевнені знання Activity, Fragment and View lifecycles;
+Вмієш працювати з RxJava, Room, Firebase;
+Розумієш всю міць MVVM та MVP;
+Застосовуєш на практиці REST/GSON/ViewModel/Retrofit/Okhttp/LiveData.
+Найважливіше — є досвід проведення співбесід та найму найкращих колег у свою команду :)
+Буде плюсом:
+Якщо ти знайом з Unity та маєш досвід у розробці додатків.
+Що ти будеш робити:
+Управління командою розробників. Ми допоможемо тобі зібрати команду твоєї мрії :)
+Менторинг нових членів команди та допомога у розробці карти зростання для кожного з них.
+Контроль та постановка завдань, управління пріоритетами.
+З нами у тебе буде можливість:
+Створити команду своєї мрії та можливість реалізувати себе у різних ролях.
+Можливість вибору стека, на якому будуть реалізовані проекти твоєї команди.
+Можливість отримувати бонуси та винагороди за досягнення поставлених цілей.
+Сформуй свій шлях до успіху за допомогою персоналізованої дорожньої карти зростання, що відповідає твоїм інтересам та цілям.
+Максимальна гнучкість у процесах, привід забути про мікро-менеджмент та стару шкільну ієрархію.
+Наші цінності:
+Чесність — Завжди прямо та відкрито висловлюємо свою думку.
+Партнерство та Синергія — Усвідомлюємо важливість взаємовіддачі. Формуємо екологічні взаємини, що базуються на довірі та підтримці.
+Захопленість — Горимо ідеями та не втрачаємо азарт. Прагнемо розібратися в суті будь-якого питання, бути залученим до його вирішення і стати найкращим із найкращих!
+Результативність — Результат — наш найкращий друг. Ми знаємо, як досягати мети та впевнено крокуємо шляхом переможців.
+Любов до цифр — Аргументуємо свої рішення на підставі реальних цифр. Проводимо аналіз та оцифровуємо результати
+Вражає? :)
+Тоді швидше виходь на зв’язок в
+телеграм @recrut_LDI
+, ми вже чекаємо на тебе!
+------------------------
+Wifi map — це продукт. яким користуються 180 мільйонів людей у всьому світі.
+Ми віримо, що кожен на нашій планеті повинен мати доступ до БЕЗКОШТОВНОГО та безпечного Інтернету. Разом ми поєднаємо світ"
+Вимоги:
+— Collaborate with our Android team in realizing the product vision and satisfying business requirements.
+— Implement Android architecture designs for SDK and App development teams.
+— Utilize our CI/CL solution in GitLab for Android
+— Follow best practices established via process documentation
+— Participate in continuing education and training to remain current on best practices
+— Knowledge of design patterns and architectures
+— Providing technical mentorship to encourage the growth of team members via pairing opportunities, and code reviews
+— 4+ years working experience in Android development or a combination of education and experience
+— Have skills in Android software development utilizing Kotlin
+— Knowledge in Android architectures such as Jetpack’s main librarie
+— Experience in native Android app development
+— Experience in Agile methodologies
+— Experience with Github/Gitlab
+— Solid understanding of the entire mobile development life cycle
+— Strong drive for writing reusable, testable, and efficient code
+— Demonstrate communication skills потрібна для роботи closely with colleagues, and our QA team
+— Demonstrated design and UX sensibilities
+— Demonstrated experience designing robust software components
+— Досвід досліджує останні Android кращі практики, patterns, and recommendations
+— Experience developing SDKs
+— Experience with third-party libraries and APIs
+✅ Ми пропонуємо роботу в команді професіоналів, яка створює дуже сильний проект, який вже має великий попит.
+------------------------
+— Requirements:
+— Good understanding and knowledge of Android SDK and OS Android;
+— Practical experience in software development using the latest Android APIs (Android 12 SDK);
+— Good understanding of network communication and client-side development;
+— Perfect understanding of software development process;
+— Knowledge of main OOP principles;
+— Software design patterns;
+— General data structures and algorithms;
+— Kotlin experience;
+— Gradle;
+— Knowledge of DI Dagger (Dagger2), MVP, RxJava2, OkHttp, ButterKnife;
+— Responsible and initiative person;
+— Good communication skills;
+— Good team player.
+------------------------
+Job Summary
+We are looking for an Android Developer who possesses a passion for mobile technologies and will work with our team of talented engineers to design and build the next generation of our application.
+Responsibilities and Duties
+— Design and build advanced applications for the Android platform
+— Collaborate with cross-functional teams to define, design, and ship new features
+— Work with outside data sources and API’s
+— Work on bug fixing and improving application performance
+— Continuously discover, evaluate, and implement new technologies
+Qualifications and Skills
+— 4+ years’ professional experience
+— Solid understanding of the full mobile development life cycle
+— Architectural thinking
+— Understanding of UX and Design Patterns
+— Proven software development experience and Android skills development
+— Experience with Android SDK
+— Knowledge and experience using Kotlin
+— Experience with Java
+— Experience with testing frameworks
+— Experience with networking (REST, JSON, etc.)
+— Experience with third-party libraries and APIs
+— Understanding of Agile methodologies
+— Experience with Jira, Confluence
+— Good written and spoken English
+Nice to have
+— BS/MS degree in Computer Science, Engineering or a related subject
+— Experience in building Android SDKs
+— Experience with RxJava
+— Experience with Android Wear
+— Experience in building software for consumer devices
+— Experience participating in a complete product software development cycle from inception to launch
+— Understanding of web and cloud development.
+We offer multiple benefits that include
+— Competitive salary and perks
+— PE accounting and support
+— WFH and remote working mode possibility. Partial furniture compensation
+— Social package, including medical insurance available from day one and a wellbeing benefit for sport and art activities, mental and physical health, available after trial period.
+— 21 paid vacation days per year, paid public holidays according to the Ukrainian legislation
+— Educational possibilities like corporate courses, knowledge hubs, and free English classes. Semiannual performance review
+— Free meals, fruits, and snacks when working in the office.
+------------------------
+We’re looking for a hardworking, skilled and result driven Android Engineer to help us take the product to the next level. As an Android Engineer, you will be working on the Mobile Application Engineering team that is responsible for the popular, award-winning iOS and Android apps. Clients’ mobile apps are part of the key strategy in their mission to help users find the jobs and companies they love. The Mobile Application Engineering team owns all aspects of their native apps feature set and delivery.
+Requirements:
+CS degree or equivalent experience
+3+ of developing mobile applications in Android
+Solid experience with Kotlin and Java.
+Experience with Jetpack Compose, and coroutine.
+Experience with software engineering practices (e.g., unit testing, code reviews, design documentation)
+Proficiency with multithreading and performance optimization techniques for Android
+Solid knowledge of Android OS architecture — in areas of: UI, memory management, data storage, security and application management by OS
+Experience with UI development of Android application (scalable for different screen resolutions and localization)
+Solid understanding of the software development life-cycle and Agile methodologies
+Self-starter who is comfortable taking a task and delivering on it without lots of management
+A strong desire and ability to add to our culture of diversity, equity, and inclusion
+Important experience:
+Kotlin, Jetpack Compose, coroutine, and unit testing.
+Responsibilities:
+Our ideal candidate will have a passion for Mobile application development, a strong background in building beautiful and scalable mobile applications.
+In this role you work with a cross-functional, collaborative environment — so excellent interpersonal and communication skills are also a must. And most importantly — we look for people who can prioritize, multi-task, and deliver.
+We Offer:
+US and EU projects based on advanced technologies.
+Competitive compensation based on skills and experience.
+Annual performance appraisals.
+Flexibility in workspace, either remote or in one of our development offices.
+Comprehensive medical insurance including dental and massages.
+Sport reimbursement program for onsite and online activities.
+Support of a healthy lifestyle, compensation for running events.
+Bonuses for recommendations of new employees.
+Bonuses for article writing, public talks, other activities.
+Personal loan budget available for long-term personnel.
+20 vacation days, 10 national holidays and sick leaves.
+Maternity leave policy and family days off.
+Full compensation for conferences, courses, English classes.
+Free webinars, meetups and conferences organized by Svitla.
+Gifts for birthdays, New Year, anniversaries, children and more.
+Fun corporate celebrations and activities, regular lectures on various topics.
+Awesome team, friendly and supportive community!
+------------------------
+We are looking for a
+Senior
+Android Developer for AI healthcare platform
+.
+Our software platform is intended for use by qualified healthcare practitioners and Congestive Heart Failure patients, under the supervision of a healthcare practitioner, in the home environment, via the voice recording, storage, transmission, display, and analysis of a predefined set of voice utterances.
+While the voice is recorded we analyze these utterances to detect changes in the patient’s recorded voice relative to baseline and to direct the healthcare practitioner’s attention to remotely monitored CHF patients that may be at an increased risk for hospitalization.
+Project tech stack:
+.NET Core, TypeScript, Angular, Android (Java, Kotlin), Swift
+Responsibilities:
+Lead and execute end-to-end digital health mobile app development process including design, efficient execution, QA, release management, tools, and documentation
+Develop and integrate sophisticated algorithms to mobile apps and integrate with server-side connectivity to the mobile app
+Developing high-quality, testable, and high-performant software using Agile practices
+Gathering requirements, setting priorities, and making precise decisions within deadlines
+Job Requirements:
+4+ years of experience with Android development
+Experience in programming using Android SDK and Android Studio
+Strong experience with Kotlin
+Experience with integrating third-party libraries
+Good knowledge of OOP and OOD
+Experience with voice processing projects (voice recorder or voice control)
+Experience with RDBMS and SQL
+Intermediate or higher level of English (read/write/speak) for daily communication with the customer
+Good problem-solving skill
+Good communication skills
+We provide the following for our employees:
+18 working days of paid vacation
+10 working days of sick leave annually (5 days paid at 100% and 5 days at 75% rate of your average monthly salary)
+Medical insurance
+50% cost compensation for English courses at the office
+Flexible work schedule
+Additional days off for special occasions, national holidays off
+A competitive and rewarding salary based on performance appraisals/knowledge evaluation
+Possibility to share and gain knowledge on regular tech talks
+Friendly and professional team
+Innovative projects with advanced technologies
+Corporate events
+Remote work
+Accounting service
+------------------------
+Необхідні навички:
+3+ років досвіду на позиції Android Developer
+Досвід розробки комерційних продуктів
+Високий рівень знання Java Core і React Native, Android SDK, Android UI
+Впевнені знання принципів OOP, Solid, Clean Architecture, MVP/MVVM/MVI, design patterns
+Взаємодія з продуктовою командою (продакт менеджер, дизайнер, qa)
+Буде плюсом:
+Досвід роботи в fintech або банківській сфері, розуміння принципів роботи платіжних систем
+Що цікавого треба робити:
+Самостійно обирати технології і фреймворки
+Розробляти новий технологічний продуктовий додаток з нуля
+Інтегруватися за API бекенду і приймати участь в розробці архітектури продукту
+Бачити безпосередньо результат своєї роботи, отримувати фідбеки від клієнтів і покращувати продукт
+Розробляти платіжні SDK, з якими зможуть працювати сотні інших розробників
+Приймати швидкі рішення без зайвої бюрократії
+Що в нас є для тебе:
+Це робота над цікавими завданнями, зростання та розвиток всередині міжнародної компанії, де ти зможеш використовувати нові технології та фреймворки для ефективної розробки, бачити результат своєї роботи, покращувати та безпосередньо впливати на розвиток компанії
+Оплата вище за ринок, своєчасні виплати, регулярні перегляди
+Гнучкий графік роботи, можливість працювати дистанційно
+Затишний офіс у центрі Києва
+Оплачувана відпустка, святкові вихідні, лікарняні та Day off
+Можливість навчання за рахунок компанії
+Робота з командою професіоналів, які горять своєю справою та горді за свій продукт
+Доброзичлива атмосфера, лояльне, демократичне керівництво
+------------------------
+We are looking for an outstanding and passionate Android Developer to join our top-notch Android development team.
+REQUIREMENTS
+Strong foundation of data structures and algorithms problem-solving mindset
+Good understanding of software development processes
+Experience with Kotlin and Java based projects
+Understanding of OOP, clean architecture and SOLID
+Experience with MVVM and/or MVI
+Knowledge of Kotlin Coroutines
+Strong knowledge of the different Android OS versions and ecosystem
+Ability to communicate in English (written and oral)
+Good communication skills
+RESPONSIBILITIES:
+Build and maintain applications for the Android platform
+Ensure the performance, quality, and responsiveness of applications
+Collaborate with a team to define and ship new features
+ABOUT INNOVECS
+Innovecs is a global digital transformation tech company with presence in the U.S., Europe, UK, Australia, LATAM, and Israel. With 10 years on the market and 850+ team members, we focus on long-term cooperation with our people providing them with the opportunity to learn, grow, develop, and stand out not only in their profession but also outside of it. We are one of the fastest-growing private companies in America by Inc. 5000, and on the list of 100 Best Global Outsourcing Providers by IAOP, have TikTok with over 10m views, and 10+ lifestyle communities by interests.
+Get on board and unlock your potential with us!
+ABOUT THE CLIENT
+Our client works with the world’s biggest mobile device manufacturers and carriers — like Samsung, Sprint, T-Mobile, Orange, Huawei, and Hutch.
+The Product is about Onboarding experience where apps and services can be recommended to users the first time they turn on their devices after the purchase.
+WHAT WILL YOU GET
+Attractive compensation pegged to the U.S. dollar with full benefits package;
+Modern hardware setup;
+Individual development plan, career coaching, and Mentorship Program;
+Investment in your professional growth: workshops, webinars, training platform, and edutainment events;
+Global certification preparation program (AWS, ISTQB, Unity, Scrum, etc.), and comprehensive online courses on Udemy, Educative, Pluralsight, edX;
+Flexible working mode in hybrid teams with high-skilled peers;
+Opportunity to work from home or from anywhere with our Relocation Support Program;
+Open-door culture, simplified processes, transparent communication, and top management at a handshake distance;
+Private health insurance, paid maternity/paternity leave, sick leaves, vacation, and holidays;
+Online workouts with fitness coaches & community enrollment in activities such as esports, yoga, chess, mindfulness, etc.;
+English classes and public speaking club to boost your language and presenting skills;
+Virtual team buildings, social activities and occasional gifts to celebrate Innovecs lifestyle.
+Here at Innovecs, we promote equal opportunities and embrace diversity in our teams in terms of work experience, area of expertise, culture, religion, gender, and ethnicity. We are committed to building a tight-knit, team tradition-loving community that represents a variety of backgrounds, perspectives, and skills.
+There are no limitations, no barriers when the right people are on your way — apply for the vacancy and succeed with us!
+------------------------
+Gravity — продуктова ІТ компанія, яка трансформує чудові ідеї в успішні проекти. Ми розробляємо ефективні рішення та інструменти для просування та підтримки бізнесу.
+Саме зараз ми у пошуках нашого ідеального
+Android Developer
+, який приєднається до нашої команди, щоб досягати крутих результатів разом.
+Якщо ти відчуваєш, що ми можемо підійти один одному — еплайся і let’s rock it!
+Що ти будеш робити:
+Проектування та розробка додатків;
+Інтеграція REST API та Google сервісів;
+Публікація додатків в Google Play.
+Що нам важливо:
+Від півроку досвіду розробки на Android;
+Створення додатків під ASO, FB, UAC;
+Досвід програмування на Java/Kotlin;
+Розуміння життєвого циклу додатків та їх компонентів;
+Алгоритми та структури даних;
+Основи Git;
+Інтеграція REST API за допомогою Retrofit і OkHttp3;
+Pre-Intermediate / Intermediate English.
+Що було би плюсом:
+Опубліковані додатки в Google Play;
+Сторінка на Github;
+Розуміння принципів MVP, MVVM і чистої архітектури;
+Асинхронне програмування (RxJava, Coroutines, Native Concurrency).
+Чому варто бути частинкою нашої команди:
+Комфортні умови для твоєї продуктивної роботи та професійного росту;
+Дружнє середовище та сильна корпоративна культура;
+Робоча техніка та оплата професійних курсів та івентів;
+Корпоративний speaking club з англійської мови;
+Work-life balance та гнучкі години роботи;
+Внутрішні курси, KSSs та тімбілдінги щомісяця;
+Постійний та стабільний інтернет в офісі, навіть за відсутності світла;
+Акумулятори та павербанки для підзарядки робочих дивайсів;
+Компенсація оплати коворкінгу.
+Якщо ти думаєш, що ми твій perfect match, час ознайомитися з нашим Hiring процесом:
+1. HR Screening
+Дякуємо за твій відгук, зараз твоє резюме прямує до нашої рекрутмент команди. Якщо твої скіли відповідають вимогам вакансії, наш рекрутер зв’яжеться з тобою, щоб познайомитися та дізнатися трішки більше один про одного.
+2. General interview
+Ми запрошуємо тебе на інтерв’ю, яке складається з технічної та HR частини триватиме близько
+30-40 хв.
+3. Test assignment
+Настав час показати свої скіли на практиці! Тестове завдання допоможе тобі зрозуміти свої day-to-day tasks та допоможе нам краще побачити твої технічні навички. Бажаємо удачі :)
+4. Final interview
+Ми запрошуємо тебе на фінальне інтерв’ю, щоб краще познайомитися та отримати відповіді на всі питання, які залишилися.
+5. Offer letter
+Ми надсилаємо оффер та з нетерпінням чекаємо тебе у нашій команді. Congrats :)
+------------------------
+Ajax Systems is a full-cycle company working from idea generation and R&D to mass production and sales. We do everything: we produce physical devices (the system includes many different sensors and hubs), write firmware for them, develop the server part and release mobile applications.
+Required skills:
+— 4+ years of experience in Android development
+— A deep familiarity with Java and Kotlin
+— Expert in the Android ecosystem
+— Familiar with Android SDK: basic concepts like layouts and views, activities and their lifecycle, storing data, collection views and Adapters
+— Practical experience with Kotlin Coroutines
+— Familiar with Android Design patterns like MVVM, MVP, MVC
+— Familiarity with cloud message APIs and push notifications
+— Experience with ORM, Realm databases
+— Experience with different libraries such as Dagger 2, Retrofit2
+— Experience in writing unit tests
+— Advanced understanding of code versioning tools (Git) and experience with Gradle
+— Solid understanding of the full mobile development life cycle, OOP principles, design patterns
+— Strong systems/process orientation with demonstrated analytical thinking and problem solving skills
+— Passion for software engineering, learning and continuous improvement
+Would be a plus:
+— Practical experience with video streams
+— Practical experience with Jetpack Compose
+— Experience with TDD technique
+— Knowledge of Android NDK
+— Experience with MVVM
+— Experience with Android architecture components
+— Practical experience with Kotlin DSL
+— Experience with third-party libraries, APIs (Firebase) and custom frameworks
+Tasks and responsibilities:
+— Follow high standards of software quality established in the team
+— Design, build, and maintain high performance, reusable, and reliable code
+— Suggest technical and functional improvements to add value to the product
+— Collaborate with cross-functional teams to define, design, and ship new application features
+With us you will enjoy
+— Working with a team of people to build the future of an industry
+— Non-trivial challenges and various specter of interesting tasks
+— A flexible, friendly and collaborative work environment
+— Opportunities to influence the creation of new products and their quality
+------------------------
+You will work with Android graphics backend development engineers tackling real-world tasks with Samsung flagships, support and implement android native components for not-yet-released Android versions, learn about Android graphics renderers and improve it on Samsung smartphones in use by hundreds of millions of users worldwide.
+If you love working directly on consumer-facing products we are glad to meet you at Samsung team of professionals in Samsung R&D Institute Ukraine.
+Key responsibilities:
+Maintain native Android graphics modules
+Optimization Android render system for Samsung mobile devices
+Commercial support solutions in common Samsung commercialization process
+Development Android internal platform graphics solutions
+Support issues what related to pure Google Android graphics
+Support major upgrades on Android platform
+Required skills / expertise:
+At least 2 years of experience with C++ / Java
+Desirable skills / expertise:
+OpenGL / GLSL
+Experience with application development for Android
+We offer:
+Annual bonus
+Official employment (gig contract)
+Paid 28 days of annual vacations and sick leaves
+Paid days off on Ukrainian official holidays
+Paid maternity leaves
+Opportunity to become an inventor of international patents with paid bonuses
+Medical and life insurance for employees and their children
+Convenient office location
+Paid lunches
+Regular education and self-development on internal courses and seminars, office library
+------------------------
+Ajax Systems is a full-cycle company working from idea generation and R&D to mass production and sales. We do everything: we produce physical devices (the system includes many different sensors and hubs), write firmware for them, develop the server part and release mobile applications. The whole team is in one office in Kyiv, all technical and product decisions are made locally.
+We’re looking for an Android Developer to join us and continue the evolution of a product that we love: someone who takes pride in their work to ensure that user experience and development quality are superb. You will be able to develop the apps in the best hardware company of Ukraine with around 500k active users around the world. Moreover, very soon you will have a chance to start several new products from scratch.
+Required skills:
+3+ years of experience in Android development
+A strong familiarity with Java and Kotlin
+Good understanding of the Android ecosystem
+Familiarity with Android SDK: basic concepts like layouts and views, activities and fragments and their lifecycle, storing data, collection views and adapters
+Practical experience with Kotlin Coroutines
+Experience with ORM frameworks and Android Jetpack Components
+Strong understanding of code versioning tools (Git) and experience with Gradle
+Strong understanding of the full mobile development life cycle, OOP principles, design patterns
+Passion for software engineering, learning and continuous improvement
+Would be a plus:
+Writing unit tests
+Practical experience with video streams
+Practical experience with Jetpack Compose
+Experience with MVVM/MVI patterns
+Practical experience with Kotlin DSL
+Experience with third-party libraries, APIs (Firebase) and custom frameworks
+Tasks and responsibilities:
+Follow high standards of software quality established in the team
+Design, build, and maintain high performance, reusable, and reliable code
+Suggest technical and functional improvements to add value to the product
+Collaborate with cross-functional teams to define, design, and ship new application features
+------------------------
+We’re looking for an Android developer for our Mobile team.
+Requirements:
+Android apps native development experience (at least 3 years);
+Experience working with Kotlin;
+Experience in Native Android UI development for phones and tablets and awareness of the Android UI/UX guidelines;
+Good understanding of mobile apps development life cycle;
+Knowledge of object-oriented programming and data structures;
+Knowledge of basic architectural approaches: MVP, MVVM, Clean;
+Experience with GIT;
+Experience of development client-server application (REST API, json);
+Be self-organizing, take the initiative to drive resolutions for open issues;
+English — intermediate or higher.
+Personal skills:
+An ability to communicate effectively with technical and non-technical staff to produce results;
+Result-oriented with attention to details;
+Good team player who can work both independently and also as a team;
+An ability to work to deadlines;
+Willingness to share skills, knowledge, and expertise;
+Willingness to do what it takes to get things done.
+We offer:
+Maximum flexibility;
+Professional trainings, conferences and certifications;
+Corporate events and benefits;
+Professional literature;
+English courses;
+Discount program.
+If you feel interested in this position, please send your CV to:
+[email protected]
+------------------------
+ Сommercial experience in Android development;
+ experience in implementing Material Design and well designed UI;
+ advanced knowledge Kotlin skills;
+ experience with web service technologies (REST, JSON, XML);
+ knowledge of RxJava/Coroutines, MVP, MVVM, Dagger 2, Databinding;
+ solid understanding of OOP principles;
+ experience with SQLite, Room, Real;
+ experience with REST, GraphQL, Web socket;
+ technical English.
+------------------------
+У команду
+Tonti Laguna Mobile
+шукаємо Android-розробника для роботи над мобільними додатками Food Scaner та Location Tracker.
+Tonti Laguna Mobile
+— частина Netpeak Group. Наразі близько 20% команди Netpeak Group задіяна у різних ініціативах з протидії російській пропаганді. Деякі з них — у кооперації з партнерами, Міністерством цифрової трансформації України та кіберполіцією. Є декілька напрямків волонтерських проєктів, у яких ми приймаємо участь: створення контенту, реклама у соціальних мережах, промоушен українських продуктів, гуманітарна допомога. Команда
+ГО «Моє Місто»
+, яка входить до складу Netpeak Group, разом із волонтерами наразі займається забезпеченням життєдіяльності притулків для тварин, а також допомагає закупками необхідного деяким підрозділам ЗСУ.
+Що в нас за продукти:
+Ми розробляємо різні продукти: від трекерів здорового харчування до AR-інструментів, від астрологічних до освітніх продуктів.
+У нас зібрана сильна команда маркетологів та аналітиків, тому вибір того, який продукт робити наступним, завжди відбувається на основі даних, завдяки чому майже всі наші продукти стають прибутковими.
+Ми регулярно досліджуємо ринок та шукаємо нові ніші, тому будь-який член команди має можливість пропонувати свої ідеї як про реалізацію будь-якої фічі в існуючому продукті, так і ініціювати створення абсолютно нового додатка з нуля!
+Продуктами Tonti Laguna Mobile користуються мільйони людей у всьому світі від США до Сінгапуру.
+У нас:
+1. 45 осіб у компанії.
+2. 20 додатків.
+3. 20 мільйонів користувачів.
+Чому варто працювати з нами?
+1. Ми постійно намагаємося працювати з останніми технологіями та самостійно приймаємо рішення щодо стеку та архітектури.
+2. У нас крута команда: всі вони професіонали у своїх галузях, і ми вже створили гарне середовище для обміну досвідом.
+3. Ми шукаємо людей, які хочуть приймати самостійні рішення щодо розвитку продуктів — команда сама визначає як виглядатиме і працюватиме продукт.
+4. Відсутність бюрократії — ми гнучкі та швидкі у прийнятті рішень.
+Функціональні обов’язки:
+1. Розробляти нові та розвивати існуючі мобільні додатки для створення додатків у нішах з мільйонною аудиторією: розваги, утиліти, навчання (від 10 тис. установок на місяць).
+2. Рекомендувати нові фреймворки та/або технології, автоматизацію процесів.
+3. Подальша підтримка та розвиток додатків після релізу.
+Професійні знання та навички:
+1. Досвід роботи від
+2-х
+років у розробці комерційних програм використовуючи Kotlin.
+2. Досвід роботи з HTTP, JSON, XML і REST APIs.
+3. Досвід роботи з Firebase.
+4. Досвід участі мінімум у
+2-3
+командних проектах.
+5. Досвід створення кастомного view.
+6. Досвід роботи з покупками in-app.
+7. Англійська на рівні вміння читати технічну документацію.
+Що ми пропонуємо співробітнику на цій посаді?
+1. Зарплату за підсумками співбесіди.
+2. Гнучкий графік.
+3. Офіс у центрі міста (Одеса, Київ) або можливість працювати віддалено. Після карантину ми продовжуємо працювати у такому ж форматі.
+4. Оплачувана відпустка, лікарняні.
+5. Участь у конференціях та семінарах, організаторами яких є Netpeak Group.
+6. Компенсацію 50% вартості участі у зовнішніх освітніх івентах.
+7. Корпоративні заходи та розваги, як на рівні всієї Netpeak Group, так і локальніше, на рівні Tonti Laguna Mobile. Наприклад, влітку ми їздимо на море та робимо там тижневий хакатон.
+8. Надаємо зручну техніку незалежно від формату роботи.
+------------------------
+ПРО НАС:
+SoftServe — це глобальна ІТ-компанія, що займається консалтингом та надає послуги у сфері цифрових технологій. Понад 13 000+ співробітників працюють над 2000+ проєктами з клієнтами в США, Європі та APAC.
+Наші продукти Video Collaboration допомагають компаніям залишатися на зв’язку, їх можна знайти в конференц-залах деяких із найбільших компаній світу. Ми невелика спритна група, і ми розвиваємо нашу команду. Ми створюємо дивовижні враження в конференц-залах, використовуючи креативний дизайн, дивовижні наукові розробки та інновації. Нам подобається те, що ми робимо, тому що ми прагнемо об’єднувати людей і щодня використовуємо створені нами продукти, щоб залишатися на зв’язку з нашою командою.
+Хочеш стати частиною цієї команди інноваторів? Шукаємо талановитого Android-інженера. Ти станеш частиною невеликої команди інженерів, зосередженої на тому, щоб зробити спільну роботу з відео дивовижним досвідом, а створене вами програмне забезпечення використовуватиметься тисячами людей щодня.
+ЯКЩО ТИ:
+володієш такою експертизою:
+4+ роки досвіду роботи з Java та C++;
+OOP, Git, Gerrit, AOSP, wake-locks, Android Activity Manager, Gradle, Maven, Jenkins;
+архітектурні навички з акцентом на розробку API і повторне використання коду;
+концепції ОС (багатоядерна обробка, потоки, процеси, сокети тощо), алгоритми, структури даних;
+навички реінжинірингу;
+володіння рівнем англійської мови B1.
+Буде перевагою:
+інтеграція кастомних фреймворкових компонентів в Android;
+впровадження кращих в своєму класі концепцій безпеки для захисту інтерфейсів, додатків і сервісів;
+підтримка кількох дисплеїв в Android і способи маршрутизації різного вмісту на них;
+любов до роботи з Android.
+НА ТЕБЕ ОЧІКУЄ:
+Java, Android і C++;
+реалізація кастомних сервісів, додатків і функцій управління пристроями;
+застосування нових унікальних функцій, які будуть диференціювати продукт;
+забезпечення найвищої якості, продуктивності та безпеки програмного забезпечення продукту.
+РАЗОМ МИ:
+працюватимемо безпосередньо з клієнтом;
+матимемо в майбутньому дружню та зрілу команду;
+розробимо свій кар’єрний план у SoftServe та отримаємо сертифікації;
+допоможемо бізнесу зберігати свій бренд та ідентичність для клієнтів;
+впроваджуватимемо рішення, які використовують експертизу та технології;
+організовуватимемо тімбілдинги та корпоративні вечірки;
+забезпечуватимемо вас додатковим медичним страхуванням з можливістю приєднання родичів.
+------------------------
+ABOUT CLOUDMADE
+Over the next 10 years the auto industry will see more dramatic changes than the last 100 years combined. Central to this disruption is the role that software and design are playing to define every aspect of the creation, development, use and sales of cars and transportation services.
+Today, CloudMade is an expert in the design, development and delivery of artificial intelligence solutions for the automotive industry and we are dedicated to delivering CloudMade’s promise of excitement through simplicity. With over 70 POCs completed, 8 OEM customers spanning North America, UK, France, Germany and Japan, CloudMade has global ambitions and a global footprint to match.
+Driven by fantastic products, the latest technology and outstanding people, CloudMade has developed a business and a culture matching huge ambitions of the company. In 2016 CloudMade announced a major strategic investment from Valeo to grow their business further, strengthen existing product lines and launch new ones. In 2022 CloudMade is seen a technology provider to major OEMs over the world.
+YOUR MISSION
+We are looking for an Android Engineer to join our mobile development team, who is passionate about forming the future of the mobility experience and is capable of developing high-quality automotive and mobility products.
+ABOUT THE ROLE
+You will work as a part of the development team, integrating CloudMade components into products based on Android Platform: standalone phone apps (incl. Android Auto support), Android for Automotive apps for the head unit, apps for aftermarket head units.
+ABOUT YOU
+Solid knowledge of Java Language and Java Core
+2+ years of experience in Android development
+Architectural approaches: MVP, MVVM
+Experience with Kotlin
+Good understanding of design patterns
+Knowledge of Dagger 2
+Knowledge of RxJava2 / Coroutines
+Development practices: Unit and integration testing, continuous integration, and delivery
+Experience in Play Store publishing process
+Good communication skills
+Upper-intermediate English
+GOOD TO HAVE
+BS/MS degree
+Modularization approaches
+Practical experience with NDK, Interprocess communication, Jetpack Compose, Hilt, Databinding
+Knowledge of Android eco-system: Analytics, advertising, publishing, and UI design concepts
+Knowledge of Kotlin Native, Flutter, 2objc
+THE PACKAGE
+We offer a competitive package to the right candidate, which includes:
+Competitive salary
+Health insurance
+Sport compensation
+Parking/ transportation allowance
+Flexible working hours
+Personal and professional development
+A challenging role within a performance-based culture in which you will be surrounded by dynamic, entrepreneurially minded colleagues.
+------------------------
+Xenoss is looking for a Senior Android developer, who’ll handle hundreds of millions of mobile devices at the same time and who’s interested to design and develop low-memory footprint advertising SDK with advanced crash/behavior monitoring capabilities.
+What you will do
+You’ll be working within the international distributed team of engineers building the in-app SDK that integrates with the developed advertising platform showing different types of ads (HTML, video, native) in mobile games.
+Requirements
+3+ years of experience with Java/Kotlin development
+Advanced Android development experience
+Software design skills, design patterns
+Experience developing adtech or other mobile SDKs, or integrating 3rd party advertising SDKs into the games
+Good spoken and written English
+Would be a big plus
+iOS (Objective C, Swift) development experience
+Unity mobile platform knowledge
+What you get
+Teams of people who love programming
+Complex technical challenges with big data/AI/high load
+Freedom to make your own engineering decisions and broad space for creativity
+Modern technology stack to work with
+Work remotely or from the office options on a flexible schedule
+Long-lasting project
+Financial compensation for professional events and education
+Project
+The company is working on its own mobile monetization solution, which includes the development of custom advertising SDK.
+Tech stack includes
+Kotlin/Java, Android SDK, AWS
+Customer
+The company is a successful developer of hypercasual games (such as Solitaire, Spider, Blackjack, FreeCell, and TriPeaks Solitaire) for mobile devices. The company portfolio contains several dozens of games with 100M+ downloads.
+------------------------
+Привіт!
+Мене звати Марія, я рекрутер найпрогресивніший компанії в сфері affiliate marketing — Wild Wild Leads.
+Наразі Wild Wild Leads в пошуках найкращого Android Developer
+Wild Wild Leads
+— компанія, яка за 170 днів своєї роботи об’єднала 80+ першокласних спеціалістів.
+Wild Wild Leads
+— компанія, яка завжди шукає нові можливості, а не причини.
+Wild Wild Leads компанія партенр Leadsdoit
+Developer 😎 Ми впевнені, що ти вже переглянув купу вакансій та, зупинившись саме на цій, відчув щось рідне та надійне. Ти не помилився, бо Wild Wild Leads — це про надійність, відкритість та шалений розвиток
+Ми будемо щасливі, якщо ти:
+Гіпер пунктуальний та уважний.
+Ініціативність, здатність дивитись на функціонал очима користувача, задавати питання, вникати в суть, пропонувати ідеї.
+Вмієш пропонувати, впроваджувати та розвивати.
+Досвід у сфері affiliate marketing буде +.
+Вміння читати та вивчати документацію на англійській мові.
+Що важливо для нас:
+Вільне користування Java/Kotlin.
+Розуміння життєвого циклу додатка та його компонентів.
+Знання ООП.
+Знання aсинхронного програмування (Kotlin Coroutines) .
+Інтеграція REST API за допомогою Retrofit, OkHttp3, Volley.
+Хороше розуміння патернів дизайну та архітектури (SOLID, MVVM, MVP і т. Д.).
+Вміння розробляти додатки клієнт — серверної архітектури.
+Досвід роботи с Firebase.
+Знання технологій Android Jetpack.
+Знання технолоій Jetpack Compose буде плюсом.
+Вміння розбиратися в чужому коді буде плюсом
+Продвинутый пользователь продуктов Google (Документы, Таблицы, Календарь).
+В твої обов’язки буде входити:
+Розробка мобільник додатків з використанням різних технологій .
+Робота над проектом від ідеї до її реалізації.
+Пошук та використання нових рішень.
+Робота з Firebase.
+Співпрацювати з іншими розробниками, дизайнерами, QA.
+Інтеграція проекту з різними SDK.
+Розробка додаткових фіч.
+В свою чергу ми пропонуємо:
+Фіксовану ставку;
+Віддалений формат роботи;
+Оплачуваний випробувальний термін;
+Відпустка 24 календарних дні;
+Потужна інфраструктура та команда, яка зростає кожного дня;
+Підтримка твоїх, навіть найшаленіших, ідей;
+Гарантія того,що тебе не тільки вислухають, а й почують;
+Команда людей, які хочуть рости та розвиватися та будуть допомагати в цьому тобі;
+Підтримка рішень, які будуть сприяти покращенню та розвитку компанії;
+Відпочинок і навчання разом з командою: team building, тренінги, корпоративи та багато іншого;
+Корпоративна англійська.
+Спортзал/страхування здоров’я/навчальні курси від 6 місяців співпраці.
+Головний клієнт нашої компанії — щасливий працівник, який отримує кайф від того, чим займається. Ми чекаємо на тебе, аби зробити твоє життя краще, адже Wild Wild Leads цінує кожного співробітника.
+Якщо ти прагнеш знайти роботу, яка стане для тебе платформою для втілення крутих ідей, проектів та хочеш чітко бачити результат своєї роботи, отримуючи задоволення від цього — ти саме та людина, яку ми шукаємо.
+Welcome to the dream team
+Надсилай нам своє резюме. Ми вже чекаємо на зустріч!) Або виходь на зв’язок в телеграм @recruiterWildLeads, ми вже чекаємо на тебе!
+------------------------
+Our client is growing and looking for the best Android engineers to help shape apps that have a direct impact on the safety and peace of mind of users and on the future of the automotive world. You will get to work with some of the brightest minds, and with some of the latest technologies, take part in building the apps, and participate in the execution of interesting projects and partnerships with tier-1 actors in the mobility industry.
+If you like building apps, and you are not afraid to get into the nitty-gritty of the mobile environment, if you are interested in making a mark on the consumer experience of our users, and want to create a product that you will truly be proud of, join!
+Responsibilities
+Work closely with product owners and designers to analyze user requirements and shape technical requirements
+Own features end to end and have a significant contribution to the user experience
+Write and test high-quality code, refining and rewriting it as necessary
+Work and collaborate with a team of engineers
+Maintain the existing code base by monitoring and correcting bugs and software defects
+Explore and investigate new and state-of-the-art technologies where relevant
+Requirements
+5+ years of proven experience with real Android products. Java and Kotlin experience is a must
+Background with reactive programming paradigm is a must.
+Hands-on experience with RxJava2 is a big advantage
+UX-driven approach, keep in mind user needs and expectations when designing software solutions
+Hands-on experience with the Android BLE stack is a big advantage. In particular proven experience working with connected devices over BLE
+Ownership-driven approach. The candidate is able to take a project, and see it through independently of requirement definition to deployment and tracking
+Nice and friendly individual with good communication skills
+Team player that can collaborate with multicultural teams of engineers
+Good English
+Will be a plus
+B.Sc./M.Sc. in Computer Science or related fields
+Knowledge of C/C++
+Hands-on experience with FFmpeg
+What we offer
+Competitive salary
+Medical insurance
+Tax compensation
+Full remote work
+About the project
+The company gained around $100 mln in investments while developing groundbreaking portable cameras and applications that help people to drive in a new way. When pairing cams and the app, the network starts to generate trillions of images, ensuring privacy and anonymity to make roadways safer and more efficient. This lets drivers and their cars join the network and “see” the world around them. The product uses anonymous and aggregated data.
+------------------------
+GlobalLogic
+is inviting an experienced
+Android Technical Lead / Scrum Master
+to join our engineering team.
+Are you interested in the medical industry? Would you like to take part in which you have a chance to help others? Apply and create a product platform for medical devices. Our client is an innovative company that produces medical devices, the goal of which is to make life easier for people with diabetes and other diseases. Work remotely and lead our team in the Scrum methodology.
+Requirements:
+6+ years of experience in mobile development
+Exemplifies and promotes Agile values and principles
+Outstanding communication, facilitation, negotiation, and coaching skills
+Knowledge of an agile framework or method (i.e. Scrum, Kanban), or understanding of software development life cycle models as well as in-depth knowledge of traditional project management principles and practices
+Adept at refinement, story splitting, estimation, velocity, retrospection, and other Scrum techniques
+Planning and problem-solving with product management and delivery teams
+Experience in building a Mobile app in the Kotlin language
+Big desire to grow in cross-platform development
+Understanding and experience in CI/CD concept and implementation
+Strong experience in estimation and planning
+Knowledge and experience in software design- analysis, concepts, design patterns, methods, documentation, and presentation
+English level (both Spoken and Written) is Intermediate or better
+Responsibilities:
+Manage the scrum team consisting of developers and testers
+The main point of contact with the customer is Scrum Master and PO.
+Facilitated Scrum events such as Daily Scrum meetings, Sprint Planning, Sprint Review, Sprint Retrospective
+Support customer and backlog grooming
+Advise customer on application architecture and support most difficult bug resolution.
+Product Backlog Refinement & User stories creation
+Facilitate estimation of User stories
+Take responsibility for product development as a whole
+Work with the product owner for requirements capture and clarification
+Estimate and plan execution with the team
+Deliver high-quality and well-verified products
+Coach other team members in solving engineering problems
+We offer:
+Interesting and challenging work in a large and dynamically developing company
+Exciting projects involving the newest technologies
+Professional development opportunities
+Excellent compensation and benefits package
+------------------------
+The Android product translates to a VOD application that offers a range of features such as video playback, live TV, mini EPG, EPG, and recordings.
+The developer will most likely join a Android TV project that could either be the 3Ready framework (internal) or an ongoing project (external).
+Both types of projects refer to the same concept:
+an entertainment ecosystem designed to launch seamless experiences across all screens, co-create and enable customer-centric innovation. More specifically, the Android product translates to a VOD application that offers a range of features such as video playback, live TV, mini EPG, EPG, and recordings. The framework is built on top of the technologies listed among the Required libraries and skills.
+He/she will work as part of an Evolution team on product incrementations with frequent rollouts. External projects are usually multi-platform projects designed for TV operators.
+Teams can vary in size and structure, but they generally respect the description below.
+Skills and requirements:
+Android
+Java and Kotlin
+4y+ as Android Developer
+— RX Java
+— Android Services
+— Retrofit
+— Glide
+— REST and working with APIs, JSON, and XML
+— experience with reporting tools: Crashlytics/NewRelic etc
+— integration of 3rd party libraries
+— Git repository and CI flows
+— Knowledge in UI/UX and working with designers
+— Experience with Android TV App development
+— Experience with players/streams/DRM
+— Experience with ContentProvider implementation
+— Agile Development, Unit testing
+— Experience with Coroutines
+Team composition:
+Scrum team
+— ±3 Devs on the Android Platform
+—
+1-2 QA
+— Project Manager
+— Requirements Engineer
+— Solutions Architect
+The dev will be taking part in agile ceremonies, like daily standups, sprint planning, and sprint reviews.
+------------------------
+Привіт👋
+Ми українська продуктова компанія
+Lift
+, заснована у 2020 році у холдингу Genesis.
+Lift
+— це стартап, який розвиває
+додаток
+у сфері фото/відео редагування і допомагає SMM фахівцям, власникам малого та середнього бізнесу створювати контент для просування своїх товарів і послуг в соціальних мережах.
+Наша основна аудиторія — це SMM фахівці та content creators Tier-1 країн
+, таких як: США, Австралія, Велика Британія та країн Західної Європи.
+Наша місія — полегшити роботу SMM
+, створюючи зручні та необхідні інструменти для ефективного просування в соціальних мережах.
+Ми пройшли шлях від нуля до
+6М завантажень додатку
+і до
+600К користувачів на місяць
+. Зараз додаток
+Lift
+входить до Top5 графічних редакторів в App Store з середньою
+оцінкою 4.8
+на основі більш ніж 100К відгуків.
+У зв’язку з розширенням android команди ми шукаємо
+Senior Android Developer
+для пришвидшення розробки
+Lift Story Maker
+на платформі Android.
+Ти будеш:
+●
+працювати над розробкою нового функціонала;
+●
+виявляти недоліки та пропозиції щодо вдосконалення додатка;
+●
+приймати технічні рішення, які покращать процеси та прискорять розробку і тестування;
+●
+взаємодіяти з продуктовою командою для обговорення майбутніх задач та їх способів реалізації.
+Які знання і навички тобі потрібні на цій посаді:
+●
+3+ років досвіду на позиції Android Developer’a;
+●
+глибоке розуміння Java Core і Kotlin, Multithreading, Android SDK, Android UI;
+●
+впевнені знання принципів OOP, Solid, Clean Architecture, MVP/MVVM/MVI, design patterns;
+●
+досвід роботи з OpenGL;
+●
+досвід роботи з Google Play’s billing system;
+●
+наявність реалізованих додатків в Play Market;
+●
+взаємодія з продуктовою командою (продакт менеджер, дизайнер, qa).
+Буде плюсом:
+●
+Audio/video processing;
+●
+глибокі знання лінійної алгебри та геометрії;
+●
+досвід роботи з кастомними View, анімацією та Canvas.
+Етапи відбору:
+скринінг-інтерв’ю > інтерв’ю з hiring-менеджерами > бар-рейзинг > офер.
+Ми пропонуємо такі бенефіти:
+●
+конкурентоспроможну заробітну плату на основі найвищих ринкових показників, регулярні рев’ю результатів роботи та перегляд винагороди на основі досягнутих результатів;
+●
+роботу в амбітній команді та великий простір для втілення власних ідей та впливу на продукт;
+●
+можливість розвитку: проєкт зростає дуже швидко — х2 з початку року, тому кількість людей, що забезпечують нашим користувачам найкращий customer experience, тільки зростатиме;
+●
+класний офіс за 5 хвилин від метро Тараса Шевченко з терасою, лаунж зонами, кухнею та PlayStation;
+●
+безкоштовні сніданки, обіди, безмежна кількість фруктів, снеків, смузі та йогуртів в офісі;
+●
+повне медичне страхування після випробувального терміну, а також корпоративного лікаря;
+●
+безкоштовні тренування з бігу, футболу, баскетболу, волейболу та йоги;
+●
+компенсація додаткового навчання на зовнішніх тренінгах і семінарах та Business і Management School для співробітників;
+●
+можливості постійного зростання та розвитку: курси англійської мови, професійні курси, семінари, конференції та все інше, що може знадобитися для вашого особистого та професійного розвитку.
+Чекаємо на тебе у нашій команді!
+------------------------
+Привіт!
+Ми — українська продуктова компанія
+Lift
+, заснована у 2020 році у холдингу
+Genesis
+.
+Lift
+— це стартап, який розвиває
+додаток
+у сфері фото/відео редагування і допомагає SMM фахівцям, власникам малого та середнього бізнесу створювати контент для просування своїх товарів і послуг в соціальних мережах.
+Наша основна аудиторія — це SMM фахівці та content creators Tier-1 країн
+, таких як: США, Австралія, Велика Британія та країн Західної Європи.
+Наша місія — полегшити роботу SMM
+, створюючи зручні та необхідні інструменти для ефективного просування в соціальних мережах.
+Ми пройшли шлях від нуля
+до 6М завантажень додатку
+і
+до 600К користувачів на місяць
+. Зараз додаток
+Lift
+входить до Top5 графічних редакторів в App Store з середньою
+оцінкою 4.8
+на основі більш ніж 100К відгуків.
+У зв’язку з розширенням android команди ми шукаємо
+Senior Android Developer
+для пришвидшення розробки
+Lift Story Maker
+на платформі Android.
+Ти будеш:
+працювати над розробкою нового функціонала;
+виявляти недоліки та пропозиції щодо вдосконалення додатка;
+приймати технічні рішення, які покращать процеси та прискорять розробку і тестування;
+взаємодіяти з продуктовою командою для обговорення майбутніх задач та їх способів реалізації.
+Які знання і навички тобі потрібні на цій посаді:
+3+ років досвіду на позиції Android Developer’a;
+глибоке розуміння Java Core і Kotlin, Multithreading, Android SDK, Android UI;
+впевнені знання принципів OOP, Solid, Clean Architecture, MVP/MVVM/MVI, design patterns;
+досвід роботи з OpenGL;
+досвід роботи з Google Play’s billing system;
+наявність реалізованих додатків в Play Market;
+взаємодія з продуктовою командою (продакт менеджер, дизайнер, qa).
+Буде плюсом:
+Audio/video processing;
+глибокі знання лінійної алгебри та геометрії;
+досвід роботи з кастомними View, анімацією та Canvas.
+Етапи відбору:
+скринінг-інтерв’ю > інтерв’ю з hiring-менеджерами > бар-рейзинг > офер.
+Ми пропонуємо такі бенефіти:
+конкурентоспроможну заробітну плату на основі найвищих ринкових показників, регулярні рев’ю результатів роботи та перегляд винагороди на основі досягнутих результатів;
+роботу в амбітній команді та великий простір для втілення власних ідей та впливу на продукт;
+можливість розвитку: проєкт зростає дуже швидко — х2 з початку року, тому кількість людей, що забезпечують нашим користувачам найкращий customer experience, тільки зростатиме;
+класний офіс за 5 хвилин від метро Тараса Шевченка з терасою, лаунж зонами, кухнею та PlayStation;
+безкоштовні сніданки, обіди, безмежна кількість фруктів, снеків, смузі та йогуртів в офісі;
+повне медичне страхування після випробувального терміну, а також корпоративного лікаря;
+безкоштовні тренування з бігу, футболу, баскетболу, волейболу та йоги;
+компенсація додаткового навчання на зовнішніх тренінгах і семінарах та Business і Management School для співробітників;
+можливості постійного зростання та розвитку: курси англійської мови, професійні курси, семінари, конференції та все інше, що може знадобитися для вашого особистого та професійного розвитку.
+Чекаємо на тебе у нашій команді!
+------------------------
+ONLY RESUMES IN ENGLISH WILL BE REVIEWED
+Field Complete
+is a team of passionate, young & fun-loving professionals looking to change the uneffective way that the Servicing Industry works on the US market.
+We’re working on an all-around software solution that encompasses the everyday duties of our clients and ensures a seamless experience. Our aim is to reduce workload and improve efficiency leading to higher volumes and better margins.
+We created an all-in-one solution to help service providers manage a high volume of work orders, B2B and B2C customers, and both vendors and in-house technicians.
+Field Complete is growing really fast. So, we are looking for an
+Android Developer
+.
+Tasks:
+— Developing of new features and support current code base.
+Requirements:
+— Android API, Kotlin, MVVM, coroutines/flow, Room, Dagger2, Custom Views, paging, experience with multi-module architecture.
+— Be able to develop new features, develop and improve the app architecture, be able to integrate the latest technology in the project
+— Responsible, attentive and punctual.
+— English level of Intermediate or above.
+Will be a plus:
+— It would be a plus to be a self-managed person, that could take responsibility for cases that cannot be managed by the Team Lead/CTO, etc.
+We care about your:
+Comfort: We provide mixed office & remote work. Equipped office located in the center of Kyiv. Flexible working hours. Paid 20 days off & 5 sick leaves. Stock options.
+Health: We compensate a Covid-19 test if it is needed.
+Professional growth: We compensate 70% of the cost of any educational event, English courses, personal coaching sessions etc.
+Leisure: Loud parties, cosy teambuildings, charity projects.
+Join us.
+------------------------
+Required skills
+— Experience in native mobile development, or proficiency, in either Java, Kotlin
+— In-depth knowledge of software engineering principles and design, SOLID, and OOP
+— Experience with mobile platforms, operating systems, and infrastructure
+— Experience in building flexible and reusable systems
+— Highly experienced with automated testing
+— Proficient with CI and SCM
+— Exemplary communication skills
+Nice to have
+— Best practices such as TDD, BDD, etc
+— Knowledge of network protocols work
+— Experience in profiling and optimization
+— C#/.NET knowledge is a plus
+Responsibilities
+— Design and build applications for the mobile platforms.
+— Collaborate with a team of developers, Technical Product Owner, and Project Manager to define, design, and ship new features or improvements.
+— Work with outside data sources and APIs.
+— Unit-test code for robustness, including edge cases, usability, and general reliability
+— Work on bug fixing and improving application performance
+— Continuously discover, evaluate, and implement new technologies, patterns, libraries, etc. to maximize development efficiency
+— Conduct Code Reviews for the tasks finished by the team members.
+We offer
+— 24 Paid Vacation Days and Additional Days Off
+— Paid Sick Leaves
+— Learning & Development
+— English Classes
+— Comfortable Office Location
+— Office Wellbeing
+— Team Building
+— Travel: Business Trips to the UK
+— Gifts: New Year Gift, Birthday Gift, Welcome Box for New Starters
+— Career Path and Mentorship Program
+— Parental Leave: Maternity and Paternity Leave
+— Referral Program: Active Program with Great Bonuses
+— Relocation Support
+— Performance Review and Bonus
+— Medical Insurance and Sports Activities Compensation
+------------------------
+ Commercial Android development experience
+ Good knowledge of Kotlin, Android Jetpack (Navigation, ViewModel, LiveData, Room, Paging, WorkManager)
+ Experience in using DI (Dagger2)
+ Good knowledge of Git, Git Flow and dependency manager
+ Good knowledge of OOP/OOD
+ Understanding of design patterns, refactoring and code smells
+ Experience with Kotlin, Android SDK
+ Experience with third-party libraries and APIs
+ Experience with MVP/MVVM
+ Experience with SQLite
+ Experience with Networking, REST Client API, JSON and XML, Animations
+ Basic knowledge of Gradle, multithreading, reactive programming
+ Must have: English Intermediate and higher
+ Must have: Understanding of Design Material
+------------------------
+Lalafo is an international marketplace that helps millions of people get rid of unnecessary stuff. We are present on the market in different countries of Asia and Europe. Our mission is to help people own only the things they like.
+Job Summary
+We need more than just a skilled Android Engineer. We are looking for a like-minded professional who is passionate about doing what he does, believes in WOW service, and wants to be a part of it. If you are open to new experiences, result-oriented, and continually seek to develop not only hard skills but soft skills as well, then you will feel super comfortable with us!
+Responsibilities and Duties
+Developing existing Android apps;
+Working closely with team members, including product managers, designers, architects, and other developers to quickly diagnose and resolve problems;
+Taking responsibility and ownership for the code, you deliver and features;
+Quickly learning and working effectively with minimal supervision and direction;
+Researching and evaluating the latest mobile industry trends and technologies;
+Conduct project design reviews and code reviews.
+Qualifications and Skills
+3+ years of experience in Android development;
+2+ years of experience with Kotlin;
+Good knowledge of Kotlin and Java Core;
+Android SDK, OOP, SOLID;
+Kotlin coroutines, Android Jetpack, Jetpack Compose, MVP, MVVM;
+Conductor, RxJava 1/2, Dagger2, SQLite, SQLDelight, Glide, OkHttp, Retrofit 2, Google Services, Firebase;
+HTTP, Socket, RESTful web services;
+JUnit, Mockito, AssertJ
+Git, Git flow;
+Android UI/UX design (experience with custom views is a must), Material design;
+------------------------
+We are SPD Group, an international company that provides software engineering and product development services for clients in the USA, Israel, EU, and Great Britain.
+Our clients are global companies like Morningstar, PitchBook, GoDaddy, PieInsurance, floLIVE, and others.
+Clients we work with are related to a wide range of business domains, such as FinTech, eCommerce, SaaS, LegalTech, InsurTech, HRTech, Cybersecurity, etc.
+The company founders are Ukrainians, and our biggest development center is located in Ukraine. Our team consists of 530+ specialists certified by Oracle, ISTQB, AWS, PMI, Scrum Alliance, Amazon, and other organizations.
+We believe that a powerful fusion of skills and personality makes great ideas happen.
+Few words about the project
+The digital learning platform is designed from scratch to provide a superior learning experience for students and instructors to drive strong outcomes.
+Stack technology:
+Android SDK, SQLite, JSON and XML, DOM traversal
+Methodology:
+Hybrid Scrum
+Team structure:
+iOS lead, 2 android, 2 QA 3 FE 2 BE
+Scope of responsibility:
+Working with the Ukrainian and US team;
+Closely work with android and iOS developers;
+PR cross review;
+Providing technical documentation;
+Attending scrum meetings with the US team.
+Required expertise
+5 years of experience developing Android apps;
+Design and build advanced applications for the Android platform;
+Knowledge of JSON and XML parsing, and/or DOM traversal;
+Awareness of the Android UI/UX guidelines;
+SQLite on Android;
+Object-oriented design and design patterns;
+Experience with Android SDK;
+Experience working with remote data via REST and JSON;
+Experience with third-party libraries and APIs;
+Native Android UI development for phones and tablets (multi-resolution, resource utilization such as images, layouts, strings).
+Experienced with the streaming applications.
+Why SPD Group
+By joining our team, you will get a variety of opportunities:
+Be a part of innovations—3 of our clients were acquired for more than $500M in total.
+Work at a stable company—we have more than 16 years of experience in Software Engineering and Product Development.
+Get new networking opportunities—with our international partners and cross-cultural development teams.
+Get access to diversity—having more than 45 various projects, we support internal rotation.
+Professional management—our managers are MBA graduates and are certified by PMI and Scrum Alliance.
+Be in a friendly and welcoming atmosphere—everyone’s opinion and perspective are welcomed.
+------------------------
+Parimatch Tech — міжнародна продуктова компанія, яка розробляє та надає технічні та маркетингові рішення для індустрії ігор і розваг. Штаб-квартира компанії розташована на Кіпрі, а компанія працює по всьому світу. Центри досліджень і розробок розташовані в чотирьох країнах, найбільший з яких в Україні.
+Високотехнологічні рішення та інноваційні підходи — це те, що рухає Parimatch Tech вперед на ігровому ринку та залишається основою успіху та розвитку.
+Запрошуємо тих, хто заряджений:
+— Проектувати та створювати UI компоненти для платформи Android;
+— Співпрацювати з кросс-функціональними командами для визначення та розробки нового функціоналу;
+— Знаходити, оцінювати та впроваджувати нові технології, щоб максимізувати ефективність розробки.
+Необхідний професійний досвід:
+— Досвід роботи в комерційних проектах від 3 років;
+— Глибоке знання Android SDK;
+— Мови програмування Java/Kotlin
+— Досвід роботи з бібліотеками Dagger 2, Retrofit 2;
+— Досвід роботи з Kotlin Coroutines;
+— Досвід роботи з Jetpack Compose;
+— Досвід з Unit Testing, WebSockets, REST;
+— Розуміння MVVM pattern;
+— Глибокі знання Git SCM та Git-flow;
+— Знання Android Architecture Components.
+Бажані навички:
+— Розуміння реалізації процесів CI/CD;
+— Досвід роботи з Firebase services;
+— Знання Flavors;
+— Досвід роботи з RxJava2.
+English version
+Parimatch Tech is an international product company that develops and provides tech and marketing solutions for the Gaming & Entertainment industry. Headquartered in Cyprus and operating globally, the company has R&D centers located in four countries, the largest of which is in Ukraine.
+Hi-tech solutions and innovative approaches are what drive Parimatch Tech forward in the gaming market and remain its basis for success and development.
+We invite those who fired up to:
+— Design and build UI components for the Android platform;
+— Collaborate with cross-functional teams to define, design, and ship new features;
+— Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+Essential professional experience:
+— 3+ years of experience in commercial projects;
+— Proven Android SDK knowledge;
+— Java/Kotlin programming languages
+— Proven experience with Dagger 2, Retrofit 2 libraries;
+— Experience with Kotlin Coroutines;
+— Experience with Jetpack Compose;
+— Experience in Unit Testing, WebSockets, REST;
+— Understanding of MVVM pattern;
+— Strong skills in Git SCM and Git-flow;
+— Knowledge of Android Architecture Components.
+Nice to have:
+— Understanding of CI/CD processes implementation;
+— Experience in Firebase services;
+— Knowledge of Flavors;
+— Experience with RxJava2.
+------------------------
+We are seeking a
+Senior Android Engineer
+to join the Software and Network Technology group, a highly experienced and rapidly growing team of technologists and software engineers creating technologies and products that will be part of the future of the communication industries.
+Client’s company is the broadband industry’s most trusted source for network equipment testing and software services. Their mission, to provide economic and strategic value to network operators and their suppliers, is accomplished by working directly with them to enable stronger networks, create better customer experiences, and deliver innovative software.
+Team in Ukraine
+: 2 Senior iOS engineers, 2 Senior Android engineers, and team in the USA: Team lead, 4 Software Engineers.
+Requirements:
+Proficient in software development methodologies/tools;
+Proficient in production Android mobile development life cycle (Kotlin, Java, C++);
+Proficient in code optimization techniques and testing automation;
+Experience with Android background services;
+Experience with Android VPN APIs;
+Strong knowledge of network protocols (TCP, UDP, sockets, encapsulation);
+Strong knowledge of RESTful Service Implementation;
+In-depth knowledge of multi-thread, multi-tasking software capabilities, and constraints;
+Experience with Microsoft Visual Studio, Android Studio, etc.
+Experience with mobile frontend (graphical) development;
+Outstanding technical and analytical skills;
+Strong writing and presentation skills;
+Strong analytical and problem-solving skills;
+Excellent customer service skills;
+Ability to work in collaborative groups, solving complex problems;
+At least Upper-Intermediate English level.
+Responsibilities:
+Contribute to solutions platforms with a high degree of complexity and scope;
+Participate in all phases of mobile product roadmaps providing technical leadership and guidance to internal stakeholders and decision-makers;
+Design, develop and document technical aspects of software systems and related interface components, based on product and system requirements;
+Define and implement strategies related to quality control and testing to mitigate defects;
+Collaborate with the system administration team to support the production environment;
+Provide mentoring, technical leadership, and guidance to software engineers in best practices and appropriate use of design patterns;
+Provide support to laboratory and field trials as well as real-world deployments;
+Lead creation and execution of proofs-of-concept for future mobile products;
+Research and maintain current knowledge of new technologies and frameworks and incorporate best solutions in.
+What we offer:
+Annual paid vacation of 18 working days;
+Extra vacation days for long-lasting cooperation;
+Annual paid illness of 10 days;
+Maternity\Paternity leave;
+Marriage and Parenthood Package;
+Compensation for sports activities (up to 6000 UAH\year);
+50 % cost compensation for attending courses for self-development;
+Corporate doctor;
+Internal education(corporate library, Udemy courses);
+Career development plan;
+English classes;
+Paying taxes and conducting private entrepreneurs;
+Technical equipment: laptop, mouse, keyboard, monitor, chair;
+Internal Referral program;
+Opportunity to take part in company volunteering activities;
+Technical community events.
+------------------------
+About project
+OxeFit’s core technology integrates robotics, movement and performance tracking, advanced coaching and analytics, to help individuals and teams become more fit. The system will offer opportunities to connect, collaborate, and ultimately transform the health of consumers, athletes, military personnel, and clinical rehab markets, while the extensive content expands beyond strength training into lifestyle and educational programs covering nutrition, health, mindfulness, and overall wellness topics.
+For athletes and consumers, assessment of velocity, power, and force is important since varying these measures can yield significant results. Currently, this type of comprehensive testing is conducted in laboratories or special facilities which can be cost-prohibitive, difficult to access, and limiting. With the OxeFit system, assessment, coaching, training and measurement occurs simultaneously and work synergistically with existing technology. Real-time feedback on these metrics will help them achieve the most efficient workout while post-workout analytics will generate the next workout for optimal effectiveness.
+Tech stack
+Python, Django, React, Docker/AWS, an app built purely on Angular
+Project stage
+Founded in 2019
+Team composition
+70 in total
+Qualifications and skills
+Bachelor’s degree in computer science
+5+ years of working with Android Open Source Project developing custom OS;
+Experience in Embedded Linux development
+Experience in Board Support Package (BSP) development
+Experience in BLE development
+Responsibilities
+TCP/IP & UDP communication interfaces
+Derive specific Android platform requirements from high-level product requirements
+interaction with the mechanical, electrical, firmware, and software design teams
+Ensure product quality and operational safety
+Modify and maintain custom Android OS
+Why StartupSoft?
+Work with top entrepreneurs and startups from Silicon Valley and EU
+Become an integral part of the core team — be more than someone who just writes code
+Potential to receive equity in high-growth startups
+Contribute to well-funded products with potential to impact millions
+Beautiful offices in the best locations with high-end amenities
+Tight-knit team with an inclusive and transparent culture
+Only the latest, modern technologies with no legacy code and management bureaucracy
+Above average salary, benefits & medical insurance
+------------------------
+AMO
+— міжнародна IT-компанія, яка створює продукти та історії для мільйонів користувачів. Маємо своє англомовне медіа, власний відеопродакшн та розробляємо додатки у сфері health & fitness. Ми вважаємо, що світ стане кращим, коли ми розкриємо свої суперсили. Тому AMO допомагає людям знаходити та розвивати їх. Це наша місія.
+Зараз в AMO Apps шукаємо Android Інженера для наших
+health & fitness додатків: MadMuscles і UniMeal
+.
+Ця вакансія саме для тебе, якщо ти хочеш:
+— Працювати, як приклад, зі стандартними вью, з відео, робити реалізацію чатботу та іншими різноманітними задачами
+— Впливати на продукт — в нас можлива не тільки реалізація, але й генерування власних ідей щодо функціоналу
+— Команду, яка готова почути твої ідеї щодо будь-чого нового
+— Працювати з сучасними технологіями
+— Вивчати та впроваджувати нові технології, які можуть покращити додаток
+Чого ти досягнеш на цій позиції:
+— Допоможеш користувачам додатків досягти своїх цілей та стати краще у сфері health & fitness
+— Отримаєш професійний розвиток як Android розробник
+— Поглибиш свій досвід роботи з REST, WebSocket та відео
+Для цього тобі знадобиться:
+— Досвід роботи у розробці не менше 3 років
+— Глибоке знання Kotlin та Android SDK
+— Знання Java та сучасного стеку технологій
+— Відповідальність за виконану роботу
+— Розуміння процесів на всіх етапах розробки ПЗ
+Твоїм менеджером буде Єгор, Лід команди Android Інженерів. Він займається Android розробкою понад 5 років. В АМО починав рік тому як Senior Android Розробник. Зараз доріс до Тім Ліда та став відповідальним за Android розробку в обох продуктах (Unimeal, MadMuscles).
+Ідеальний кандидат для нього — той, хто не тільки виконує задачі, а ще думає, як щось можна покращити в продукті. Хто не просто використовує технології, а й цікавиться, як воно працює «під капотом». Також Єгор цінує відповідальність, зацікавленість та залученість у тому, чим займаєшся.
+Може це ти?
+------------------------
+We are looking for an excellent Mobile Developer, to join the best of breed framework Development Team. You will be working in a fast-paced and super fun environment while having a direct impact on the company’s success.
+Requirements
+Previous working experience as a Mobile developer for 3+ years
+In-depth knowledge of programming languages Swift, Objective-C, Java, and Android
+Familiarity with OOP design principles
+About you
+Self-motivated, focused, and energetic person with a passion for technology and testing
+Ability to achieve deadlines and work independently
+Exceptional communications/Interpersonal, analytical, and linguistic (English) skill is a MUST
+Problem-solving and thinking laterally as of a team or individual
+Team player that knows to demonstrate reliability, cooperates and pitches in to help, shows commitment to the team, works as a problem-solver, functions as an active participant, shares openly and willingly
+Will be a plus
+Bachelor’s Degree in Computer Science
+Experience with Unity and C# - big Advantage
+Experience with building mobile SDKs
+Experience with third-party libraries and APIs
+Experience with Scrum, TDD, and Agile development methodologies
+Responsibilities
+Maintain (bug fixes and code improvements) current publishing, written in Swift, Objective-C, Java and C#
+Integrate with third parties
+Design and implement new features requests
+Write unit and UI tests to identify malfunctions
+Support external and internal studios during integration with ours
+What we offer
+Competitive salary
+Medical insurance
+Tax compensation
+Full remote
+About the project
+Being founded in 2010 Crazy Labs is a worldwide leader in casual games development, distribution, and innovation, with over 5 billion downloads to date. The company focuses on 3 hugely popular lines of mobile games: hyper-casual games, lifestyle games, and licensing games. The headquarters are in Israel, with global offices in China, Macedonia, Bulgaria, and Germany.
+------------------------
+Sonerim is looking for an Android Developer.
+Our customer:
+Our client is an innovation technology leader in the digital landscape. In close collaboration with partners and customers,client the media and publishing industry in fully realizing the potential of the digital revolution.
+Our vision is to be the world’s leading digital partner for the news media industry.
+Our technology stack:
+Kotlin, Java, Android Studio, Gradle, Android SDK, GitLab, Jira, Confluence.
+Your Responsibilities:
+— Design, develop and implement innovative advanced applications for the Android platform;
+— Collaborate with cross-functional teams to define, design, and ship new features;
+— Continuously look for, evaluate, and implement new technologies to maximize development efficiency and increase technology innovation;
+— Prepare specifications and requirement for developing innovative and new solutions;
+— Work on bug fixing and improving application performance.
+Your Profile:
+— 3+ years of programming experience for the Android platform;
+— Proficiency and experience with Kotlin and Java;
+— Very good knowledge of object-oriented design and programming;
+— Knowledge of frameworks for mobile platforms;
+— The ability to communicate with the REST API;
+— Knowledge of Gradle build processes;
+— Strong knowledge of fundamental data structures and algorithms;
+— The ability to write clean and reusable code;
+— Good knowledge of Agile methodologies with Atlassian Tools;
+— Ability to write unit and integration tests;
+— English — Upper-Intermediate.
+Will be a plus:
+— Knowledge and experience in building modular applications frameworks.
+We offer:
+—
+5-day
+working week,
+8-hour
+working day, flexible schedule;
+— No time tracker;
+— Competitive salary;
+— Work-life balance;
+— Remote work;
+— Standard social guarantees: annual leave, sick days, state holidays;
+— We understand the value of knowledge and training, so if you will find interesting and useful courses for yourself, we will pay for them;
+— We value life and work time therefore all issues are resolved on the spot without unnecessary bureaucracy.
+------------------------
+About the client:
+We are a creative bunch of programmers that love to tinker with technology. We work on a diverse variety of projects, with ample room for self-improvement, R&D. Since we tend to adopt the newest tech fast, your eagerness to learn is valued as much as your years of experience. As part of a small, talented team, you will have direct input into implementation decisions and will have a major impact on the development and the contribution of ideas.
+Requirements:
+3+ years of experience with Android
+Preferably experience with making wallpapers and/or smartwatch watch faces
+Experience with using REST APIs and device sensor data (e.g. gyroscope or location
+Responsibilities:
+To build multiple wallpapers and faces for a new device that is coming out next year which means multiple devs working in parallel, each on their own app
+Though code-sharing and helping each other out will be important
+About the project:
+Duration — 2 weeks
+40 hours per week
+The sphere is about to create some components that’ll be included in the firmware with the launch of the new phone
+About Global IT Support
+Global IT Support is a Ukrainian-Dutch outstaffing company that specializes in building IT teams from the best tech talent in Ukraine, the Philippines, and Indonesia. Founded in 2003, it has successfully matched more than 400 remote workers with highly satisfied clients from around the world. Be a part of a winning team!
+What we offer:
+If you make the cut, you can look forward to working on interesting projects with international companies as well as:
+Competitive salary and social package including paid vacations, sick days, and health insurance
+Free English language school
+Performance-oriented company culture
+Flexible work arrangements for optimal work-life balance
+A cozy workspace with modern amenities and friendly atmosphere
+Exciting company events
+Are you ready to make a change? If you are, then click on the Apply button now!
+------------------------
+What we expect from you:
+— Minimum of
+3-4
+years of experience in mobile application management;
+— Understanding of Android best practices for application development;
+— Strong understanding of agile development methodologies;
+— Flexible and proactive/self-motivated working style with strong personal ownership of problem resolution;
+— Ability to multitask and work independently with minimal supervision;
+— Excellent verbal and written communication skills;
+— Ability to work in a fast-paced environment;
+— Experience with Atlassian suite tools (Jira, Confluence, Wiki);
+— Experience in launching mobile products;
+— Experience with analytics tools like FireBase Analytics, Google Analytics, etc.;
+— Experience with RESTful API;
+— Strong understanding of SDLC;
+— Understanding of CI/CD pipeline for Mobile development;
+— Strong understanding of the Android ecosystem;
+— Experience in R&D projects for the Android platform will be an advantage.
+The main tasks:
+— Managing projects throughout the delivery lifecycle;
+— Risk, issue and change management;
+— Collaborating with design and delivery teams to produce coherent project outcomes;
+— Communicating with a range of stakeholders;
+— Management of the developer’s team;
+— Resource planning;
+— People management.
+What do we offer:
+— Work in a stable company with more than
+10-year
+history in the media market;
+— The opportunity to participate in the creation of a media service of the future;
+— Competitive salary;
+— Free English lessons;
+— Swimming lessons and table tennis lessons;
+— Corporate psychologist;
+— Discounts from partner brands for company employees.
+Відповідаючи на вакансію і надіславши своє резюме в Компанію (ТОВ “МЕГОГО”), зареєстровану й діючу відповідно до законодавства України, реєстраційний номер 38347009, адреса: Україна, м. Київ, вул. Новокостянтинівська, 18 В (далі “Компанія”), ви підтверджуєте та погоджуєтеся з тим, що Компанія обробляє ваші особисті дані, представлені у вашому резюме, відповідно до Закону України “Про захист персональних даних” та правил GDPR.
+------------------------
+UPSTARS
+— продуктова IT-компанія, з якою взлітають і люди, і бренди. Ми вміємо запускати зіркові проєкти у сфері iGaming ✨
+Наш основний фокус роботи — послуги B2B і технологічні рішення для клієнтів з усього світу. І так, підтримувати легальний та прозорий ринок України — це маст хев, тому ми третіми в країні отримали B2B-ліцензію на надання послуг у сфері азартних ігор.
+Ми розширюємо свою дрім тім і шукаємо в нашу команду
+Junior+/Middle Android dev (Kotlin/Java)
+✅
+Твої майбутні задачі:
+створення та налаштування програми в кабінеті розробника Facebook;
+створення та налаштування програми в Appsflyer;
+інтеграція Onesignal SDK у додаток;
+інтеграція Firebase SDK;
+замовлення необхідної для розробки графіки у Assist та Mobile Product;
+перевірка інтеграції всіх SDK перед надсиланням на публікацію;
+фінальна настройка та перевірка програми перед передачею арбітражу.
+💪
+Твої скіли:
+впевнені знання в Android SDK
+Git (GitHub, Bitbucket, etc.);
+вміння створювати ігри або додатки на Kotlin/Java;
+розуміння та вміння роботи з XML, JSON;
+розуміння асинхронності в Android (Rx, Coroutines);
+досвід роботи UI/UX дизайном;
+розуміння принципів ООП, SOLID, Clean Architecture, MVVM/MVP.
+🤞
+Бажано, але не критично:
+— досвід розробки клієнт-серверних додатків (REST API);
+— досвід роботи з Google Services;
+— досвід роботи зі сторонніми SDK (Facebook, AppsFlyer, OneSignal);;
+— наявність опублікованих проектів в Google Play;
+— досвід з WebView;
+— досвід роботи з Trello.
+Як буде проходити наше спілкування:
+Розмова з рекрутером
+Ти дізнаєшся більше про компанію, команду та стек технологій. Поділишся своїм досвідом та очікуваннями від посади. Зможеш задати питання та дізнаєшся про наступні кроки.
+Технічне інтерв’ю
+Обговоримо більш детально твій досвід та навички. Можливо, отримаєш тестове завдання, подібне до тих, з якими стикатимешся на даній посаді. Почуєш про майбутні робочі задачі та процеси в команді.
+Фінальна співбесіда
+Познайомишся з лідом чи командою. Дізнаєшся більше про процеси та обговориш технічні питання.
+🌟
+Наші переваги:
+любимо задачі з зірочкою, бо вони розкривають потенціал;
+говоримо прямо і просто, навіть про складне;
+не любимо бюрократію та застарілі підходи — даємо свободу дій;
+маємо власні потужності для створення технологічних рішень з нуля;
+користуємось хмарним сховищем, Kubernetes та іншими складовими цифрової зрілості;
+прагнемо автоматизувати рутину, щоб використовувати час для розвитку та професійного зростання всередині компанії;
+пропонуємо чіткий кар’єрний план з Performance Review, тренінги, менторинг-програми, можливість частково працювати на додаткових проєктах, щоб тестувати інші технології.
+🍪
+Маст-хев:
+віддалена робота — працюй там, де комфортно та безпечно;
+гнучкий початок робочого дня — починай, коли тобі зручно;
+20 днів оплачуваної відпустки, державні вихідні і лікарняні — ми за ворк-лайф беленс;
+медичне страхування у топових клініках — ми турбуємось про твоє здоровʼя;
+Benefit cafe — щомісячно витрачай кошти на уподобання, хобі, спорт, тощо;
+івенти — бери участь у майстер-класах, долучайся до ранкової йоги, відвідуй тім-білдінги та корпоративи;
+навчання, навчання і ще раз навчання — індивідуальний бюджет на курси, корпоративна англійська, воркшопи та онлайн-бібліотека.
+У тобі є прагнення і бажання постійного росту та нових знань? Бажаєш брати активну участь у процесі створення продукту? Давай знайомитися! 😉
+------------------------
+Команда Devlight запрошує талантів, які готові увійти в унікальне середовище професіоналів, людину, яка готова до складних викликів та пропонуватиме неймовірні рішення.
+Необхідні навички:
+Розуміння принципів ООП;
+Знання Java, Android SDK;
+Знання архітектурних підходів Clean Architecture;
+Знання Dagger2, RxJava;
+Вміння працювати з Realm;
+Вміння працювати з кастомними UI елементами.
+Буде плюсом
+Вміння швидко вчитися;
+Вміння чітко виконувати поставлені завдання;
+Хороші комунікаційні та лідерські навички.
+Пропонуємо:
+Конкурентний рівень зп, який базується на аналізі ринку та постійний її перегляд;
+Зручний графік роботи —
+09.30–18.00
+пн-чт,
+09.30–17.00 пт;
+Можливість працювати віддалено;
+Круті проекти, цікаві виклики, можливість постійного росту та розвитку;
+Компенсація професійних курсів, навчаннь, конференціїй, курсів англійської мови;
+Медичне страхування;
+Корпоративні заходи, веселі святкування, тімбілдінги
+Обов’язки:
+Cтворювати мобільні додатки для платформи Android;
+Співпрацювати з між функціональними командами для визначення, розробки та впровадження нових функцій;
+Постійно виявляти, оцінювати та впроваджувати нові технології для максимального підвищення ефективності розвитку.
+Про компанію Devlight
+Devlight is a service company that develops various digital products for businesses. Our team comprises more than 50 people united under the idea of being inspired by innovation and technological challenge. While working on widening the clients’ development horizons, employees of Devlight have no choice but to find remarkable ways to personal growth, professional progress and increasing rates of life satisfaction.
+------------------------
