@@ -1,4 +1,106 @@
-Generated at 12/01/2022, 14:53:12
+Generated at 12/02/2022, 11:27:47
+About the Client:
+Our client is one of Azerbaijan's leading mobile telecommunication providers, with the most significant 49% market share and 5.0 million customers. Together with N-iX, our customer plans to develop a Telco Platform Solution that allows B2B interactions for its impressive customer base.
+Responsibilities:
+Cooperation with the team in order to research, design, implement and maintain a high-quality software system using Flutter technologies to meet internal/external client requirements.
+Requirements:
+-2-3+ years of Flutter framework experience is a must.
+-Mobile development experience with either native or web-to-native tooling and frameworks
+-Experience with state management in Flutter
+-Ability to write effective unit, integration, and end-user automation tests
+-Knowledge of Object-Oriented programming
+-Experience with third-party libraries and APIs
+-Understanding of APIs and how to use them in practice
+-Native Android development experience is highly desirable
+-Strong understanding of Agile methodologies
+-Experience with financial or other application domains with high-security requirements
+-Experience as a developer on a cross-functional agile team preferred
+-Past experience as a frontend developer building modern applications – nice to have
+We offer:
+-Flexible working format - remote, office-based or flexible
+-A competitive salary and good compensation package
+-Flexible and personalized career growth
+-Professional development tools (mentorship program, tech talks and trainings, centers of excellence, and more)
+-Active tech communities with regular knowledge sharing
+-Education reimbursement
+-Paid vacation days, sick leaves, and days off
+-Healthcare & Sport program
+-Medical insurance
+-Memorable anniversary presents
+-Corporate events and team buildings
+------------------------
+Requirements:
+▪️ Significant experience with Flutter, Dart and development tools.
+▪️ Implementing complex user interfaces and navigation flows.
+▪️ Have experienced the full app lifecycle, from initial implementation through to debugging the live apps in the field, ideally several times over.
+▪️ Implementing complex user interfaces and navigation flows.
+▪️ Experience with Agile development methodologies.
+▪️ Experience with common development tools - Git, Fastlane, CI systems such as Jenkins, etc.
+Nice-to-Have Skills:
+▪️ Experience with live video and VOD streams.
+▪️ Experience with custom maps displaying real-time location.
+Responsibilities:
+▪️ Be a key part of delivering projects on Flutter, advising on and implementing best practices.
+▪️ Discuss and input on technical approach for upcoming work with the team.
+▪️ Actively participating in development meetings.
+▪️ Liaising with the technical lead to identify and work through problems.
+▪️ Following company and project standards and processes, contributing to
+documentation by creating and updating as necessary.
+▪️ Keeping up to date with Flutter and mobile technology, contributing ideas
+on technologies we should look at and how we can improve our projects.
+Interview stages:
+▪️ HR-interview (30 minutes).
+▪️ Technical interview (1 hour).
+▪️ Interview with the customer (1 hour).
+▪️ Job offer🎉🎉🎉
+We offer:
+▪️ Competitive salary.
+▪️ Challenging tasks and projects.
+▪️ Personal growth.
+▪️ Flexible working hours.
+▪️ New hardware.
+▪️ Availability of generators and Starlinks in the office.
+▪️ Small gym and table tennis in the office.
+▪️ Adjustable height tables.
+▪️ Regular office fruit delivery and other benefits.
+Let’s create value together!
+------------------------
+Requirements:
+▪️ Significant experience with Flutter, Dart and development tools.
+▪️ Implementing complex user interfaces and navigation flows.
+▪️ Have experienced the full app lifecycle, from initial implementation through to debugging the live apps in the field, ideally several times over.
+▪️ Implementing complex user interfaces and navigation flows.
+▪️ Experience with Agile development methodologies.
+▪️ Experience with common development tools - Git, Fastlane, CI systems such as Jenkins, etc.
+Nice-to-Have Skills:
+▪️ Experience with live video and VOD streams.
+▪️ Experience with custom maps displaying real-time location.
+Responsibilities:
+▪️ Be a key part of delivering projects on Flutter, advising on and implementing best practices.
+▪️ Discuss and input on technical approach for upcoming work with the team.
+▪️ Actively participating in development meetings.
+▪️ Liaising with the technical lead to identify and work through problems.
+▪️ Following company and project standards and processes, contributing to
+documentation by creating and updating as necessary.
+▪️ Keeping up to date with Flutter and mobile technology, contributing ideas
+on technologies we should look at and how we can improve our projects.
+Interview stages:
+▪️ HR-interview (30 minutes).
+▪️ Technical interview (1 hour).
+▪️ Interview with the customer (1 hour).
+▪️ Job offer🎉🎉🎉
+We offer:
+▪️ Competitive salary.
+▪️ Challenging tasks and projects.
+▪️ Personal growth.
+▪️ Flexible working hours.
+▪️ New hardware.
+▪️ Availability of generators and Starlinks in the office.
+▪️ Small gym and table tennis in the office.
+▪️ Adjustable height tables.
+▪️ Regular office fruit delivery and other benefits.
+Let’s create value together!
+------------------------
 Ми впевненні, що успіх будь-якого бізнесу — це співробітники. Компанія створює комфортні умови для формування та розвитку колективу професіоналів — однодумців, що прагнуть до самореалізації і досягнення корпоративних цілей.
 Компанія MOYО завжди рада вітати у своїй команді талановитих фахівців, професіоналів своєї справи, готових розвиватися, шукати нестандартні рішення, підтримувати темп компанії і рухати її вперед. Якщо ви вважаєте себе таким — запрошуємо в нашу команду.
 Наразі ми в пошуках фахівця на посаду Flutter Developer, який розділяє наші цінності та прагне стати частиною нашої компанії. .

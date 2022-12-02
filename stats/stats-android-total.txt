@@ -1,0 +1,138 @@
+number of vacancies: 215
+android: 202
+kotlin: 184
+java: 145
+android sdk: 85
+mvvm: 84
+git: 79
+rest: 72
+solid: 55
+mvp: 51
+firebase: 48
+retrofit: 43
+room: 40
+ios: 37
+kotlin coroutines: 35
+dagger: 31
+jetpack compose: 31
+clean architecture: 30
+rxjava: 25
+ci/cd: 25
+sqlite: 23
+android studio: 22
+swift: 21
+gradle: 21
+mvi: 20
+jenkins: 17
+xml: 17
+jira: 16
+linux: 15
+aosp: 14
+hilt: 13
+realm: 13
+tdd: 12
+flutter: 11
+github: 11
+livedata: 11
+okhttp: 11
+crashlytics: 10
+html: 10
+react: 10
+junit: 10
+koin: 9
+sql: 9
+mvc: 8
+mockito: 8
+websockets: 8
+flavors: 8
+ble: 7
+react native: 7
+gitlab: 7
+nimble: 6
+iot: 6
+gson: 6
+javascript: 6
+bitbucket: 6
+glide: 6
+python: 6
+android ndk: 5
+bdd: 5
+workmanager: 5
+graphql: 4
+databinding: 4
+vision: 4
+appsflyer: 3
+objective-c: 3
+bash: 3
+fragment: 3
+contentprovider: 3
+ionic: 3
+espresso: 3
+human interface guidelines: 3
+dart: 2
+kodein: 2
+nfc: 2
+navigation component: 2
+redux: 2
+speech: 2
+stripe: 2
+timber: 2
+uikit: 2
+viewbinding: 2
+webrtc: 2
+xcode: 2
+ansible: 2
+xamarin: 2
+touch point architecture: 2
+listadapter: 2
+groupie: 2
+epoxy: 2
+rxkotlin: 2
+protobuf: 2
+custom view: 2
+swagger: 2
+hls: 2
+owasp: 2
+voip: 2
+firebase analytics: 2
+gcm: 2
+maven: 2
+ktor: 2
+volley: 2
+intent: 2
+android wear: 2
+onesignal: 2
+apple pay: 1
+bloc: 1
+camerax: 1
+charts: 1
+cocoapods: 1
+coil: 1
+exoplayer: 1
+facebook sdk: 1
+firebase dynamic links: 1
+lottie: 1
+mqtt: 1
+mapbox: 1
+moshi: 1
+mysql: 1
+picasso: 1
+socketio: 1
+sonarqube: 1
+viper: 1
+ios sdk: 1
+robolectric: 1
+arcgis: 1
+frida: 1
+burp: 1
+ghidra: 1
+mdm: 1
+combine: 1
+fastlane: 1
+google analytics: 1
+swift package manager: 1
+swiftui: 1
+wake-locks: 1
+sqldelight: 1
+assertj: 1
+sdlc: 1

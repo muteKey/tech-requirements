@@ -1,5 +1,6 @@
 import csv
 from datetime import datetime
+import re
 
 class StatsCounter:
     def __init__(self, in_file, tech_file, delimeter, out_file):
@@ -15,8 +16,8 @@ class StatsCounter:
     
     def check(self):
         for text in self.texts:
-            for key in self.technologies.keys():                
-                if key in text.lower():
+            for key in self.technologies.keys():
+                if self.whole_word_search(key, text.lower()):
                     value = self.technologies[key]
                     self.technologies[key] = value + 1
         
@@ -31,6 +32,10 @@ class StatsCounter:
                 if value > 0:
                     f.write('%s: %s\n' % (key, value))
 
+    def whole_word_search(self, string1, string2):
+        if re.search(r"\b" + re.escape(string1) + r"\b", string2):
+            return True
+        return False
 
 
 

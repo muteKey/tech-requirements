@@ -1,103 +1,127 @@
-number of vacancies: 146
-swift: 137
-ios: 130
-ble: 90
-git: 56
-objective-c: 49
+Generated at 12/02/2022, 17:52:35
+number of vacancies: 148
+ios: 132
+swift: 131
+objective-c: 50
+git: 46
+uikit: 40
+rest: 40
 firebase: 38
-uikit: 38
-swiftui: 37
-mvvm: 35
-solid: 35
-mvc: 27
-combine: 25
+mvvm: 37
+solid: 37
+swiftui: 35
+mvc: 26
+combine: 24
 ios sdk: 23
-react: 22
-rxswift: 20
-vision: 19
-realm: 18
-gcd: 18
-alamofire: 17
+rxswift: 21
+realm: 20
+gcd: 19
 coredata: 17
-xcode: 17
-android: 15
-ci/cd: 15
+alamofire: 16
+xcode: 15
+android: 14
 cocoapods: 14
 viper: 14
-jira: 13
-java: 12
+ci/cd: 14
+jira: 12
 macos: 11
-fastlane: 10
-mvp: 9
-tdd: 9
+autolayout: 11
+mvp: 10
+spm: 10
+fastlane: 9
+java: 9
+react: 9
 clean architecture: 8
-dio: 8
+tdd: 8
 github: 7
 gitlab: 7
-xctest: 7
-c++: 6
 crashlytics: 6
-sql: 6
 swift package manager: 6
+storekit: 6
 websockets: 6
+xctest: 6
 bitbucket: 5
 kotlin: 5
+lottie: 5
 react native: 5
-room: 5
+redux: 5
+sqlite: 5
+vision: 5
 xml: 5
-in-app purchase: 4
-lottie: 4
+tca: 5
+human interface guidelines: 5
 mapkit: 4
-redux: 4
-sqlite: 4
+room: 4
 snapkit: 4
+webrtc: 4
+swagger: 4
 avfoundation: 3
 appsflyer: 3
-bloc: 3
 composable architecture: 3
 coreanimation: 3
 flutter: 3
 google analytics: 3
-html: 3
+graphql: 3
 healthkit: 3
 swiftgen: 3
-urlsession: 3
+bdd: 3
 web3: 3
-webrtc: 3
+interface builder: 3
+ribs: 3
+iot: 3
+hls: 3
 afnetworking: 2
 charts: 2
 googlemaps: 2
-javascript: 2
+cloudkit: 2
 python: 2
 swiftlint: 2
 swinject: 2
-teamcity: 2
 testflight: 2
+urlsession: 2
 arcgis: 2
 protocol buffers: 2
-ionic: 2
+protobuf: 2
+frp: 2
+rtmp: 2
+owasp: 2
+deeplinks: 2
+onesignal: 2
+voip: 2
+audiotoolbox: 2
+hig: 2
 arkit: 1
-android sdk: 1
 android studio: 1
 appkit: 1
 apple pay: 1
+ble: 1
 carthage: 1
 corebluetooth: 1
-dart: 1
 facebook sdk: 1
 firebase analytics: 1
 gradle: 1
-graphql: 1
+html: 1
+in-app purchase: 1
+javascript: 1
 mqtt: 1
 mvi: 1
 mapbox: 1
 moya: 1
-mysql: 1
+bash: 1
 promisekit: 1
 redmine: 1
+sql: 1
 scenekit: 1
 spritekit: 1
 stripe: 1
 jenkins: 1
 xamarin: 1
-frida: 1
+ionic: 1
+uiscenedelegate: 1
+starscream: 1
+sourcery: 1
+screentime api: 1
+mdm: 1
+pdfkit: 1
+multipeer connectivity: 1
+universal links: 1

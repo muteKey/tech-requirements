@@ -1,4 +1,307 @@
-Generated at 12/01/2022, 14:46:19
+Generated at 12/02/2022, 17:52:33
+About project
+As a member of the Engineering team, you will be responsible for the development and maintenance of the Home Monitoring System mobile applications. The primary functions of the iOS Mobile Engineer are the design and development of iOS applications to support the HMS system. The Mobile Engineer ensures that the applications will be created and deployed in a timely fashion and maintained to a high quality and in accordance with the procedures and systems.
+Required Skills
+3+ experience in mobile development
+Strong experience in Swift
+Past experience with shipping production mobile applications
+Ability to create clean, precise coding
+English – Intermediate+
+We offer
+Exchange of experience, professional development
+Flexible working time
+20 days paid vacation
+Paid sick leave
+8-hour working day and 5-day working week
+Good office location
+English classes at company expense
+Partial payment for gym memberships
+Partial payment for courses and certifications
+Regular company events
+------------------------
+Запрошуємо
+IOS Developer
+в IT-команду EasyPay, яка займається розробкою нашого мобільного додатку EasyPay.
+Мобільний додаток EasyPay дозволяє оплачувати послуги та здійснювати грошові перекази онлайн за допомогою банківських карток та електронних коштів. Більше 3000 сервісів доступно для зручної оплати у додатку EasyPay.
+Про проект:
+👉Мобільний додаток на IOS існує з 2015 року.
+👉Проект без легасі коду.
+👉 Активно використовується, постійно допрацьовується та вдосконалюється.
+Зараз в команді мобільних розробників 3 Android Developers, шукаємо IOS розробника з:
+- амбіціями, новими ідеями та бажанням розвиватися до рівня TL.
+- умінням працювати як у команді, так і індивідуально розбиратися з проектом.
+- бажанням вирішувати завдання всіх видів складності.
+- можливістю віддаленої роботи.
+Тебе очікують:
+-	Задачі, повязані з авторизацією користувача;
+-	Особистий кабінет клієнта та його конфігурація;
+-	Весь платіжний флоу (розробка екранів оплати);
+-	Ідентифікація та верифікація користувачів через BankID і Дія;
+-	Підключення та інтеграція з такими методами оплати, як GPay та ApplePay;
+-	Токенізація карт з використанням сервісів VTS.
+Що для нас важливо:
+ Рівень знань Middle+
+ 2+ роки досвіду роботи з платформою Swift та iOS;
+ Володіння UIKit, custom views;
+ Досвід роботи з Version Control Systems (наприклад, Git);
+ Використання Clean Code/ принципів SOLID;
+ Володіння паттернами MVVM або MVP.
+Наш стек:
+ Swift 5, UIKit, iOS 12+
+ MVVM, ReactiveKit, Firebase
+ Cocoapods, SPM
+Ми пропонуємо:
+ Віддалений формат роботи
+ При бажанні - офіс зі смачною кавою на Подолі (ст.м. Т. Шевченко)
+ Офіційне оформлення та оплачувана відпустка 24 календарних дні.
+ Корпоративні заходи, свята і особливі дати - як тільки закінчиться війна
+ ЗП за результатами співбесіди.
+------------------------
+Твоїми основними задачами будуть:
+- Розробка функціоналу для iOS-додатку
+- Взаємодія із зовнішніми джерелами даних та API
+- Розробка функціональних інтерфейсів
+- Написання чіткого та змістовного коду
+- Релізитися згідно з затвердженим роадмепом
+- Працювати разом з продуктовою командою: брати участь в плануванні, пріоритизації, вдосконаленні та обговоренні функціоналу
+- Брати участь в спільних внутрішніх проектах компанії для обміну досвідом
+Навички та досвід:
+- 2+ роки комерційного досвіду в iOS розробці
+- Базове знання iOS SDK
+- Розуміння циклу розробки програмного забезпечення
+- Розуміння дизайн патернів, SOLID, OOP та POP
+- Досвід розробки багатопотокового, асинхронного коду
+- Гарне розуміння управління пам’яттю
+- Досвід роботи з вебсервісами RESTful
+- Досвід роботи з GIT
+- Глибоке знання CoreData
+Що ми пропонуємо тобі:
+- Віддалену роботу та гнучкий графік  (починаючи з 8 до 11 ранку, 8-годинний робочий день)
+- 20 робочих днів (4 календарних тижні) оплачуваної відпустки
+- Повністю покрите медичне страхування, 15 днів оплачуваних лікарняних та 3 сікліви без довідки
+- Організацію релокейту при необхідності
+- Компенсацію абонементу в спортзал, басейн та групових занять спортом
+- Середовище для розвитку та зростання: корпоративна англійська мова, професійні курси, регулярні огляди ефективності, корпоративна бібліотека
+- Круті корпоративи та тімбілдінги, забіги та святкування досягнень команд
+- Вільну від бюрократії культуру: питання вирішуються швидко, а нові ідеї та пропозиції завжди вітаються.
+------------------------
+A New Silicon Valley-based profitable B2C product startup building innovative mobile solutions for the planet is now looking for a Team Lead iOS Engineer.
+Based in Silicon Valley and backed by top-tier VCs is a new mobile innovator delivering exciting new products for consumers across the planet.
+The company has a flagship VPN application that drives ~10M MAUs. There are others in the portfolio as well as others in development.
+The ideal person for this vacancy should have a great attitude, drive, and a sense of pride and ownership in what they do.
+Responsibilities include but are not limited to:
+Work on multiple applications
+Build new applications from scratch
+Lead, manage, motivate, and mentored the mobile development team
+Requirements:
+5+ years of experience building mobile applications for iOS
+BS in Computer Science or equivalent
+Experience leading a team
+Proficient in Swift and Objective-C
+Expert knowledge of the App Store ecosystem
+Background integrating attribution, analytics, and ads SDKs in the iOS applications
+Experience building apps in the Productivity or Gaming verticals - is a plus
+Experience with macOS - is a plus
+Ability to work with minimum supervision
+Good communication skills - both verbal and written
+Have a lot of positive energy, drive, and a sense of ownership at both engineering and business levels.
+English - Intermediate+
+------------------------
+The product’s primary market is Tier-1 region, including the USA, UK, Canada, and leading European countries. As a part of our team, you will get a chance to dive into a well-structured and creative product evolution process.
+About your key responsibilities and impact:
+ Develop and maintain our high-performance app using progressive approaches for the iOS platform
+ Write clean, testable code by following SOLID principles
+ Collaborate with all team members on the search for ideas, concept creation, design process and development of new functions
+ Understand the business needs and influence the product
+ Take a proactive position in technical solutions to solve our most burning business challenges
+About you:
+ 3+ years of iOS development commercial experience
+ Deep Swift and iOS SDK knowledge
+ Architectures knowledge and understanding (MVVM+Clear architecture)
+ Deep Git and Git patterns and best practices knowledge (GitFlow, TBD etc.)
+ Reactive programming (Combine)
+ Code Signing and Provisioning Code
+ UIKit in depth
+ GoogleSDK, FBSDK, Lottie (optional)
+ Multithreading in depth
+ Intermediate level of English or higher
+What we offer:
+●
+Top-rated products
+. Our products are reaching top positions in their categories on App Store and Google Play. 96 million people around the world use it.
+●
+Remote cooperation
+. Our Kyiv hub is currently closed, and we work remotely from different cities in Ukraine and Europe.
+●
+Professional and personal growth
+. Regular performance-oriented reviews, free English classes, education compensation, access to a corporate library, freedom of suggesting ideas for improvements and action, and flexibility.
+●
+Comfortable conditions
+. Competitive compensation with regular raises, 20 paid days off, along with paid UA holidays, 15 days of paid sick leave, a flexible schedule, modern equipment of your choice, and up-to-date tools.
+●
+Great benefits and relocation support.
+100% coverage of medical insurance, sports compensation, corporate events and team buildings, stylish merch and gifts,  full financial and legal support, and relocation support.
+●
+Highly skilled and friendly team
+. Cooperation in a great area of a mature team and experts in the social networking domain.
+Hiring stages:
+Intro call with a Talent Researcher
+HR Interview
+Interview with the Hiring team
+Reference check
+Offer
+------------------------
+Стек технологій:
+— SWIFT
+— СосоаPods, SPM
+— Git
+— SwiftUI, UIKit
+— Redux, VIPER
+— Combine, RxSwift (basic)
+— RESTful API, websocket, GraphQL
+— Realm
+Про тебе:
+— ти маєш досвід розробки на iOS від 2-х років;
+— тобі подобається впливати, відчувати свою зону відповідальності та працювати на результат;
+— ти trouble shooter;
+— ти командний гравець, завжди готовий допомогти та підстрахувати колегу.
+Буде перевагою:
+— досвід роботи у продуктовій компанії;
+Які цілі стоятимуть перед тобою?
+— разом з командою розвивати мобільні додатки AUTO.RIA та DOM.RIA;
+— підтримувати інфраструктуру;
+— створювати нові модулі;
+— тримати руку на пульсі новинок в індустрії, тестувати та впроваджувати потрібні технології.
+Про етапи співбесід:
+1. Ти відкриваєш нам своє CV. Далі воно потрапляє у руки наших технічних спеціалістів.
+2. Якщо CV буде відібрано, ми домовимося з тобою про зручний час для спілкування в Google Meets.
+3. За результатами першої зустрічі — одразу фідбек або тестове завдання;
+4. Фінальна співбесіда з лідером команди (попередимо тебе про учасників напередодні).
+Як ми працюємо у RIA.com:
+— довіра в команді перш за все: ніякого мікроменеджменту та тайм-трекерів;
+— працюємо у крос-функціональних командах, тому кожен має вплив на технології та продукт без зайвої бюрократії;
+— відкрито пропонуємо лише ті покращення та корисні фічі, які можна виміряти;
+— відкрито ділимось фідбеком;
+— підтримуємо експерименти зі стеком, якщо та чи інша технологія буде оптимальною для наших задач;
+— цінуємо кожного спеціаліста, тож працюємо без жорстких дедлайнів та овертаймів;
+— проводимо performance review кожні півроку;
+— закріпимо за тобою наставника який допоможе адаптуватись, познайомитись з командою, дізнатись більше про продукт, процеси, плани команди, відповідатиме на всі запитання.
+Кожен ріакомівець отримує:
+— персональний підхід професійного розвитку за допомогою внутрішнього та зовнішнього навчання;
+— корпоративну бібліотеку, до якої можна замовляти необхідну професійну літературу;
+— необхідну техніку з першого дня роботи;
+— 8-годинний робочий день (пн-пт) з «гнучким» графіком;
+— можливість працювати віддалено або в гібридному форматі;
+— оплачувані відпустку та лікарняні;
+— бонусна програма для хобі, відпочинку та розвитку;
+— батьківський час (один раз на тиждень);
+— день на чекап здоров'я;
+— компенсації вивчення іноземних мов;
+— послуги корпоративного лікаря та психологів.
+------------------------
+WHAT YOU WILL DO:
+- Develop new features for our IOS App
+- Improve one of our many existing features, including Compliance, GPS tracking, Safety, Bluetooth and USB comms, Camera APIs, etc.
+- Support of the existing application
+- Work with product team to refine feature specs
+- Communicate with back end engineers about API requirements or refinements
+- Help support team to diagnose user problems
+- Analyze our user's data to identify bugs
+REQUIREMENTS:
+- 5+ years experience working on IOS apps
+- Experience in Swift & Objective-C
+- Experience with UIKit, custom views, AlamoFire, Reactive Programming, or database/persistence
+- Experience with Version Control Systems (ex: Git, Mercurial, etc.)
+- Experience in shipment to Apple Store
+THE TECH STACK:
+- It is a mix of the older languages with the newer ones. Swift & Objective-C.
+- The rest of the stack is pretty standard with MVVM for newer parts of the codebase and MVC in the older parts.
+------------------------
+Requirements:
+- 4+ years of experience in development;
+- 3+ years of experience in Swift;
+- solid understanding of the OOP, design patterns, and multithreading;
+- experience working with iOS frameworks such as Core Data, Realm, Firebase, Push Notifications, Fabric, Google Maps, and Payment systems integration;
+- Git;
+- Upper-intermediate level English is a must.
+Responsibilities:
+- Support the whole application;
+- Facilitate application troubleshooting and bug fixes to guarantee that the code is clean and safe;
+- Recommend improvements and modifications;
+- Keep up with the latest mobile technology developments, apps, and procedures".
+Will be a plus:
+- knowledge of Objective-C;
+- knowledge and application of Agile, SCRUM;
+- WebRTC.
+Gelios
+is a unique place for work, development, and growth!
+If you liked our vacancy — we are waiting for your CV!
+Have a nice day :)
+------------------------
+Про компанію та проект:
+Є кілька продуктів, розробка поділяється на дві частини:  мейтенанс і доробка фіч на існуючі, плюс розробка нових фіч. Всі пов'язані з розрахунками маршрутів та палива, маси літака та дистанцій зльоту, посадки.
+Команда:  Розробка на Swift - (Team Lead and 7 iOS Developers)
+Необхідний досвід та навички:
+- 4+ years of experience in IOS development
+- Commercial experience with Objective-C and/or Swift
+- Multithreading, GCD
+- CoreData, SQLite
+- UIKit, auto layout
+- Restful services integration
+- Data structures, basic patterns, and algorithms
+- Unit testing
+- Experience in publishing and updating applications in the AppStore
+- English: Upper-Intermediate
+Обов'язки:
+- As an iOS developer, you will be involved in developing all components and new features
+- We use multithreading so you should know how to work with GCD. We employ CoreData and SQLite for flights and other data storage
+- UIKit and Auto Layout help us to dynamically change the interface on all devices
+- You understand REST API architecture and know how to create client-side requests to use it
+- Using Scrum methodology allows us to plan work in the most effective way.
+- Optimize previous code when making changes to existing modules
+- Perform pre-testing and installing the program before passing it to QA, Apply test coverage for the code when needed
+- Adapt the program to new requirements, if necessary
+- Document code development, provide methods and classes comments (wiki and in-line documentation; UML diagrams, sequence diagrams, etc if needed)
+- Provide verbose comments with each code commit in the version control system
+- Cooperation and consulting members of all teams, including assistance to testers and support personnel as needed to determine system problems;
+Умови роботи:
+- 20 днів відпустки та 10 лікарняних
+- В середньому 2-3 мітинги на день
+- Є performance review на яких обговорюються  результати працівника та проговорюються наступні цілі
+- Надається  техніка для роботи
+- Медичне страхування
+- Курси англійської
+- Супровід бухгалтера
+- Локально ви маєте проживати у Львові або в разі оферу бути готовим одразу переїхати у Львів. Якщо ви з іншого міста компанія допоможе у релокейті
+------------------------
+Це австрійська продуктова компанія з розробки neobank продуктів для ринку Польщі і Румунії.
+Зараз пропонують два напрямки, які розробляються для ЄС:
+- додаток для швидких кредитів без походу до банку для Польщі.
+- банківська програма — швидкі платежі та перекази в Польщі та Румунії. Користувачі зможуть керувати депозитами, автоматично сплачувати податки, керувати картками, історіями транзацій і т.п.
+У компанії присутні стартап підходи та відсутність бюрократії.
+Пропонують:
+- мед. страхування;
+- відпускні та лікарняні — 20/10 робочих днів;
+- послуги бухгалтера;
+- курси англійської;
+- надають техніку — MacBook;
+- бюджет на сертифікації та ІТ-конференції.
+Команда:
+У команді 5 iOS розробників, 1 лід, всі працюють віддалено по Україні та за межами.
+Основні вимоги:
+досвід на позиції iOS, досвід із Swift, розмовна англійська.
+Буде плюсом:
+досвід з GraphQL, досвід з application security.
+------------------------
+1-3 years of experience as an IOS developer
+Good English communication skills - (B1-B2)
+WE OFFER:
+- Interesting and challenging experience;
+- Open management and friendly team;
+- Competitive salary level;
+- “Remote-first” company policy (we have an office in Lviv, but prefer working remotely with developers from all over Ukraine);
+- Opportunity for professional growth;
+------------------------
 🔸What you bring:
 - 4+ years of experience as iOS Developer
 - experience with Swift, SwiftUI, UIKit, Combine
@@ -143,24 +446,6 @@ Collaborate with cross-functional teams to define, design, and ship new features
 Work with outside data sources and APIs
 Continuously discover, evaluate, and implement new technologies to maximize development efficiency
 Drive engineering from concept to finished product
-------------------------
-WHAT YOU WILL DO:
-- Develop new features for our IOS App
-- Improve one of our many existing features, including Compliance, GPS tracking, Safety, Bluetooth and USB comms, Camera APIs, etc.
-- Support of the existing application
-- Work with product team to refine feature specs
-- Communicate with back end engineers about API requirements or refinements
-- Help support team to diagnose user problems
-- Analyze our user's data to identify bugs
-REQUIREMENTS:
-- 5+ years experience working on IOS apps
-- Experience in Swift & Objective-C
-- Experience with UIKit, custom views, AlamoFire, Reactive Programming, or database/persistence
-- Experience with Version Control Systems (ex: Git, Mercurial, etc.)
-- Experience in shipment to Apple Store
-THE TECH STACK:
-- It is a mix of the older languages with the newer ones. Swift & Objective-C.
-- The rest of the stack is pretty standard with MVVM for newer parts of the codebase and MVC in the older parts.
 ------------------------
 Itera Research invites middle IOS developers to join our team!
 Project - mobile banking
@@ -625,29 +910,6 @@ HR, Tech, PM, Client
 - there is a performance review after each year of our collaboration where we use a skills map to track your growth;
 - we really have no boundaries in the truest sense of the word – we have a flexible working day, remote or office is up to you.
 ------------------------
-Пам’ятаєш себе на старті кар'єри? Багатьом із нас не вистачало сильного ментора, який підкаже, спрямує, обговорить з тобою різні підходи, рішення, тренди.
-Менторство — чудовий шанс здобути нові навички, поглянути на старі задачі з іншої точки зору, структурувати базові знання і, звісно, допомогти студентам.
-Що потрібно, щоб стати ментором в нашій команді:
-- Комерційний досвід роботи в якості iOS розробника від 2-х років
-- Впевнені знання і досвід використання Swift, UIKit, XCTest, Auto Layout, Storyboard, SwiftUI, App Store publications
-- Бажання навчати і допомогати початківцям
-- Вміння пояснювати, знаходити підхід до різних людей
-Обов'язки:
-— перевірка завдань (код-рев'ю)
-— відповіді на питання студентів
-— надання рекомендацій
-Можливості, які ти отримаєш:
-- Спробуєш себе в якості ментора, а mentorship навички важливі для ролі Lead’а: +1 до твого резюме і особистого бренду
-- Покращиш свої навички комунікації
-- Розшириш коло своїх знайомств
-- Сам краще розберешся у нюансах програмування у процесі навчання інших
-- Допоможеш студентам розпочати омріяну кар'єру
-- Додатковий дохід за приємну справу
-- Можливо, зустрінеш ідеального колегу в свою команду
-Ми пропонуємо:
-— Віддалену роботу без відриву від основної, при якій ти зможеш самостійно розподіляти своє навантаження і менторити стільки студентів, скільки забажаєш
-— Оплату, яка залежить від кількості студентів: 40% від вартості навчання за кожного студента
-------------------------
 Команда:
 2 IOS, 2 Android, PRM, Architect, 2 UX/UI, BA, 2 DevOps
 Стек:
@@ -749,28 +1011,6 @@ Work (War) — Life Balance
 Health Care:
  корпоративне медичне страхування
 Якщо ти шукаєш драйвову та амбіційну продуктову компанію, орієнтовану на розвиток та світову експансію, зацікавлений у використанні новітніх технологій та готовий далі підвищувати свою експертизу, приєднуйся до команди Uklon.
-------------------------
-A New Silicon Valley-based profitable B2C product startup building innovative mobile solutions for the planet is now looking for a Team Lead iOS Engineer.
-Based in Silicon Valley and backed by top-tier VCs is a new mobile innovator delivering exciting new products for consumers across the planet.
-The company has a flagship VPN application that drives ~10M MAUs. There are others in the portfolio as well as others in development.
-The ideal person for this vacancy should have a great attitude, drive, and a sense of pride and ownership in what they do.
-Responsibilities include but are not limited to:
-Work on multiple applications
-Build new applications from scratch
-Lead, manage, motivate, and mentored the mobile development team
-Requirements:
-5+ years of experience building mobile applications for iOS
-BS in Computer Science or equivalent
-Experience leading a team
-Proficient in Swift and Objective-C
-Expert knowledge of the App Store ecosystem
-Background integrating attribution, analytics, and ads SDKs in the iOS applications
-Experience building apps in the Productivity or Gaming verticals - is a plus
-Experience with macOS - is a plus
-Ability to work with minimum supervision
-Good communication skills - both verbal and written
-Have a lot of positive energy, drive, and a sense of ownership at both engineering and business levels.
-English - Intermediate+
 ------------------------
 The candidates have to be based only in Poland.
 Information about the project: developing mobile application for customers in automotive sphere.
@@ -1966,37 +2206,6 @@ Requirements:
 - Experience with third-party libraries and APIs
 - Experience with writing Unit Tests + understanding of TDD
 - Familiarity with RESTful APIs to connect iOS applications to backend services
-- Experience with development of apps and publishing apps to the App Store
-- Experience with Push Notifications
-- Experience with In App Purchases
-- Experience with using automation tools such as Fastlane
-- English at a Pre-intermediate level or higher
-- Understanding of Mobile Device Management (MDM) and experience with ScreenTime API and SwiftUI as a plus
-Responsibilities:
-- Design, develop and maintain native mobile applications for iOS
-- Provide your expertise on iOS-related issues
-- Collaborate with a team to define, design, and ship new features
-- Participate in code-review sessions
-We offer:
-- Competitive reward for the provided services
-- Professional development opportunities under the supervision of senior professionals
-- Exciting and challenging work opportunities on the projects with various technologies
-- Signing an agreement for the provision of services
-- Medical insurance after trial period
-- Assistance in paying taxes and in handling paperwork
-- Good compensation package
-- Regular team-building events and corporate parties
-- A huge number of other bonuses:)
-------------------------
-Requirements:
-- Proven commercial experience in iOS development (3+ years)
-- Experience with app development using iOS SDK, Xcode
-- Understanding of mobile UI/UX best practices and standards
-- Proficient with Swift
-- Experience with various architectural patterns such as VIPER etc.
-- Experience with third-party libraries and APIs
-- Experience with writing Unit Tests + understanding of TDD
-- Familiarity with RESTful APIs to connect iOS applications to backend services
 - Experience with the development of apps and publishing apps to the App Store
 - Experience with Push Notifications
 - Experience with In-App Purchases
@@ -2806,31 +3015,6 @@ What we offer for you to succeed
 - No tiresome bureaucracy, if you need something — just ask and get it.
 Our employees describe working here as a welcoming, collaborative, and impactful experience. If you are a creative and energetic person, we cannot wait to see you on board!
 ------------------------
-We are looking for a new senior team member for a new project. The development of the largest Swiss mobile payment application. The app is interoperable with other banking solutions and users can pay in shops and online, as well as transfer money to any phone number. It is about to become the primary payment method in Swiss e-commerce.
-Your profile:
-- Excellent
-knowledge of HTML/CSS
-- Native
-iOS or Android
-experience
-- Open to work on the native migration of a hybrid mobile application
-Your Tasks & Responsibility:
-- Work closely with a team of developers and testers to design, develop and maintain features that meet high quality and security standards
--  Using the following technologies
-HTML5/CSS3, JavaScript, JavaScript ES5, JQuery and/or native iOS or Android (Backend Spring, REST, JSON)
-- Since the solution will be migrated to the native world in the near future, you will have the choice to either work on the current
-hybrid/frontend or on the new native technology stack
-- Depending on your strengths, the project offers the opportunity to develop in different technical leadership roles (e.g. mobile lead developer or mobile lead architect)
-Benefits:
-- 15 paid working days vacation policy
-- Local public holidays off
-- Insurance (for Ukrainian residents only)
-- Co-working space (option available in Kyiv only)
-- Accounting (if the candidate has private entrepreneurship in Ukraine)
-- B2B type of employment
-Time zone - London (GMT)
-Candidates must be willing to work 8 hours per day with core working hours of 10-00 16-00 UK time.
-------------------------
 Requirements:
 3+ years of experience in developing iOS Apps, confident with Swift 5+, UIKit
 Ability to write clear and easy-to-read code with reasonable testing coverage
@@ -2948,35 +3132,6 @@ Deviark шукає Junior - Strong Junior iOS розробника, який х�
 □ Безкоштовні заняття англійської мови;
 □ Доброзичливий та привітний персонал.
 Якщо ви вирішили приєднатися до нас, відправляйте нам своє резюме, і ми зв'яжемося з вами найближчим часом.
-------------------------
-YOU WILL BE RESPONSIBLE FOR:
- Software development and updating;
- Creating documentation for developed products and features;
- Writing maintainable bug-free code;
- Working with previously developed code;
- Interaction&communication with your team and PM.
-WE EXPECT YOU TO HAVE:
- 2+ years of experience with Swift;
- Working experience with Git;
- Understanding and experience with publishing Apps in App Store;
- Good understanding of Alamofire, Multithreading, DeepLinks/Universal Links, Firebase, CI/CD;
- Experience with MVC, CoreData, CocoaPods;
- Experience with IOS development debugging and crash analysis technique;
- Experience integrating with RESTful API’s and JSON;
- Understanding SOLID principles.
-ADVANTAGE FOR CANDIDATES WITH:
- Experience with HTTP/HTTPS, REST API, OAuth, Push Notifications, Offline Data Sync;
- Experience in writing automated tests;
- Experience of development using iPhone SDK and Xcode;
- Understanding and experience with integration of 3rd party libraries, SDKs and frameworks;
- Working with SwiftUI + Combine;
- Experience with objective-c;
- Experience writing custom reusable components, modules using Cocoapods /Swift Package, Analytics; A/B testing and other application functionality using native and third-party frameworks;
- Experience working with JIRA or similar tools.
-WE OFFER:
- Friendly, international work environment;
- Competitive salary;
- 100% remote.
 ------------------------
 Develux offers full-cycle custom software development services and provides the smartest solutions for our customers.
 Now we are looking for a Middle/Senior IOS Developer for our outstaffing projects.
@@ -4124,92 +4279,4 @@ English: C1
 Start date: ASAP
 Duration: long term
 You will collaborate with Mobile and Product teams to bring new and exciting features.  You will design and build new features for our iOS app  You'll set and improve the team's coding and engineering best practices (peer review, testing, retrospectives, test coverage, etc.)  You'll be part of and contribute to the start-up engineering culture of the product!
-------------------------
-REQUIRED SKILLS:
-- 4+ years related job experience with iOS software development
-- Strong skills with Swift UI, UIKit
-- Proved experience with Java (Android)
-- Experience with BLE devices
-- Experience with Firebase
-- Good spoken and written English (Upper-intermediate)
-RESPONSIBILITIES:
-- Research and evaluate technical options to implement business requirements
-- Provide system or technical development expertise to the team
-- Write quality, maintainable code with extensive test coverage in a fast-paced professional software engineering environment
-- Work in close contact with team members and project stakeholders on the customer’s site. Mainly it will be needed to work closely with PO and other teams
-- Suggest technical and functional improvements to add value to the product and support project maintainability and quality
-- Present your work during the Demo sessions
-- Write technical descriptions for tasks based on User Stories
-WHAT WE OFFER:
-— Unlimited work from home
-— Flexible schedule
-— 15 days of annual paid time off
-— 10 days of paid sick leave
-— Minimal bureaucracy
-— Ability to influence company’s processes and project tech stack
-— PE support and tax coverage
-— Free English classes
-— Memorable corporate parties and theme events
-------------------------
-Твоїми основними задачами будуть:
-- Розробка функціоналу для iOS-додатку
-- Взаємодія із зовнішніми джерелами даних та API
-- Розробка функціональних інтерфейсів
-- Написання чіткого та змістовного коду
-- Релізитися згідно з затвердженим роадмепом
-- Працювати разом з продуктовою командою: брати участь в плануванні, пріоритизації, вдосконаленні та обговоренні функціоналу
-- Брати участь в спільних внутрішніх проектах компанії для обміну досвідом
-Навички та досвід:
-- 2+ роки комерційного досвіду в iOS розробці
-- Базове знання iOS SDK
-- Розуміння циклу розробки програмного забезпечення
-- Розуміння дизайн патернів, SOLID, OOP та POP
-- Досвід розробки багатопотокового, асинхронного коду
-- Гарне розуміння управління пам’яттю
-- Досвід роботи з вебсервісами RESTful
-- Досвід роботи з GIT
-- Глибоке знання CoreData
-Що ми пропонуємо тобі:
-- Віддалену роботу та гнучкий графік  (починаючи з 8 до 11 ранку, 8-годинний робочий день)
-- 20 робочих днів (4 календарних тижні) оплачуваної відпустки
-- Повністю покрите медичне страхування, 15 днів оплачуваних лікарняних та 3 сікліви без довідки
-- Організацію релокейту при необхідності
-- Компенсацію абонементу в спортзал, басейн та групових занять спортом
-- Середовище для розвитку та зростання: корпоративна англійська мова, професійні курси, регулярні огляди ефективності, корпоративна бібліотека
-- Круті корпоративи та тімбілдінги, забіги та святкування досягнень команд
-- Вільну від бюрократії культуру: питання вирішуються швидко, а нові ідеї та пропозиції завжди вітаються.
-------------------------
-💰 13 000 -  16 000 PLN net/month
-🌎 100% REMOTELY
-🕦 Full time
-☑️ B2B long-term permanent contract
-Requirements:
-- 3+ years of experience working as a PHP Developer
-- Expertise in SQL, ideally MySQL
-- Familiarity with Git
-- Already familiar with large-scale projects
-- Knowledge of Redis, RabbitMQ, InfluxDB
-- Experience working with PHPUnit
-- Basic knowledge of HTML/CSS/JS
-- Ability to communicate in English
-Nice to have:
-- Experience with Symfony
-- Knowledge of Vue.js
-- Code reviewing
-- Basic knowledge of WordPress, Joomla, PrestaShop
-- External systems integration
-Responsibilities:
-- Development of internal product
-- Designing software architecture
-- Developing back-end using PHP (Symfony, API Platform)
-- Creating front-end in HTML/CSS/jQuery
-- Creating databases in MySQL
-- Creating technical documentation
-Why work with us?
-- Shape the Future: Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world;
-- Own Your Success: Receive attractive remuneration, enjoy an autonomous work culture and flexible hours, apply your expertise to meaningful work every day;
-- Expect Excellence: Collaborate, learn, and grow with a high-performance team;
-- Work in a family atmosphere.
-Referral bonus:
-1000 USD if we hire an engineer based on your recommendation
 ------------------------

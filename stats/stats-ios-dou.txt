@@ -1,21 +1,18 @@
-Generated at 12/01/2022, 17:31:29
+Generated at 12/02/2022, 11:20:09
 number of vacancies: 45
-ios: 40
-swift: 38
-ble: 24
-rest: 22
-git: 20
-hig: 17
+ios: 39
+swift: 35
+git: 17
 solid: 15
 uikit: 15
 mvvm: 14
+rest: 13
 objective-c: 11
 swiftui: 11
 ios sdk: 11
-combine: 9
 firebase: 9
+combine: 8
 mvc: 8
-react: 8
 android: 7
 coredata: 7
 mvp: 7
@@ -28,12 +25,10 @@ xcode: 6
 ci/cd: 6
 autolayout: 6
 alamofire: 5
-vision: 5
 human interface guidelines: 4
 cocoapods: 3
 composable architecture: 3
 github: 3
-in-app purchase: 3
 lottie: 3
 macos: 3
 swiftgen: 3
@@ -41,7 +36,6 @@ tdd: 3
 tca: 3
 coreanimation: 2
 crashlytics: 2
-dio: 2
 fastlane: 2
 graphql: 2
 healthkit: 2
@@ -50,6 +44,7 @@ swift package manager: 2
 swiftlint: 2
 testflight: 2
 storekit: 2
+vision: 2
 webrtc: 2
 websockets: 2
 xctest: 2
@@ -58,12 +53,12 @@ avfoundation: 1
 appsflyer: 1
 auth0: 1
 bitbucket: 1
-c++: 1
 clean architecture: 1
 flutter: 1
 gitlab: 1
 google analytics: 1
 googlemaps: 1
+in-app purchase: 1
 java: 1
 jira: 1
 mqtt: 1
@@ -71,8 +66,8 @@ mvi: 1
 mapkit: 1
 cloudkit: 1
 promisekit: 1
+react: 1
 redux: 1
-sql: 1
 sqlite: 1
 snapkit: 1
 swinject: 1

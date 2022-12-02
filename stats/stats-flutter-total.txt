@@ -1,0 +1,54 @@
+number of vacancies: 70
+flutter: 65
+android: 48
+ios: 40
+dart: 31
+git: 27
+solid: 27
+rest: 16
+ci/cd: 12
+swift: 10
+firebase: 10
+bloc: 9
+java: 9
+redux: 9
+react: 8
+clean architecture: 7
+jira: 6
+sql: 6
+kotlin: 6
+mvp: 6
+websockets: 5
+mvvm: 5
+sqlite: 4
+github: 3
+react native: 3
+vision: 3
+appsflyer: 2
+ble: 2
+bitbucket: 2
+fastlane: 2
+javascript: 2
+mobx: 2
+tdd: 2
+jenkins: 2
+ionic: 2
+android sdk: 2
+graphql: 2
+objective-c: 2
+xamarin: 2
+charts: 1
+dio: 1
+gitlab: 1
+html: 1
+hibernate: 1
+hive: 1
+mysql: 1
+bash: 1
+python: 1
+room: 1
+testflight: 1
+ios sdk: 1
+macos: 1
+retrofit: 1
+webrtc: 1
